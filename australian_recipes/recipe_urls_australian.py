@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 import requests, json, time
 
-all_data = []
 
 try:
+    all_data = []
     url = "https://www.allrecipes.com/recipes/228/world-cuisine/australian-and-new-zealander/"
 
     for i in range(1,29):
@@ -34,8 +34,9 @@ try:
                     data["recipe_urls"] = a_tag['href']
 
                 all_data.append(data)
+
 except:
     raise ValueError("error")
 
 finally:
-	json.dump(all_data,open("recipe_urls_australian.json", "w"), indent = 2)
+	json.dump(unique_list,open("recipe_urls_australian_clean.json", "w"), indent = 2)

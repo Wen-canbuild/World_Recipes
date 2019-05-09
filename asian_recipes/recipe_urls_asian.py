@@ -6,7 +6,7 @@ all_data = []
 try:
     url = "https://www.allrecipes.com/recipes/227/world-cuisine/asian/"
 
-    for i in range(1,173):
+    for i in range(1,174):
 
         url_page = url + "?page=" + str(i)
 
@@ -34,8 +34,10 @@ try:
                     data["recipe_urls"] = a_tag['href']
 
                 all_data.append(data)
+
 except:
     raise ValueError("error")
 
 finally:
-json.dump(all_data,open("recipe_urls_asian.json", "w"), indent = 2)
+
+    json.dump(all_data,open("recipe_urls_asian.json", "w"), indent = 2)

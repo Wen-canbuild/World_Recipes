@@ -1,0 +1,2136 @@
+recipe_id,ing_id,ing_name,cat,continent
+213717,6307,olive oil,condiment,AFR
+213717,4397,onion,plant,AFR
+213717,4432,green bell pepper,plant,AFR
+213717,4342,garlic,spice,AFR
+213717,4572,tomato,plant,AFR
+213717,20551,ground cumin,spice,AFR
+213717,16404,paprika,spice,AFR
+213717,4657,green chile pepper,plant,AFR
+213717,16317,egg,animal,AFR
+152937,6307,olive oil,condiment,AFR
+152937,4279,carrot,plant,AFR
+152937,4397,onion,plant,AFR
+152937,16406,ground black pepper,spice,AFR
+152937,20551,ground cumin,spice,AFR
+152937,16418,ground turmeric,spice,AFR
+152937,4267,cabbage,plant,AFR
+152937,4442,potato,plant,AFR
+13988,4556,sweet potato,plant,AFR
+13988,4339,eggplant,plant,AFR
+13988,4432,green bell pepper,plant,AFR
+13988,4786,red bell pepper,plant,AFR
+13988,4279,carrot,plant,AFR
+13988,4397,onion,plant,AFR
+13988,6307,olive oil,condiment,AFR
+13988,4342,garlic,spice,AFR
+13988,16418,ground turmeric,spice,AFR
+13988,16391,curry powder,spice,AFR
+13988,16386,ground cinnamon,spice,AFR
+13988,16407,cayenne pepper,spice,AFR
+13988,2819,canned chickpeas,plantproduct,AFR
+13988,3767,almond,grain,AFR
+13988,4529,zucchini,plant,AFR
+13988,5219,raisin,plantproduct,AFR
+13988,4516,spinach,plant,AFR
+12960,4397,onion,plant,AFR
+12960,4342,garlic,spice,AFR
+12960,4343,fresh ginger root,spice,AFR
+12960,2829,red lentil,grain,AFR
+12960,2819,canned chickpeas,plantproduct,AFR
+12960,4279,carrot,plant,AFR
+12960,4292,celery,plant,AFR
+12960,16382,ground cardamom,spice,AFR
+12960,16407,cayenne pepper,spice,AFR
+12960,20551,ground cumin,spice,AFR
+12960,6307,olive oil,condiment,AFR
+218769,4397,onion,plant,AFR
+218769,4342,garlic,spice,AFR
+218769,4279,carrot,plant,AFR
+218769,4556,sweet potato,plant,AFR
+218769,2819,canned chickpeas,plantproduct,AFR
+218769,6494,chicken breast,animal,AFR
+218769,20551,ground cumin,spice,AFR
+218769,16418,ground turmeric,spice,AFR
+218769,16386,ground cinnamon,spice,AFR
+218769,16406,ground black pepper,spice,AFR
+218769,10498,diced tomato,plantproduct,AFR
+8687,6307,olive oil,condiment,AFR
+8687,4342,garlic,spice,AFR
+8687,4397,onion,plant,AFR
+8687,4442,potato,plant,AFR
+8687,20551,ground cumin,spice,AFR
+8687,18844,ground coriander,spice,AFR
+8687,16406,ground black pepper,spice,AFR
+8687,20244,crushed red pepper,spice,AFR
+8687,2819,canned chickpeas,plantproduct,AFR
+73090,6307,olive oil,condiment,AFR
+73090,4397,onion,plant,AFR
+73090,4786,red bell pepper,plant,AFR
+73090,4342,garlic,spice,AFR
+73090,4664,crushed tomato,plantproduct,AFR
+73090,23274,vegetable broth,plantproduct,AFR
+73090,16406,ground black pepper,spice,AFR
+73090,16385,chili powder,spice,AFR
+69633,6307,olive oil,condiment,AFR
+69633,6494,chicken breast,animal,AFR
+69633,4397,onion,plant,AFR
+69633,4342,garlic,spice,AFR
+69633,2819,canned chickpeas,plantproduct,AFR
+69633,4279,carrot,plant,AFR
+69633,10498,diced tomato,plantproduct,AFR
+69633,23274,vegetable broth,plantproduct,AFR
+69633,1526,white sugar,condiment,AFR
+69633,5107,lemon juice,plantproduct,AFR
+69633,18844,ground coriander,spice,AFR
+69633,16407,cayenne pepper,spice,AFR
+18182,6494,chicken breast,animal,AFR
+18182,4397,onion,plant,AFR
+18182,4342,garlic,spice,AFR
+18182,4279,carrot,plant,AFR
+18182,4292,celery,plant,AFR
+18182,4343,fresh ginger root,spice,AFR
+18182,16404,paprika,spice,AFR
+18182,20551,ground cumin,spice,AFR
+18182,16407,cayenne pepper,spice,AFR
+18182,16418,ground turmeric,spice,AFR
+18182,4664,crushed tomato,plantproduct,AFR
+18182,2819,canned chickpeas,plantproduct,AFR
+18182,4529,zucchini,plant,AFR
+18182,5107,lemon juice,plantproduct,AFR
+47439,6307,olive oil,condiment,AFR
+47439,4397,onion,plant,AFR
+47439,4342,garlic,spice,AFR
+47439,16380,bay leaf,spice,AFR
+47439,4574,canned tomatoes,plantproduct,AFR
+47439,16391,curry powder,spice,AFR
+47439,5106,lemon,plant,AFR
+105044,6307,olive oil,condiment,AFR
+105044,3024,lamb,animal,AFR
+105044,16404,paprika,spice,AFR
+105044,16418,ground turmeric,spice,AFR
+105044,20551,ground cumin,spice,AFR
+105044,16407,cayenne pepper,spice,AFR
+105044,16386,ground cinnamon,spice,AFR
+105044,16387,ground clove,spice,AFR
+105044,16382,ground cardamom,spice,AFR
+105044,16397,ground ginger,spice,AFR
+105044,16413,saffron,spice,AFR
+105044,16396,garlic powder,spice,AFR
+105044,18844,ground coriander,spice,AFR
+105044,4397,onion,plant,AFR
+105044,4279,carrot,plant,AFR
+105044,4342,garlic,spice,AFR
+105044,4343,fresh ginger root,spice,AFR
+105044,16133,chicken broth,animal,AFR
+105044,1502,honey,animal,AFR
+105044,1636,cornstarch,plantproduct,AFR
+217109,16386,ground cinnamon,spice,AFR
+217109,20551,ground cumin,spice,AFR
+217109,16397,ground ginger,spice,AFR
+217109,16387,ground clove,spice,AFR
+217109,16401,ground nutmeg,spice,AFR
+217109,16418,ground turmeric,spice,AFR
+217109,16391,curry powder,spice,AFR
+217109,16157,butter,dairy,AFR
+217109,20415,sweet onion,plant,AFR
+217109,23274,vegetable broth,plantproduct,AFR
+217109,2819,canned chickpeas,plantproduct,AFR
+217109,4574,canned tomatoes,plantproduct,AFR
+217109,4442,potato,plant,AFR
+217109,4556,sweet potato,plant,AFR
+217109,4279,carrot,plant,AFR
+217109,2829,red lentil,grain,AFR
+217109,5007,dried apricot,plantproduct,AFR
+217109,1502,honey,animal,AFR
+217109,16406,ground black pepper,spice,AFR
+217109,1636,cornstarch,plantproduct,AFR
+55207,6305,vegetable oil,condiment,AFR
+55207,4397,onion,plant,AFR
+55207,4342,garlic,spice,AFR
+55207,4343,fresh ginger root,spice,AFR
+55207,20551,ground cumin,spice,AFR
+55207,18844,ground coriander,spice,AFR
+55207,16386,ground cinnamon,spice,AFR
+55207,16387,ground clove,spice,AFR
+55207,4572,tomato,plant,AFR
+55207,4556,sweet potato,plant,AFR
+55207,4279,carrot,plant,AFR
+55207,16407,cayenne pepper,spice,AFR
+55207,2858,peanut butter,grain,AFR
+55207,3717,fresh cilantro,spice,AFR
+48121,6305,vegetable oil,condiment,AFR
+48121,4397,onion,plant,AFR
+48121,4556,sweet potato,plant,AFR
+48121,4342,garlic,spice,AFR
+48121,16133,chicken broth,animal,AFR
+48121,20551,ground cumin,spice,AFR
+48121,2819,canned chickpeas,plantproduct,AFR
+48121,4529,zucchini,plant,AFR
+48121,2858,peanut butter,grain,AFR
+217952,20269,red onion,plant,AFR
+217952,4342,garlic,spice,AFR
+217952,4343,fresh ginger root,spice,AFR
+217952,6494,chicken breast,animal,AFR
+217952,16407,cayenne pepper,spice,AFR
+217952,13968,chicken stock,animal,AFR
+217952,4556,sweet potato,plant,AFR
+217952,10498,diced tomato,plantproduct,AFR
+217952,4306,collard greens,plant,AFR
+180014,6307,olive oil,condiment,AFR
+180014,4339,eggplant,plant,AFR
+180014,4397,onion,plant,AFR
+180014,4279,carrot,plant,AFR
+180014,5007,dried apricot,plantproduct,AFR
+180014,16133,chicken broth,animal,AFR
+180014,3640,tomato paste,plantproduct,AFR
+180014,5107,lemon juice,plantproduct,AFR
+180014,1684,all-purpose flour,grain,AFR
+180014,20551,ground cumin,spice,AFR
+180014,16397,ground ginger,spice,AFR
+180014,16386,ground cinnamon,spice,AFR
+180014,16406,ground black pepper,spice,AFR
+180014,1637,couscous,grain,AFR
+83565,6305,vegetable oil,condiment,AFR
+83565,4397,onion,plant,AFR
+83565,16380,bay leaf,spice,AFR
+83565,16386,ground cinnamon,spice,AFR
+83565,16418,ground turmeric,spice,AFR
+83565,16407,cayenne pepper,spice,AFR
+83565,6494,chicken breast,animal,AFR
+83565,2819,canned chickpeas,plantproduct,AFR
+83565,4664,crushed tomato,plantproduct,AFR
+83565,16133,chicken broth,animal,AFR
+83565,4279,carrot,plant,AFR
+83565,4529,zucchini,plant,AFR
+13443,16418,ground turmeric,spice,AFR
+13443,16406,ground black pepper,spice,AFR
+13443,16386,ground cinnamon,spice,AFR
+13443,16397,ground ginger,spice,AFR
+13443,16407,cayenne pepper,spice,AFR
+13443,4292,celery,plant,AFR
+13443,4397,onion,plant,AFR
+13443,4397,onion,plant,AFR
+13443,3717,fresh cilantro,spice,AFR
+13443,2829,red lentil,grain,AFR
+13443,2819,canned chickpeas,plantproduct,AFR
+13443,16317,egg,animal,AFR
+13443,5106,lemon,plant,AFR
+16738,16157,butter,dairy,AFR
+16738,1526,white sugar,condiment,AFR
+16738,16317,egg,animal,AFR
+16738,1684,all-purpose flour,grain,AFR
+16738,2356,baking powder,other,AFR
+16738,16278,milk,dairy,AFR
+16738,16424,vanilla extract,plantproduct,AFR
+16738,16157,butter,dairy,AFR
+16738,1684,all-purpose flour,grain,AFR
+16738,1636,cornstarch,plantproduct,AFR
+16738,1526,white sugar,condiment,AFR
+16738,16317,egg,animal,AFR
+16738,16386,ground cinnamon,spice,AFR
+105045,20551,ground cumin,spice,AFR
+105045,16397,ground ginger,spice,AFR
+105045,16387,ground clove,spice,AFR
+105045,16407,cayenne pepper,spice,AFR
+105045,16382,ground cardamom,spice,AFR
+105045,18844,ground coriander,spice,AFR
+105045,16377,ground allspice,spice,AFR
+105045,6307,olive oil,condiment,AFR
+105045,20269,red onion,plant,AFR
+105045,4432,green bell pepper,plant,AFR
+105045,4529,zucchini,plant,AFR
+105045,16133,chicken broth,animal,AFR
+105045,1637,couscous,grain,AFR
+105045,18860,fresh mint,spice,AFR
+133895,6305,vegetable oil,condiment,AFR
+133895,4397,onion,plant,AFR
+133895,4342,garlic,spice,AFR
+133895,2819,canned chickpeas,plantproduct,AFR
+133895,4786,red bell pepper,plant,AFR
+133895,4279,carrot,plant,AFR
+133895,4572,tomato,plant,AFR
+133895,5133,black olive,plantproduct,AFR
+133895,4409,fresh parsley,spice,AFR
+133895,20551,ground cumin,spice,AFR
+133895,16404,paprika,spice,AFR
+133895,16407,cayenne pepper,spice,AFR
+68530,6307,olive oil,condiment,AFR
+68530,4397,onion,plant,AFR
+68530,4432,green bell pepper,plant,AFR
+68530,4342,garlic,spice,AFR
+68530,4574,canned tomatoes,plantproduct,AFR
+68530,23274,vegetable broth,plantproduct,AFR
+68530,16406,ground black pepper,spice,AFR
+68530,20244,crushed red pepper,spice,AFR
+68530,1650,white rice,grain,AFR
+68530,2858,peanut butter,grain,AFR
+17596,6307,olive oil,condiment,AFR
+17596,4397,onion,plant,AFR
+17596,4572,tomato,plant,AFR
+17596,20551,ground cumin,spice,AFR
+17596,4409,fresh parsley,spice,AFR
+17596,5107,lemon juice,plantproduct,AFR
+17596,16407,cayenne pepper,spice,AFR
+168959,6307,olive oil,condiment,AFR
+168959,20269,red onion,plant,AFR
+168959,4529,zucchini,plant,AFR
+168959,4279,carrot,plant,AFR
+168959,4786,red bell pepper,plant,AFR
+168959,23274,vegetable broth,plantproduct,AFR
+168959,16404,paprika,spice,AFR
+168959,16382,ground cardamom,spice,AFR
+168959,3717,fresh cilantro,spice,AFR
+168959,2819,canned chickpeas,plantproduct,AFR
+168959,20453,Roma (plum) tomato,plant,AFR
+168959,1637,couscous,grain,AFR
+168959,16404,paprika,spice,AFR
+168959,3767,almond,grain,AFR
+217947,6307,olive oil,condiment,AFR
+217947,4397,onion,plant,AFR
+217947,4342,garlic,spice,AFR
+217947,20551,ground cumin,spice,AFR
+217947,18844,ground coriander,spice,AFR
+217947,16407,cayenne pepper,spice,AFR
+217947,16391,curry powder,spice,AFR
+217947,4442,potato,plant,AFR
+217947,10498,diced tomato,plantproduct,AFR
+217947,4582,tomato sauce,plantproduct,AFR
+217947,2819,canned chickpeas,plantproduct,AFR
+217947,3717,fresh cilantro,spice,AFR
+110025,16386,ground cinnamon,spice,AFR
+110025,20551,ground cumin,spice,AFR
+110025,16397,ground ginger,spice,AFR
+110025,16401,ground nutmeg,spice,AFR
+110025,16407,cayenne pepper,spice,AFR
+110025,16377,ground allspice,spice,AFR
+110025,1526,white sugar,condiment,AFR
+67061,6307,olive oil,condiment,AFR
+67061,4397,onion,plant,AFR
+67061,3640,tomato paste,plantproduct,AFR
+67061,16406,ground black pepper,spice,AFR
+67061,16407,cayenne pepper,spice,AFR
+67061,20244,crushed red pepper,spice,AFR
+67061,7428,Worcestershire sauce,condiment,AFR
+67061,1650,white rice,grain,AFR
+67061,4279,carrot,plant,AFR
+67061,16401,ground nutmeg,spice,AFR
+99244,4279,carrot,plant,AFR
+99244,6307,olive oil,condiment,AFR
+99244,16406,ground black pepper,spice,AFR
+99244,16386,ground cinnamon,spice,AFR
+99244,20551,ground cumin,spice,AFR
+99244,4342,garlic,spice,AFR
+99244,16380,bay leaf,spice,AFR
+99244,5107,lemon juice,plantproduct,AFR
+104405,6305,vegetable oil,condiment,AFR
+104405,4342,garlic,spice,AFR
+104405,6307,olive oil,condiment,AFR
+104405,4409,fresh parsley,spice,AFR
+104405,16404,paprika,spice,AFR
+104405,20551,ground cumin,spice,AFR
+104405,16406,ground black pepper,spice,AFR
+13208,3868,beef stew meat,animal,AFR
+13208,4397,onion,plant,AFR
+13208,16391,curry powder,spice,AFR
+13208,16380,bay leaf,spice,AFR
+13208,4442,potato,plant,AFR
+13208,7842,white vinegar,condiment,AFR
+13905,4342,garlic,spice,AFR
+13905,16404,paprika,spice,AFR
+13905,20551,ground cumin,spice,AFR
+13905,16407,cayenne pepper,spice,AFR
+13905,3717,fresh cilantro,spice,AFR
+13905,4409,fresh parsley,spice,AFR
+13905,5106,lemon,plant,AFR
+13905,6307,olive oil,condiment,AFR
+13905,4786,red bell pepper,plant,AFR
+13905,4432,green bell pepper,plant,AFR
+13905,4292,celery,plant,AFR
+13905,4572,tomato,plant,AFR
+13905,6307,olive oil,condiment,AFR
+137967,4292,celery,plant,AFR
+137967,4342,garlic,spice,AFR
+137967,3640,tomato paste,plantproduct,AFR
+137967,16380,bay leaf,spice,AFR
+137967,20482,frying oil,condiment,AFR
+137967,4397,onion,plant,AFR
+137967,1636,cornstarch,plantproduct,AFR
+71141,4397,onion,plant,AFR
+71141,4279,carrot,plant,AFR
+71141,5007,dried apricot,plantproduct,AFR
+71141,16418,ground turmeric,spice,AFR
+71141,20551,ground cumin,spice,AFR
+71141,16397,ground ginger,spice,AFR
+71141,16386,ground cinnamon,spice,AFR
+71141,16407,cayenne pepper,spice,AFR
+71141,23274,vegetable broth,plantproduct,AFR
+72064,16404,paprika,spice,AFR
+72064,16385,chili powder,spice,AFR
+72064,5107,lemon juice,plantproduct,AFR
+72064,4342,garlic,spice,AFR
+72064,4343,fresh ginger root,spice,AFR
+159456,2829,red lentil,grain,AFR
+159456,1650,white rice,grain,AFR
+159456,6305,vegetable oil,condiment,AFR
+159456,4397,onion,plant,AFR
+159456,4342,garlic,spice,AFR
+159456,10498,diced tomato,plantproduct,AFR
+159456,20244,crushed red pepper,spice,AFR
+169523,6307,olive oil,condiment,AFR
+169523,4574,canned tomatoes,plantproduct,AFR
+169523,16386,ground cinnamon,spice,AFR
+169523,20551,ground cumin,spice,AFR
+169523,16404,paprika,spice,AFR
+169523,16377,ground allspice,spice,AFR
+236310,4339,eggplant,plant,AFR
+236310,4342,garlic,spice,AFR
+236310,5106,lemon,plant,AFR
+236310,20244,crushed red pepper,spice,AFR
+236310,6307,olive oil,condiment,AFR
+214832,2819,canned chickpeas,plantproduct,AFR
+214832,18844,ground coriander,spice,AFR
+214832,16407,cayenne pepper,spice,AFR
+214832,20551,ground cumin,spice,AFR
+214832,2829,red lentil,grain,AFR
+214832,6307,olive oil,condiment,AFR
+214832,4397,onion,plant,AFR
+214832,4342,garlic,spice,AFR
+214832,4664,crushed tomato,plantproduct,AFR
+214832,16157,butter,dairy,AFR
+214832,13968,chicken stock,animal,AFR
+153790,4342,garlic,spice,AFR
+153790,4397,onion,plant,AFR
+153790,20453,Roma (plum) tomato,plant,AFR
+153790,21735,ras el hanout,spice,AFR
+185093,4306,collard greens,plant,AFR
+185093,6307,olive oil,condiment,AFR
+185093,4397,onion,plant,AFR
+185093,4342,garlic,spice,AFR
+185093,6307,olive oil,condiment,AFR
+185093,4432,green bell pepper,plant,AFR
+185093,5107,lemon juice,plantproduct,AFR
+185093,16418,ground turmeric,spice,AFR
+185093,16404,paprika,spice,AFR
+185093,16377,ground allspice,spice,AFR
+185093,4343,fresh ginger root,spice,AFR
+157881,6305,vegetable oil,condiment,AFR
+157881,4397,onion,plant,AFR
+157881,3103,ground beef,animal,AFR
+157881,16278,milk,dairy,AFR
+157881,5219,raisin,plantproduct,AFR
+157881,1593,apricot jam,plantproduct,AFR
+157881,16391,curry powder,spice,AFR
+157881,16406,ground black pepper,spice,AFR
+157881,16317,egg,animal,AFR
+157881,16380,bay leaf,spice,AFR
+53863,16317,egg,animal,AFR
+53863,16406,ground black pepper,spice,AFR
+53863,16278,milk,dairy,AFR
+53863,6305,vegetable oil,condiment,AFR
+219483,6307,olive oil,condiment,AFR
+219483,4397,onion,plant,AFR
+219483,23274,vegetable broth,plantproduct,AFR
+219483,2858,peanut butter,grain,AFR
+219483,10498,diced tomato,plantproduct,AFR
+219483,16407,cayenne pepper,spice,AFR
+219483,4267,cabbage,plant,AFR
+219483,4556,sweet potato,plant,AFR
+219483,4279,carrot,plant,AFR
+178542,6305,vegetable oil,condiment,AFR
+178542,6494,chicken breast,animal,AFR
+178542,4397,onion,plant,AFR
+178542,4442,potato,plant,AFR
+178542,4342,garlic,spice,AFR
+178542,16406,ground black pepper,spice,AFR
+178542,18844,ground coriander,spice,AFR
+178542,20551,ground cumin,spice,AFR
+178542,20244,crushed red pepper,spice,AFR
+178542,16133,chicken broth,animal,AFR
+178542,2858,peanut butter,grain,AFR
+178542,4516,spinach,plant,AFR
+232210,23274,vegetable broth,plantproduct,AFR
+232210,16406,ground black pepper,spice,AFR
+232210,6307,olive oil,condiment,AFR
+232210,4342,garlic,spice,AFR
+232210,5133,black olive,plantproduct,AFR
+232210,23274,vegetable broth,plantproduct,AFR
+79684,3752,sesame seed,grain,AFR
+79684,16389,ground coriander,spice,AFR
+79684,16390,cumin seed,spice,AFR
+79684,16406,ground black pepper,spice,AFR
+55826,4397,onion,plant,AFR
+55826,2882,soy sauce,condiment,AFR
+55826,16386,ground cinnamon,spice,AFR
+55826,16387,ground clove,spice,AFR
+55826,16397,ground ginger,spice,AFR
+215280,2829,red lentil,grain,AFR
+215280,4342,garlic,spice,AFR
+215280,20453,Roma (plum) tomato,plant,AFR
+215280,20269,red onion,plant,AFR
+215280,4432,green bell pepper,plant,AFR
+215280,4657,green chile pepper,plant,AFR
+215280,5107,lemon juice,plantproduct,AFR
+215280,4279,carrot,plant,AFR
+215280,3717,fresh cilantro,spice,AFR
+215280,9725,extra-virgin olive oil,condiment,AFR
+53603,6307,olive oil,condiment,AFR
+53603,3103,ground beef,animal,AFR
+53603,20551,ground cumin,spice,AFR
+53603,16382,ground cardamom,spice,AFR
+53603,16406,ground black pepper,spice,AFR
+53603,4397,onion,plant,AFR
+53603,4342,garlic,spice,AFR
+53603,1684,all-purpose flour,grain,AFR
+53603,20482,frying oil,condiment,AFR
+13123,6307,olive oil,condiment,AFR
+13123,4397,onion,plant,AFR
+13123,4442,potato,plant,AFR
+13123,16418,ground turmeric,spice,AFR
+13123,16406,ground black pepper,spice,AFR
+13123,16407,cayenne pepper,spice,AFR
+13123,16391,curry powder,spice,AFR
+13123,2882,soy sauce,condiment,AFR
+13123,4405,green onion,spice,AFR
+80160,16157,butter,dairy,AFR
+80160,1526,white sugar,condiment,AFR
+80160,1687,cake flour,grain,AFR
+80160,2356,baking powder,other,AFR
+80160,16424,vanilla extract,plantproduct,AFR
+80160,16278,milk,dairy,AFR
+102411,6307,olive oil,condiment,AFR
+102411,4342,garlic,spice,AFR
+102411,4397,onion,plant,AFR
+102411,4279,carrot,plant,AFR
+102411,4292,celery,plant,AFR
+102411,4432,green bell pepper,plant,AFR
+102411,4786,red bell pepper,plant,AFR
+102411,10498,diced tomato,plantproduct,AFR
+102411,2819,canned chickpeas,plantproduct,AFR
+102411,16418,ground turmeric,spice,AFR
+102411,16407,cayenne pepper,spice,AFR
+102411,24515,harissa,condiment,AFR
+102411,16380,bay leaf,spice,AFR
+102411,4529,zucchini,plant,AFR
+102411,9725,extra-virgin olive oil,condiment,AFR
+102411,1637,couscous,grain,AFR
+102411,16158,plain yogurt,dairy,AFR
+238522,6307,olive oil,condiment,AFR
+238522,4279,carrot,plant,AFR
+238522,4409,fresh parsley,spice,AFR
+238522,16406,ground black pepper,spice,AFR
+238522,16397,ground ginger,spice,AFR
+238522,20551,ground cumin,spice,AFR
+238522,2829,red lentil,grain,AFR
+238522,4664,crushed tomato,plantproduct,AFR
+238522,23274,vegetable broth,plantproduct,AFR
+238522,4516,spinach,plant,AFR
+238522,4529,zucchini,plant,AFR
+238522,6307,olive oil,condiment,AFR
+214669,6494,chicken breast,animal,AFR
+214669,4397,onion,plant,AFR
+214669,5007,dried apricot,plantproduct,AFR
+214669,5219,raisin,plantproduct,AFR
+214669,3640,tomato paste,plantproduct,AFR
+214669,5107,lemon juice,plantproduct,AFR
+214669,1684,all-purpose flour,grain,AFR
+214669,16397,ground ginger,spice,AFR
+214669,20551,ground cumin,spice,AFR
+214669,16386,ground cinnamon,spice,AFR
+214669,16406,ground black pepper,spice,AFR
+214669,16391,curry powder,spice,AFR
+214669,16407,cayenne pepper,spice,AFR
+214669,1637,couscous,grain,AFR
+58465,16157,butter,dairy,AFR
+58465,7842,white vinegar,condiment,AFR
+58465,16317,egg,animal,AFR
+58465,1593,apricot jam,plantproduct,AFR
+58465,1687,cake flour,grain,AFR
+58465,2359,baking soda,other,AFR
+58465,16258,heavy whipping cream,dairy,AFR
+58465,16157,butter,dairy,AFR
+58465,1526,white sugar,condiment,AFR
+12978,3868,beef stew meat,animal,AFR
+12978,4572,tomato,plant,AFR
+12978,4397,onion,plant,AFR
+12978,4582,tomato sauce,plantproduct,AFR
+12978,3640,tomato paste,plantproduct,AFR
+12978,4516,spinach,plant,AFR
+38121,4516,spinach,plant,AFR
+38121,4397,onion,plant,AFR
+38121,6307,olive oil,condiment,AFR
+38121,16396,garlic powder,spice,AFR
+13095,3725,jalapeno pepper,plant,AFR
+13095,4432,green bell pepper,plant,AFR
+13095,4397,onion,plant,AFR
+70424,6307,olive oil,condiment,AFR
+70424,4397,onion,plant,AFR
+70424,3024,lamb,animal,AFR
+70424,20551,ground cumin,spice,AFR
+70424,18844,ground coriander,spice,AFR
+70424,16397,ground ginger,spice,AFR
+70424,16386,ground cinnamon,spice,AFR
+70424,16406,ground black pepper,spice,AFR
+25481,5219,raisin,plantproduct,AFR
+25481,20269,red onion,plant,AFR
+25481,4342,garlic,spice,AFR
+25481,3717,fresh cilantro,spice,AFR
+25481,16407,cayenne pepper,spice,AFR
+25481,20551,ground cumin,spice,AFR
+25481,16389,ground coriander,spice,AFR
+25481,16406,ground black pepper,spice,AFR
+220837,4279,carrot,plant,AFR
+220837,4342,garlic,spice,AFR
+220837,6307,olive oil,condiment,AFR
+220837,16404,paprika,spice,AFR
+220837,16407,cayenne pepper,spice,AFR
+220837,20551,ground cumin,spice,AFR
+220837,3717,fresh cilantro,spice,AFR
+150574,20551,ground cumin,spice,AFR
+150574,16397,ground ginger,spice,AFR
+150574,16418,ground turmeric,spice,AFR
+150574,16386,ground cinnamon,spice,AFR
+150574,16406,ground black pepper,spice,AFR
+150574,18844,ground coriander,spice,AFR
+150574,16407,cayenne pepper,spice,AFR
+150574,16377,ground allspice,spice,AFR
+150574,16401,ground nutmeg,spice,AFR
+150574,16387,ground clove,spice,AFR
+236247,6307,olive oil,condiment,AFR
+236247,4279,carrot,plant,AFR
+236247,4397,onion,plant,AFR
+236247,16418,ground turmeric,spice,AFR
+236247,20551,ground cumin,spice,AFR
+236247,16406,ground black pepper,spice,AFR
+236247,16397,ground ginger,spice,AFR
+236247,4267,cabbage,plant,AFR
+236247,4342,garlic,spice,AFR
+222661,2829,red lentil,grain,AFR
+222661,20453,Roma (plum) tomato,plant,AFR
+222661,4279,carrot,plant,AFR
+222661,4397,onion,plant,AFR
+222661,4342,garlic,spice,AFR
+222661,5520,chicken bouillon,condiment,AFR
+222661,20551,ground cumin,spice,AFR
+222661,16406,ground black pepper,spice,AFR
+222661,18844,ground coriander,spice,AFR
+160202,6305,vegetable oil,condiment,AFR
+160202,4397,onion,plant,AFR
+160202,16377,ground allspice,spice,AFR
+160202,16406,ground black pepper,spice,AFR
+160202,4574,canned tomatoes,plantproduct,AFR
+160202,4582,tomato sauce,plantproduct,AFR
+23129,4397,onion,plant,AFR
+23129,6305,vegetable oil,condiment,AFR
+23129,16278,milk,dairy,AFR
+23129,16391,curry powder,spice,AFR
+23129,16317,egg,animal,AFR
+23129,1526,white sugar,condiment,AFR
+23129,16406,ground black pepper,spice,AFR
+23129,16418,ground turmeric,spice,AFR
+23129,7842,white vinegar,condiment,AFR
+23129,3767,almond,grain,AFR
+23129,5219,raisin,plantproduct,AFR
+23129,16380,bay leaf,spice,AFR
+88146,6307,olive oil,condiment,AFR
+88146,6494,chicken breast,animal,AFR
+88146,16407,cayenne pepper,spice,AFR
+88146,4342,garlic,spice,AFR
+88146,16157,butter,dairy,AFR
+88146,16413,saffron,spice,AFR
+88146,16258,heavy whipping cream,dairy,AFR
+88146,16278,milk,dairy,AFR
+238523,2829,red lentil,grain,AFR
+238523,6307,olive oil,condiment,AFR
+238523,4397,onion,plant,AFR
+238523,20303,cinnamon stick,spice,AFR
+238523,4343,fresh ginger root,spice,AFR
+238523,16418,ground turmeric,spice,AFR
+238523,20551,ground cumin,spice,AFR
+238523,16406,ground black pepper,spice,AFR
+238523,2819,canned chickpeas,plantproduct,AFR
+238523,10498,diced tomato,plantproduct,AFR
+238523,3717,fresh cilantro,spice,AFR
+238523,5107,lemon juice,plantproduct,AFR
+188472,6305,vegetable oil,condiment,AFR
+188472,16397,ground ginger,spice,AFR
+188472,16418,ground turmeric,spice,AFR
+188472,16406,ground black pepper,spice,AFR
+188472,16387,ground clove,spice,AFR
+188472,4342,garlic,spice,AFR
+188472,4397,onion,plant,AFR
+188472,4279,carrot,plant,AFR
+188472,4442,potato,plant,AFR
+188472,4267,cabbage,plant,AFR
+180653,6307,olive oil,condiment,AFR
+180653,4397,onion,plant,AFR
+180653,4432,green bell pepper,plant,AFR
+180653,4342,garlic,spice,AFR
+180653,4279,carrot,plant,AFR
+180653,4556,sweet potato,plant,AFR
+180653,4339,eggplant,plant,AFR
+180653,20453,Roma (plum) tomato,plant,AFR
+180653,4529,zucchini,plant,AFR
+180653,5219,raisin,plantproduct,AFR
+180653,16133,chicken broth,animal,AFR
+180653,5107,lemon juice,plantproduct,AFR
+180653,1502,honey,animal,AFR
+180653,20551,ground cumin,spice,AFR
+180653,18844,ground coriander,spice,AFR
+180653,16418,ground turmeric,spice,AFR
+180653,16386,ground cinnamon,spice,AFR
+180653,2819,canned chickpeas,plantproduct,AFR
+180653,16406,ground black pepper,spice,AFR
+7070,2362,active dry yeast,other,AFR
+7070,1502,honey,animal,AFR
+7070,2359,baking soda,other,AFR
+42727,2858,peanut butter,grain,AFR
+42727,3640,tomato paste,plantproduct,AFR
+42727,16133,chicken broth,animal,AFR
+42727,6305,vegetable oil,condiment,AFR
+42727,6494,chicken breast,animal,AFR
+42727,4397,onion,plant,AFR
+42727,16407,cayenne pepper,spice,AFR
+213243,4786,red bell pepper,plant,AFR
+213243,4572,tomato,plant,AFR
+213243,16404,paprika,spice,AFR
+213243,16407,cayenne pepper,spice,AFR
+213243,6307,olive oil,condiment,AFR
+213243,4409,fresh parsley,spice,AFR
+217108,16386,ground cinnamon,spice,AFR
+217108,20551,ground cumin,spice,AFR
+217108,16397,ground ginger,spice,AFR
+217108,16387,ground clove,spice,AFR
+217108,16401,ground nutmeg,spice,AFR
+217108,16418,ground turmeric,spice,AFR
+217108,16391,curry powder,spice,AFR
+217108,16157,butter,dairy,AFR
+217108,20415,sweet onion,plant,AFR
+217108,16133,chicken broth,animal,AFR
+217108,10498,diced tomato,plantproduct,AFR
+217108,1502,honey,animal,AFR
+217108,4279,carrot,plant,AFR
+217108,4556,sweet potato,plant,AFR
+217108,2819,canned chickpeas,plantproduct,AFR
+217108,5007,dried apricot,plantproduct,AFR
+217108,2829,red lentil,grain,AFR
+217108,16406,ground black pepper,spice,AFR
+173422,6305,vegetable oil,condiment,AFR
+173422,1650,white rice,grain,AFR
+173422,2829,red lentil,grain,AFR
+173422,6305,vegetable oil,condiment,AFR
+173422,4397,onion,plant,AFR
+173422,4342,garlic,spice,AFR
+173422,7842,white vinegar,condiment,AFR
+173422,4572,tomato,plant,AFR
+173422,3640,tomato paste,plantproduct,AFR
+173422,16406,ground black pepper,spice,AFR
+173422,20551,ground cumin,spice,AFR
+173422,16407,cayenne pepper,spice,AFR
+48857,4342,garlic,spice,AFR
+48857,18844,ground coriander,spice,AFR
+48857,20551,ground cumin,spice,AFR
+48857,3717,fresh cilantro,spice,AFR
+48857,6307,olive oil,condiment,AFR
+14007,1526,white sugar,condiment,AFR
+14007,16382,ground cardamom,spice,AFR
+19898,5219,raisin,plantproduct,AFR
+19898,3788,flaked coconut,plantproduct,AFR
+19898,1526,white sugar,condiment,AFR
+19898,16278,milk,dairy,AFR
+19898,16258,heavy whipping cream,dairy,AFR
+73059,16278,milk,dairy,AFR
+73059,1526,white sugar,condiment,AFR
+73059,16424,vanilla extract,plantproduct,AFR
+73059,5219,raisin,plantproduct,AFR
+77364,4432,green bell pepper,plant,AFR
+77364,6307,olive oil,condiment,AFR
+77364,4572,tomato,plant,AFR
+77364,1526,white sugar,condiment,AFR
+77364,16404,paprika,spice,AFR
+77364,4409,fresh parsley,spice,AFR
+77364,20551,ground cumin,spice,AFR
+77364,16396,garlic powder,spice,AFR
+77364,16406,ground black pepper,spice,AFR
+236245,6307,olive oil,condiment,AFR
+236245,6494,chicken breast,animal,AFR
+236245,4397,onion,plant,AFR
+236245,4342,garlic,spice,AFR
+236245,4292,celery,plant,AFR
+236245,4279,carrot,plant,AFR
+236245,21735,ras el hanout,spice,AFR
+236245,16386,ground cinnamon,spice,AFR
+236245,16406,ground black pepper,spice,AFR
+236245,5219,raisin,plantproduct,AFR
+38117,1670,semolina flour,grain,AFR
+38117,1526,white sugar,condiment,AFR
+38117,2362,active dry yeast,other,AFR
+38117,6307,olive oil,condiment,AFR
+38117,3752,sesame seed,grain,AFR
+198137,2882,soy sauce,condiment,AFR
+198137,5107,lemon juice,plantproduct,AFR
+198137,1502,honey,animal,AFR
+198137,16391,curry powder,spice,AFR
+198137,16397,ground ginger,spice,AFR
+198137,16406,ground black pepper,spice,AFR
+198137,4342,garlic,spice,AFR
+198137,6307,olive oil,condiment,AFR
+198137,5007,dried apricot,plantproduct,AFR
+147251,16258,heavy whipping cream,dairy,AFR
+147251,16424,vanilla extract,plantproduct,AFR
+215516,6305,vegetable oil,condiment,AFR
+215516,5106,lemon,plant,AFR
+215516,20415,sweet onion,plant,AFR
+215516,5107,lemon juice,plantproduct,AFR
+215516,24515,harissa,condiment,AFR
+80328,3103,ground beef,animal,AFR
+80328,4397,onion,plant,AFR
+229374,20551,ground cumin,spice,AFR
+229374,1684,all-purpose flour,grain,AFR
+229374,16317,egg,animal,AFR
+229374,4342,garlic,spice,AFR
+229374,20551,ground cumin,spice,AFR
+229374,3640,tomato paste,plantproduct,AFR
+229374,16278,milk,dairy,AFR
+229374,20482,frying oil,condiment,AFR
+234983,6307,olive oil,condiment,AFR
+234983,4397,onion,plant,AFR
+234983,4267,cabbage,plant,AFR
+234983,4572,tomato,plant,AFR
+234983,3788,flaked coconut,plantproduct,AFR
+234983,4342,garlic,spice,AFR
+234983,16397,ground ginger,spice,AFR
+234983,16407,cayenne pepper,spice,AFR
+234983,4432,green bell pepper,plant,AFR
+234983,2858,peanut butter,grain,AFR
+68735,6305,vegetable oil,condiment,AFR
+68735,1687,cake flour,grain,AFR
+68735,4397,onion,plant,AFR
+68735,4572,tomato,plant,AFR
+68735,16406,ground black pepper,spice,AFR
+68735,16380,bay leaf,spice,AFR
+68735,1525,brown sugar,condiment,AFR
+68735,7842,white vinegar,condiment,AFR
+68735,7428,Worcestershire sauce,condiment,AFR
+68735,4442,potato,plant,AFR
+11251,1526,white sugar,condiment,AFR
+11251,16317,egg,animal,AFR
+11251,1684,all-purpose flour,grain,AFR
+143113,4397,onion,plant,AFR
+143113,6307,olive oil,condiment,AFR
+143113,2819,canned chickpeas,plantproduct,AFR
+143113,4342,garlic,spice,AFR
+143113,20551,ground cumin,spice,AFR
+143113,18844,ground coriander,spice,AFR
+143113,6307,olive oil,condiment,AFR
+237350,4397,onion,plant,AFR
+237350,4582,tomato sauce,plantproduct,AFR
+237350,6307,olive oil,condiment,AFR
+237350,3717,fresh cilantro,spice,AFR
+237350,4342,garlic,spice,AFR
+237350,20551,ground cumin,spice,AFR
+237350,16404,paprika,spice,AFR
+237350,16397,ground ginger,spice,AFR
+237350,16407,cayenne pepper,spice,AFR
+245682,4397,onion,plant,AFR
+245682,3725,jalapeno pepper,plant,AFR
+245682,4342,garlic,spice,AFR
+245682,4343,fresh ginger root,spice,AFR
+245682,20551,ground cumin,spice,AFR
+245682,18844,ground coriander,spice,AFR
+245682,16386,ground cinnamon,spice,AFR
+245682,20244,crushed red pepper,spice,AFR
+245682,4556,sweet potato,plant,AFR
+245682,4574,canned tomatoes,plantproduct,AFR
+245682,2819,canned chickpeas,plantproduct,AFR
+245682,2858,peanut butter,grain,AFR
+259899,9725,extra-virgin olive oil,condiment,AFR
+259899,18860,fresh mint,spice,AFR
+259899,3717,fresh cilantro,spice,AFR
+259899,5107,lemon juice,plantproduct,AFR
+259899,1502,honey,animal,AFR
+259899,4342,garlic,spice,AFR
+259899,16404,paprika,spice,AFR
+259899,20551,ground cumin,spice,AFR
+259899,18844,ground coriander,spice,AFR
+259899,16386,ground cinnamon,spice,AFR
+259899,16407,cayenne pepper,spice,AFR
+259899,6494,chicken breast,animal,AFR
+259899,5107,lemon juice,plantproduct,AFR
+259899,18860,fresh mint,spice,AFR
+259899,4342,garlic,spice,AFR
+259899,4432,green bell pepper,plant,AFR
+259899,20269,red onion,plant,AFR
+13166,16157,butter,dairy,AFR
+13166,4397,onion,plant,AFR
+13166,3868,beef stew meat,animal,AFR
+13166,16391,curry powder,spice,AFR
+13166,16380,bay leaf,spice,AFR
+13166,4442,potato,plant,AFR
+13166,7842,white vinegar,condiment,AFR
+82184,3640,tomato paste,plantproduct,AFR
+82184,4342,garlic,spice,AFR
+82184,4397,onion,plant,AFR
+82184,5107,lemon juice,plantproduct,AFR
+82184,20551,ground cumin,spice,AFR
+82184,6307,olive oil,condiment,AFR
+8573,4397,onion,plant,AFR
+8573,16406,ground black pepper,spice,AFR
+8573,16397,ground ginger,spice,AFR
+8573,16404,paprika,spice,AFR
+8573,5106,lemon,plant,AFR
+246488,6307,olive oil,condiment,AFR
+246488,4342,garlic,spice,AFR
+246488,16418,ground turmeric,spice,AFR
+246488,16390,cumin seed,spice,AFR
+246488,6307,olive oil,condiment,AFR
+246488,16413,saffron,spice,AFR
+246488,5133,black olive,plantproduct,AFR
+239216,1526,white sugar,condiment,AFR
+239216,16157,butter,dairy,AFR
+239216,16317,egg,animal,AFR
+239216,16278,milk,dairy,AFR
+239216,1687,cake flour,grain,AFR
+239216,2356,baking powder,other,AFR
+239216,16386,ground cinnamon,spice,AFR
+89698,3788,flaked coconut,plantproduct,AFR
+89698,16319,egg yolk,animal,AFR
+89698,1685,self-rising flour,grain,AFR
+160087,4397,onion,plant,AFR
+160087,4342,garlic,spice,AFR
+160087,16386,ground cinnamon,spice,AFR
+160087,16418,ground turmeric,spice,AFR
+160087,6305,vegetable oil,condiment,AFR
+160087,3024,lamb,animal,AFR
+160087,4339,eggplant,plant,AFR
+160087,4529,zucchini,plant,AFR
+160087,16158,plain yogurt,dairy,AFR
+206740,2362,active dry yeast,other,AFR
+206740,1526,white sugar,condiment,AFR
+206740,16278,milk,dairy,AFR
+206740,1684,all-purpose flour,grain,AFR
+206740,1670,semolina flour,grain,AFR
+206740,16317,egg,animal,AFR
+206740,2356,baking powder,other,AFR
+206740,16157,butter,dairy,AFR
+206740,1502,honey,animal,AFR
+206740,20832,orange blossom water,plantproduct,AFR
+229728,20551,ground cumin,spice,AFR
+229728,16386,ground cinnamon,spice,AFR
+229728,18844,ground coriander,spice,AFR
+229728,16418,ground turmeric,spice,AFR
+229728,4342,garlic,spice,AFR
+229728,24515,harissa,condiment,AFR
+229728,3640,tomato paste,plantproduct,AFR
+229728,6307,olive oil,condiment,AFR
+228861,1684,all-purpose flour,grain,AFR
+228861,16385,chili powder,spice,AFR
+228861,16396,garlic powder,spice,AFR
+228861,16386,ground cinnamon,spice,AFR
+228861,18844,ground coriander,spice,AFR
+228861,16406,ground black pepper,spice,AFR
+228861,6307,olive oil,condiment,AFR
+228861,4279,carrot,plant,AFR
+228861,20269,red onion,plant,AFR
+228861,4342,garlic,spice,AFR
+262055,9725,extra-virgin olive oil,condiment,AFR
+262055,4397,onion,plant,AFR
+262055,16418,ground turmeric,spice,AFR
+262055,20551,ground cumin,spice,AFR
+262055,16389,ground coriander,spice,AFR
+262055,20303,cinnamon stick,spice,AFR
+262055,16380,bay leaf,spice,AFR
+262055,3717,fresh cilantro,spice,AFR
+262055,4343,fresh ginger root,spice,AFR
+262055,16157,butter,dairy,AFR
+262055,1502,honey,animal,AFR
+154114,6307,olive oil,condiment,AFR
+154114,4397,onion,plant,AFR
+154114,5107,lemon juice,plantproduct,AFR
+154114,4342,garlic,spice,AFR
+90229,20482,frying oil,condiment,AFR
+90229,4442,potato,plant,AFR
+90229,3103,ground beef,animal,AFR
+90229,4397,onion,plant,AFR
+90229,4342,garlic,spice,AFR
+90229,4409,fresh parsley,spice,AFR
+90229,16406,ground black pepper,spice,AFR
+90229,16377,ground allspice,spice,AFR
+90229,16401,ground nutmeg,spice,AFR
+90229,20551,ground cumin,spice,AFR
+90229,4572,tomato,plant,AFR
+90229,4397,onion,plant,AFR
+90229,1650,white rice,grain,AFR
+233715,3868,beef stew meat,animal,AFR
+233715,16157,butter,dairy,AFR
+233715,6420,canola oil,condiment,AFR
+233715,4397,onion,plant,AFR
+233715,5520,chicken bouillon,condiment,AFR
+233715,16380,bay leaf,spice,AFR
+14627,16158,plain yogurt,dairy,AFR
+14627,3725,jalapeno pepper,plant,AFR
+14627,4409,fresh parsley,spice,AFR
+14627,16317,egg,animal,AFR
+14627,7428,Worcestershire sauce,condiment,AFR
+14627,4342,garlic,spice,AFR
+14627,4343,fresh ginger root,spice,AFR
+14627,20551,ground cumin,spice,AFR
+14627,16389,ground coriander,spice,AFR
+14627,4409,fresh parsley,spice,AFR
+14627,3725,jalapeno pepper,plant,AFR
+14627,3103,ground beef,animal,AFR
+14627,20482,frying oil,condiment,AFR
+34728,16158,plain yogurt,dairy,AFR
+34728,16391,curry powder,spice,AFR
+34728,1526,white sugar,condiment,AFR
+34728,6305,vegetable oil,condiment,AFR
+34728,4397,onion,plant,AFR
+34728,3024,lamb,animal,AFR
+34728,5007,dried apricot,plantproduct,AFR
+162193,6305,vegetable oil,condiment,AFR
+162193,3024,lamb,animal,AFR
+162193,16413,saffron,spice,AFR
+162193,4397,onion,plant,AFR
+162193,4409,fresh parsley,spice,AFR
+162193,16157,butter,dairy,AFR
+162193,5106,lemon,plant,AFR
+214818,16157,butter,dairy,AFR
+214818,4397,onion,plant,AFR
+214818,4409,fresh parsley,spice,AFR
+214818,20482,frying oil,condiment,AFR
+214818,5106,lemon,plant,AFR
+215271,1684,all-purpose flour,grain,AFR
+215271,16278,milk,dairy,AFR
+215271,16317,egg,animal,AFR
+215271,6305,vegetable oil,condiment,AFR
+215271,7842,white vinegar,condiment,AFR
+215271,16386,ground cinnamon,spice,AFR
+215271,1526,white sugar,condiment,AFR
+213254,4342,garlic,spice,AFR
+213254,16382,ground cardamom,spice,AFR
+213254,16387,ground clove,spice,AFR
+213254,16157,butter,dairy,AFR
+213254,4397,onion,plant,AFR
+213254,4343,fresh ginger root,spice,AFR
+213254,4657,green chile pepper,plant,AFR
+213254,4342,garlic,spice,AFR
+213254,4516,spinach,plant,AFR
+162191,4342,garlic,spice,AFR
+162191,6307,olive oil,condiment,AFR
+162191,4657,green chile pepper,plant,AFR
+162191,4432,green bell pepper,plant,AFR
+162191,4572,tomato,plant,AFR
+162191,16317,egg,animal,AFR
+143213,5107,lemon juice,plantproduct,AFR
+143213,6307,olive oil,condiment,AFR
+143213,18860,fresh mint,spice,AFR
+143213,4409,fresh parsley,spice,AFR
+143213,6307,olive oil,condiment,AFR
+143213,1637,couscous,grain,AFR
+143213,4572,tomato,plant,AFR
+143213,4786,red bell pepper,plant,AFR
+143213,4432,green bell pepper,plant,AFR
+143213,2819,canned chickpeas,plantproduct,AFR
+246338,6420,canola oil,condiment,AFR
+246338,4397,onion,plant,AFR
+246338,4342,garlic,spice,AFR
+246338,4343,fresh ginger root,spice,AFR
+246338,4442,potato,plant,AFR
+229320,4343,fresh ginger root,spice,AFR
+229320,5107,lemon juice,plantproduct,AFR
+229320,1526,white sugar,condiment,AFR
+229320,18860,fresh mint,spice,AFR
+236741,16385,chili powder,spice,AFR
+236741,16404,paprika,spice,AFR
+236741,16397,ground ginger,spice,AFR
+236741,18844,ground coriander,spice,AFR
+236741,16382,ground cardamom,spice,AFR
+236741,16396,garlic powder,spice,AFR
+236741,16387,ground clove,spice,AFR
+236741,16386,ground cinnamon,spice,AFR
+236742,16407,cayenne pepper,spice,AFR
+236742,16406,ground black pepper,spice,AFR
+236742,16397,ground ginger,spice,AFR
+236742,16386,ground cinnamon,spice,AFR
+236742,16387,ground clove,spice,AFR
+236742,6494,chicken breast,animal,AFR
+236742,5107,lemon juice,plantproduct,AFR
+236742,6307,olive oil,condiment,AFR
+236742,4397,onion,plant,AFR
+236742,4342,garlic,spice,AFR
+236742,16157,butter,dairy,AFR
+236742,4343,fresh ginger root,spice,AFR
+236742,16401,ground nutmeg,spice,AFR
+236742,16382,ground cardamom,spice,AFR
+236742,16133,chicken broth,animal,AFR
+236742,3640,tomato paste,plantproduct,AFR
+236742,3717,fresh cilantro,spice,AFR
+236742,5106,lemon,plant,AFR
+255863,16404,paprika,spice,AFR
+255863,16407,cayenne pepper,spice,AFR
+255863,16397,ground ginger,spice,AFR
+255863,20551,ground cumin,spice,AFR
+255863,16389,ground coriander,spice,AFR
+255863,16382,ground cardamom,spice,AFR
+255863,16396,garlic powder,spice,AFR
+255863,16386,ground cinnamon,spice,AFR
+255863,16401,ground nutmeg,spice,AFR
+255863,16377,ground allspice,spice,AFR
+255863,16387,ground clove,spice,AFR
+221980,4306,collard greens,plant,AFR
+221980,5520,chicken bouillon,condiment,AFR
+221980,2858,peanut butter,grain,AFR
+221980,16407,cayenne pepper,spice,AFR
+221980,16406,ground black pepper,spice,AFR
+47644,1670,semolina flour,grain,AFR
+47644,1526,white sugar,condiment,AFR
+218646,1526,white sugar,condiment,AFR
+218646,2356,baking powder,other,AFR
+218646,16158,plain yogurt,dairy,AFR
+218646,16157,butter,dairy,AFR
+218646,3767,almond,grain,AFR
+218646,1526,white sugar,condiment,AFR
+218646,5107,lemon juice,plantproduct,AFR
+218646,16157,butter,dairy,AFR
+218646,20832,orange blossom water,plantproduct,AFR
+228586,1526,white sugar,condiment,AFR
+228586,1636,cornstarch,plantproduct,AFR
+246489,3717,fresh cilantro,spice,AFR
+246489,4342,garlic,spice,AFR
+246489,16390,cumin seed,spice,AFR
+246489,16418,ground turmeric,spice,AFR
+246489,16404,paprika,spice,AFR
+246489,16406,ground black pepper,spice,AFR
+246489,6307,olive oil,condiment,AFR
+246489,4397,onion,plant,AFR
+246489,4442,potato,plant,AFR
+246489,4279,carrot,plant,AFR
+246489,10498,diced tomato,plantproduct,AFR
+245948,4397,onion,plant,AFR
+245948,4397,onion,plant,AFR
+245948,4342,garlic,spice,AFR
+245948,6420,canola oil,condiment,AFR
+245948,4664,crushed tomato,plantproduct,AFR
+245948,2829,red lentil,grain,AFR
+245948,16382,ground cardamom,spice,AFR
+245683,1526,white sugar,condiment,AFR
+245683,2362,active dry yeast,other,AFR
+245683,1684,all-purpose flour,grain,AFR
+245683,20482,frying oil,condiment,AFR
+242153,4657,green chile pepper,plant,AFR
+242153,4397,onion,plant,AFR
+242153,4409,fresh parsley,spice,AFR
+242153,20453,Roma (plum) tomato,plant,AFR
+242153,4342,garlic,spice,AFR
+242153,6305,vegetable oil,condiment,AFR
+242153,5107,lemon juice,plantproduct,AFR
+254743,20269,red onion,plant,AFR
+254743,4409,fresh parsley,spice,AFR
+254743,3717,fresh cilantro,spice,AFR
+254743,4342,garlic,spice,AFR
+254743,18844,ground coriander,spice,AFR
+254743,20551,ground cumin,spice,AFR
+254743,3752,sesame seed,grain,AFR
+254743,20482,frying oil,condiment,AFR
+228662,4267,cabbage,plant,AFR
+228662,6420,canola oil,condiment,AFR
+228662,4397,onion,plant,AFR
+228662,4342,garlic,spice,AFR
+228662,20453,Roma (plum) tomato,plant,AFR
+228662,3640,tomato paste,plantproduct,AFR
+228662,16407,cayenne pepper,spice,AFR
+230751,4397,onion,plant,AFR
+230751,4342,garlic,spice,AFR
+230751,4279,carrot,plant,AFR
+230751,4556,sweet potato,plant,AFR
+230751,4267,cabbage,plant,AFR
+230751,20303,cinnamon stick,spice,AFR
+230751,16404,paprika,spice,AFR
+230751,20551,ground cumin,spice,AFR
+230751,16406,ground black pepper,spice,AFR
+230751,18844,ground coriander,spice,AFR
+236126,6307,olive oil,condiment,AFR
+236126,4292,celery,plant,AFR
+236126,4397,onion,plant,AFR
+236126,4432,green bell pepper,plant,AFR
+236126,4342,garlic,spice,AFR
+236126,23274,vegetable broth,plantproduct,AFR
+236126,4279,carrot,plant,AFR
+236126,4442,potato,plant,AFR
+236126,20244,crushed red pepper,spice,AFR
+153802,4432,green bell pepper,plant,AFR
+153802,6307,olive oil,condiment,AFR
+153802,20269,red onion,plant,AFR
+153802,4342,garlic,spice,AFR
+153802,20453,Roma (plum) tomato,plant,AFR
+214766,1526,white sugar,condiment,AFR
+214766,16317,egg,animal,AFR
+214766,1684,all-purpose flour,grain,AFR
+214766,2356,baking powder,other,AFR
+214766,2359,baking soda,other,AFR
+214766,7842,white vinegar,condiment,AFR
+214766,1593,apricot jam,plantproduct,AFR
+214766,16278,milk,dairy,AFR
+214766,1526,white sugar,condiment,AFR
+214766,16278,milk,dairy,AFR
+214766,16157,butter,dairy,AFR
+214766,16424,vanilla extract,plantproduct,AFR
+214808,9725,extra-virgin olive oil,condiment,AFR
+214808,4342,garlic,spice,AFR
+214808,4572,tomato,plant,AFR
+214808,4432,green bell pepper,plant,AFR
+214808,3725,jalapeno pepper,plant,AFR
+214808,16404,paprika,spice,AFR
+214808,16406,ground black pepper,spice,AFR
+214808,5106,lemon,plant,AFR
+50968,16157,butter,dairy,AFR
+50968,4339,eggplant,plant,AFR
+50968,4572,tomato,plant,AFR
+50968,20269,red onion,plant,AFR
+50968,7842,white vinegar,condiment,AFR
+50968,6305,vegetable oil,condiment,AFR
+50968,3788,flaked coconut,plantproduct,AFR
+104403,4342,garlic,spice,AFR
+104403,18844,ground coriander,spice,AFR
+72363,4786,red bell pepper,plant,AFR
+72363,4572,tomato,plant,AFR
+72363,6307,olive oil,condiment,AFR
+72363,4342,garlic,spice,AFR
+72363,3725,jalapeno pepper,plant,AFR
+72363,6307,olive oil,condiment,AFR
+72363,20482,frying oil,condiment,AFR
+112056,5007,dried apricot,plantproduct,AFR
+112056,6307,olive oil,condiment,AFR
+112056,4342,garlic,spice,AFR
+112056,16386,ground cinnamon,spice,AFR
+112056,20551,ground cumin,spice,AFR
+112056,16404,paprika,spice,AFR
+112056,4292,celery,plant,AFR
+112056,4432,green bell pepper,plant,AFR
+112056,4572,tomato,plant,AFR
+112056,5106,lemon,plant,AFR
+112056,1526,white sugar,condiment,AFR
+103883,5107,lemon juice,plantproduct,AFR
+103883,20269,red onion,plant,AFR
+103883,4343,fresh ginger root,spice,AFR
+103883,9725,extra-virgin olive oil,condiment,AFR
+103883,20551,ground cumin,spice,AFR
+47440,4405,green onion,spice,AFR
+47440,3717,fresh cilantro,spice,AFR
+47440,4657,green chile pepper,plant,AFR
+47440,5107,lemon juice,plantproduct,AFR
+215281,4529,zucchini,plant,AFR
+215281,4572,tomato,plant,AFR
+215281,4442,potato,plant,AFR
+215281,4657,green chile pepper,plant,AFR
+215281,16317,egg,animal,AFR
+215281,24515,harissa,condiment,AFR
+233456,6305,vegetable oil,condiment,AFR
+233456,4397,onion,plant,AFR
+233456,3640,tomato paste,plantproduct,AFR
+233456,4342,garlic,spice,AFR
+233456,13968,chicken stock,animal,AFR
+233456,16382,ground cardamom,spice,AFR
+233456,16380,bay leaf,spice,AFR
+245497,6305,vegetable oil,condiment,AFR
+245497,4397,onion,plant,AFR
+245497,4279,carrot,plant,AFR
+245497,4342,garlic,spice,AFR
+245497,16418,ground turmeric,spice,AFR
+245497,4267,cabbage,plant,AFR
+258873,4397,onion,plant,AFR
+258873,4292,celery,plant,AFR
+258873,3717,fresh cilantro,spice,AFR
+258873,4409,fresh parsley,spice,AFR
+258873,16418,ground turmeric,spice,AFR
+258873,20551,ground cumin,spice,AFR
+258873,16404,paprika,spice,AFR
+258873,16397,ground ginger,spice,AFR
+258873,16407,cayenne pepper,spice,AFR
+258873,6307,olive oil,condiment,AFR
+258873,5219,raisin,plantproduct,AFR
+258873,13968,chicken stock,animal,AFR
+258873,4556,sweet potato,plant,AFR
+258873,4279,carrot,plant,AFR
+257104,16386,ground cinnamon,spice,AFR
+257104,20551,ground cumin,spice,AFR
+257104,16418,ground turmeric,spice,AFR
+257104,18844,ground coriander,spice,AFR
+257104,16397,ground ginger,spice,AFR
+257104,16406,ground black pepper,spice,AFR
+257104,5007,dried apricot,plantproduct,AFR
+257104,5219,raisin,plantproduct,AFR
+257104,6307,olive oil,condiment,AFR
+257104,4397,onion,plant,AFR
+257104,4342,garlic,spice,AFR
+257104,16133,chicken broth,animal,AFR
+257104,1502,honey,animal,AFR
+257104,3717,fresh cilantro,spice,AFR
+265584,20551,ground cumin,spice,AFR
+265584,16386,ground cinnamon,spice,AFR
+265584,16407,cayenne pepper,spice,AFR
+265584,20244,crushed red pepper,spice,AFR
+265584,16387,ground clove,spice,AFR
+265584,4556,sweet potato,plant,AFR
+265584,4397,onion,plant,AFR
+265584,4786,red bell pepper,plant,AFR
+265584,4342,garlic,spice,AFR
+265584,4343,fresh ginger root,spice,AFR
+265584,4664,crushed tomato,plantproduct,AFR
+265584,2858,peanut butter,grain,AFR
+265584,4306,collard greens,plant,AFR
+265584,3717,fresh cilantro,spice,AFR
+245152,6307,olive oil,condiment,AFR
+245152,4397,onion,plant,AFR
+245152,4342,garlic,spice,AFR
+245152,16418,ground turmeric,spice,AFR
+245152,20551,ground cumin,spice,AFR
+245152,16386,ground cinnamon,spice,AFR
+245152,16407,cayenne pepper,spice,AFR
+245152,16406,ground black pepper,spice,AFR
+245152,4279,carrot,plant,AFR
+245152,2819,canned chickpeas,plantproduct,AFR
+245152,5106,lemon,plant,AFR
+245152,3717,fresh cilantro,spice,AFR
+216101,5520,chicken bouillon,condiment,AFR
+216101,4786,red bell pepper,plant,AFR
+216101,4572,tomato,plant,AFR
+216101,4397,onion,plant,AFR
+216101,4342,garlic,spice,AFR
+216101,3640,tomato paste,plantproduct,AFR
+216101,6305,vegetable oil,condiment,AFR
+213577,4657,green chile pepper,plant,AFR
+213577,4342,garlic,spice,AFR
+213577,4343,fresh ginger root,spice,AFR
+213577,16418,ground turmeric,spice,AFR
+213577,6305,vegetable oil,condiment,AFR
+213577,4442,potato,plant,AFR
+213577,16418,ground turmeric,spice,AFR
+213577,20482,frying oil,condiment,AFR
+214668,4342,garlic,spice,AFR
+214668,20551,ground cumin,spice,AFR
+214668,6494,chicken breast,animal,AFR
+214668,9725,extra-virgin olive oil,condiment,AFR
+88595,4342,garlic,spice,AFR
+88595,16382,ground cardamom,spice,AFR
+88595,4343,fresh ginger root,spice,AFR
+88595,16387,ground clove,spice,AFR
+88595,4397,onion,plant,AFR
+88595,4657,green chile pepper,plant,AFR
+88595,4306,collard greens,plant,AFR
+105926,4572,tomato,plant,AFR
+105926,4405,green onion,spice,AFR
+105926,18860,fresh mint,spice,AFR
+105926,4409,fresh parsley,spice,AFR
+105926,4342,garlic,spice,AFR
+105926,5107,lemon juice,plantproduct,AFR
+105926,6307,olive oil,condiment,AFR
+104444,20482,frying oil,condiment,AFR
+104444,4397,onion,plant,AFR
+104444,4342,garlic,spice,AFR
+104444,16380,bay leaf,spice,AFR
+104444,1525,brown sugar,condiment,AFR
+104444,16391,curry powder,spice,AFR
+104444,16418,ground turmeric,spice,AFR
+104444,20551,ground cumin,spice,AFR
+104444,18844,ground coriander,spice,AFR
+244880,1526,white sugar,condiment,AFR
+244880,16157,butter,dairy,AFR
+244880,16317,egg,animal,AFR
+244880,1684,all-purpose flour,grain,AFR
+246326,1684,all-purpose flour,grain,AFR
+246326,16278,milk,dairy,AFR
+246326,6307,olive oil,condiment,AFR
+255439,16157,butter,dairy,AFR
+255439,4397,onion,plant,AFR
+255439,1637,couscous,grain,AFR
+255439,4529,zucchini,plant,AFR
+255439,4442,potato,plant,AFR
+255439,4279,carrot,plant,AFR
+255439,18844,ground coriander,spice,AFR
+255439,18699,red chile powder,spice,AFR
+255439,20551,ground cumin,spice,AFR
+255439,16278,milk,dairy,AFR
+232133,5219,raisin,plantproduct,AFR
+232133,4556,sweet potato,plant,AFR
+232133,1502,honey,animal,AFR
+232133,16157,butter,dairy,AFR
+232133,16386,ground cinnamon,spice,AFR
+232133,16406,ground black pepper,spice,AFR
+232133,16418,ground turmeric,spice,AFR
+232133,16413,saffron,spice,AFR
+227986,20482,frying oil,condiment,AFR
+227986,4397,onion,plant,AFR
+227986,4582,tomato sauce,plantproduct,AFR
+233779,6307,olive oil,condiment,AFR
+233779,3024,lamb,animal,AFR
+233779,20551,ground cumin,spice,AFR
+233779,4397,onion,plant,AFR
+233779,4342,garlic,spice,AFR
+233779,3640,tomato paste,plantproduct,AFR
+233779,5133,black olive,plantproduct,AFR
+233779,5219,raisin,plantproduct,AFR
+233779,1502,honey,animal,AFR
+233779,16407,cayenne pepper,spice,AFR
+233779,16418,ground turmeric,spice,AFR
+233779,16386,ground cinnamon,spice,AFR
+233779,4556,sweet potato,plant,AFR
+233779,16317,egg,animal,AFR
+256727,16404,paprika,spice,AFR
+256727,20551,ground cumin,spice,AFR
+256727,16407,cayenne pepper,spice,AFR
+256727,16386,ground cinnamon,spice,AFR
+256727,16418,ground turmeric,spice,AFR
+256727,16406,ground black pepper,spice,AFR
+256727,6307,olive oil,condiment,AFR
+256727,20269,red onion,plant,AFR
+256727,4342,garlic,spice,AFR
+256727,2819,canned chickpeas,plantproduct,AFR
+256727,16133,chicken broth,animal,AFR
+256727,24515,harissa,condiment,AFR
+256727,4343,fresh ginger root,spice,AFR
+256727,3767,almond,grain,AFR
+262205,16278,milk,dairy,AFR
+262205,6305,vegetable oil,condiment,AFR
+262205,16317,egg,animal,AFR
+262205,16382,ground cardamom,spice,AFR
+262205,1684,all-purpose flour,grain,AFR
+262205,20482,frying oil,condiment,AFR
+268687,4556,sweet potato,plant,AFR
+268687,23274,vegetable broth,plantproduct,AFR
+268687,6307,olive oil,condiment,AFR
+268687,4397,onion,plant,AFR
+268687,4292,celery,plant,AFR
+268687,4786,red bell pepper,plant,AFR
+268687,4342,garlic,spice,AFR
+268687,2819,canned chickpeas,plantproduct,AFR
+268687,10498,diced tomato,plantproduct,AFR
+268687,5107,lemon juice,plantproduct,AFR
+268687,4343,fresh ginger root,spice,AFR
+268687,20551,ground cumin,spice,AFR
+268687,16391,curry powder,spice,AFR
+268687,18844,ground coriander,spice,AFR
+268687,16385,chili powder,spice,AFR
+268687,16406,ground black pepper,spice,AFR
+268687,5219,raisin,plantproduct,AFR
+268687,2858,peanut butter,grain,AFR
+237695,4572,tomato,plant,AFR
+237695,4397,onion,plant,AFR
+237695,4529,zucchini,plant,AFR
+237695,4342,garlic,spice,AFR
+237695,6307,olive oil,condiment,AFR
+237695,3024,lamb,animal,AFR
+237695,3103,ground beef,animal,AFR
+237695,20551,ground cumin,spice,AFR
+237695,16406,ground black pepper,spice,AFR
+237695,16404,paprika,spice,AFR
+237695,18844,ground coriander,spice,AFR
+237695,16418,ground turmeric,spice,AFR
+237695,16407,cayenne pepper,spice,AFR
+237695,3640,tomato paste,plantproduct,AFR
+237695,16157,butter,dairy,AFR
+237695,3717,fresh cilantro,spice,AFR
+237695,5106,lemon,plant,AFR
+215270,16157,butter,dairy,AFR
+215270,16258,heavy whipping cream,dairy,AFR
+215270,16317,egg,animal,AFR
+215270,1525,brown sugar,condiment,AFR
+215270,1525,brown sugar,condiment,AFR
+215270,16278,milk,dairy,AFR
+215270,16157,butter,dairy,AFR
+215270,16258,heavy whipping cream,dairy,AFR
+153735,6305,vegetable oil,condiment,AFR
+153735,4397,onion,plant,AFR
+153735,16386,ground cinnamon,spice,AFR
+153735,5007,dried apricot,plantproduct,AFR
+153735,5107,lemon juice,plantproduct,AFR
+149756,3717,fresh cilantro,spice,AFR
+149756,4409,fresh parsley,spice,AFR
+149756,18860,fresh mint,spice,AFR
+149756,4342,garlic,spice,AFR
+149756,6307,olive oil,condiment,AFR
+149756,16406,ground black pepper,spice,AFR
+149756,4786,red bell pepper,plant,AFR
+150227,1526,white sugar,condiment,AFR
+150227,5107,lemon juice,plantproduct,AFR
+150227,1636,cornstarch,plantproduct,AFR
+150227,1684,all-purpose flour,grain,AFR
+150227,2362,active dry yeast,other,AFR
+150227,20482,frying oil,condiment,AFR
+166819,9725,extra-virgin olive oil,condiment,AFR
+166819,16390,cumin seed,spice,AFR
+166819,4397,onion,plant,AFR
+166819,4342,garlic,spice,AFR
+166819,4556,sweet potato,plant,AFR
+166819,4574,canned tomatoes,plantproduct,AFR
+166819,5007,dried apricot,plantproduct,AFR
+166819,24515,harissa,condiment,AFR
+166819,1637,couscous,grain,AFR
+166819,9725,extra-virgin olive oil,condiment,AFR
+223186,4397,onion,plant,AFR
+223186,4432,green bell pepper,plant,AFR
+223186,2858,peanut butter,grain,AFR
+223186,5520,chicken bouillon,condiment,AFR
+223186,4516,spinach,plant,AFR
+215279,20482,frying oil,condiment,AFR
+215279,16317,egg,animal,AFR
+215279,6307,olive oil,condiment,AFR
+215279,4397,onion,plant,AFR
+215279,4432,green bell pepper,plant,AFR
+215279,3640,tomato paste,plantproduct,AFR
+215279,20453,Roma (plum) tomato,plant,AFR
+215279,5106,lemon,plant,AFR
+215279,4342,garlic,spice,AFR
+215279,16407,cayenne pepper,spice,AFR
+215279,1525,brown sugar,condiment,AFR
+215279,5133,black olive,plantproduct,AFR
+69501,1526,white sugar,condiment,AFR
+69501,5107,lemon juice,plantproduct,AFR
+69501,20832,orange blossom water,plantproduct,AFR
+69501,1684,all-purpose flour,grain,AFR
+69501,6305,vegetable oil,condiment,AFR
+69501,16317,egg,animal,AFR
+69501,5107,lemon juice,plantproduct,AFR
+69501,20832,orange blossom water,plantproduct,AFR
+69501,3767,almond,grain,AFR
+69501,1526,white sugar,condiment,AFR
+69501,16317,egg,animal,AFR
+69501,20832,orange blossom water,plantproduct,AFR
+69501,1636,cornstarch,plantproduct,AFR
+255141,1684,all-purpose flour,grain,AFR
+255141,16157,butter,dairy,AFR
+255141,16157,butter,dairy,AFR
+255141,16401,ground nutmeg,spice,AFR
+255141,16278,milk,dairy,AFR
+255141,16278,milk,dairy,AFR
+246109,1684,all-purpose flour,grain,AFR
+246109,6307,olive oil,condiment,AFR
+246109,1502,honey,animal,AFR
+246109,6420,canola oil,condiment,AFR
+244879,6305,vegetable oil,condiment,AFR
+244879,4397,onion,plant,AFR
+244879,3103,ground beef,animal,AFR
+244879,16278,milk,dairy,AFR
+244879,16317,egg,animal,AFR
+244879,5219,raisin,plantproduct,AFR
+244879,7842,white vinegar,condiment,AFR
+244879,1526,white sugar,condiment,AFR
+244879,16418,ground turmeric,spice,AFR
+244879,16391,curry powder,spice,AFR
+244879,16406,ground black pepper,spice,AFR
+244879,16380,bay leaf,spice,AFR
+245357,3788,flaked coconut,plantproduct,AFR
+245357,1526,white sugar,condiment,AFR
+245357,3788,flaked coconut,plantproduct,AFR
+235571,6420,canola oil,condiment,AFR
+235571,20415,sweet onion,plant,AFR
+235571,4292,celery,plant,AFR
+235571,16391,curry powder,spice,AFR
+235571,20551,ground cumin,spice,AFR
+235571,16407,cayenne pepper,spice,AFR
+235571,2858,peanut butter,grain,AFR
+235571,10498,diced tomato,plantproduct,AFR
+235571,16258,heavy whipping cream,dairy,AFR
+235571,4405,green onion,spice,AFR
+235571,4342,garlic,spice,AFR
+234073,6307,olive oil,condiment,AFR
+234073,6494,chicken breast,animal,AFR
+234073,4397,onion,plant,AFR
+234073,4342,garlic,spice,AFR
+234073,2819,canned chickpeas,plantproduct,AFR
+234073,10498,diced tomato,plantproduct,AFR
+234073,23274,vegetable broth,plantproduct,AFR
+234073,4279,carrot,plant,AFR
+234073,5133,black olive,plantproduct,AFR
+234073,1526,white sugar,condiment,AFR
+234073,5107,lemon juice,plantproduct,AFR
+234073,16389,ground coriander,spice,AFR
+234073,16407,cayenne pepper,spice,AFR
+234420,1670,semolina flour,grain,AFR
+234420,16278,milk,dairy,AFR
+234420,16157,butter,dairy,AFR
+268115,16278,milk,dairy,AFR
+268115,16258,heavy whipping cream,dairy,AFR
+268115,1526,white sugar,condiment,AFR
+268115,1636,cornstarch,plantproduct,AFR
+268115,16386,ground cinnamon,spice,AFR
+263600,6307,olive oil,condiment,AFR
+263600,4397,onion,plant,AFR
+263600,4786,red bell pepper,plant,AFR
+263600,4342,garlic,spice,AFR
+263600,16385,chili powder,spice,AFR
+263600,16404,paprika,spice,AFR
+263600,20551,ground cumin,spice,AFR
+263600,16406,ground black pepper,spice,AFR
+263600,16317,egg,animal,AFR
+263600,4409,fresh parsley,spice,AFR
+259978,4397,onion,plant,AFR
+259978,4343,fresh ginger root,spice,AFR
+259978,5520,chicken bouillon,condiment,AFR
+259978,4342,garlic,spice,AFR
+259978,16391,curry powder,spice,AFR
+259978,16406,ground black pepper,spice,AFR
+259978,16407,cayenne pepper,spice,AFR
+259978,6305,vegetable oil,condiment,AFR
+259978,4397,onion,plant,AFR
+259978,4582,tomato sauce,plantproduct,AFR
+259978,16406,ground black pepper,spice,AFR
+259978,6420,canola oil,condiment,AFR
+256679,1526,white sugar,condiment,AFR
+256679,16317,egg,animal,AFR
+256679,16157,butter,dairy,AFR
+256679,1593,apricot jam,plantproduct,AFR
+256679,7842,white vinegar,condiment,AFR
+256679,16397,ground ginger,spice,AFR
+256679,2359,baking soda,other,AFR
+256679,16278,milk,dairy,AFR
+256679,1684,all-purpose flour,grain,AFR
+256679,16278,milk,dairy,AFR
+256679,16157,butter,dairy,AFR
+256679,1526,white sugar,condiment,AFR
+256724,3752,sesame seed,grain,AFR
+256724,18699,red chile powder,spice,AFR
+256724,16418,ground turmeric,spice,AFR
+256724,16390,cumin seed,spice,AFR
+256724,18844,ground coriander,spice,AFR
+256724,16407,cayenne pepper,spice,AFR
+258885,4342,garlic,spice,AFR
+258885,20551,ground cumin,spice,AFR
+258885,16404,paprika,spice,AFR
+258885,16407,cayenne pepper,spice,AFR
+258885,16406,ground black pepper,spice,AFR
+258885,6307,olive oil,condiment,AFR
+258886,4397,onion,plant,AFR
+258886,6307,olive oil,condiment,AFR
+258886,4342,garlic,spice,AFR
+258886,16406,ground black pepper,spice,AFR
+258886,16407,cayenne pepper,spice,AFR
+258887,1670,semolina flour,grain,AFR
+258887,1670,semolina flour,grain,AFR
+258887,3752,sesame seed,grain,AFR
+258887,1526,white sugar,condiment,AFR
+258887,2362,active dry yeast,other,AFR
+258887,6305,vegetable oil,condiment,AFR
+258887,16317,egg,animal,AFR
+258887,16317,egg,animal,AFR
+258887,16278,milk,dairy,AFR
+258887,1684,all-purpose flour,grain,AFR
+258887,1684,all-purpose flour,grain,AFR
+259261,3752,sesame seed,grain,AFR
+259261,16390,cumin seed,spice,AFR
+259261,16389,ground coriander,spice,AFR
+262056,3767,almond,grain,AFR
+262056,1526,white sugar,condiment,AFR
+262056,1526,white sugar,condiment,AFR
+262056,16386,ground cinnamon,spice,AFR
+262056,16317,egg,animal,AFR
+262056,20832,orange blossom water,plantproduct,AFR
+262056,1684,all-purpose flour,grain,AFR
+262056,16317,egg,animal,AFR
+262056,6305,vegetable oil,condiment,AFR
+262056,20832,orange blossom water,plantproduct,AFR
+262056,1502,honey,animal,AFR
+262056,20832,orange blossom water,plantproduct,AFR
+263337,2819,canned chickpeas,plantproduct,AFR
+263337,2359,baking soda,other,AFR
+263337,6305,vegetable oil,condiment,AFR
+263337,4397,onion,plant,AFR
+263337,16407,cayenne pepper,spice,AFR
+263337,16418,ground turmeric,spice,AFR
+262203,1684,all-purpose flour,grain,AFR
+262203,6305,vegetable oil,condiment,AFR
+262203,1684,all-purpose flour,grain,AFR
+262203,6305,vegetable oil,condiment,AFR
+262206,4397,onion,plant,AFR
+262206,4342,garlic,spice,AFR
+262206,16406,ground black pepper,spice,AFR
+262206,4582,tomato sauce,plantproduct,AFR
+262206,4432,green bell pepper,plant,AFR
+262206,4405,green onion,spice,AFR
+262206,16404,paprika,spice,AFR
+262206,4572,tomato,plant,AFR
+264552,3024,lamb,animal,AFR
+264552,4397,onion,plant,AFR
+264552,16406,ground black pepper,spice,AFR
+264552,16404,paprika,spice,AFR
+264552,16386,ground cinnamon,spice,AFR
+264552,6305,vegetable oil,condiment,AFR
+264552,3717,fresh cilantro,spice,AFR
+264552,18860,fresh mint,spice,AFR
+264552,4292,celery,plant,AFR
+264552,2819,canned chickpeas,plantproduct,AFR
+264552,3640,tomato paste,plantproduct,AFR
+264552,4529,zucchini,plant,AFR
+264552,4279,carrot,plant,AFR
+264552,4572,tomato,plant,AFR
+264552,4442,potato,plant,AFR
+268116,16157,butter,dairy,AFR
+268116,4397,onion,plant,AFR
+268116,4432,green bell pepper,plant,AFR
+268116,4342,garlic,spice,AFR
+268116,16133,chicken broth,animal,AFR
+268116,3640,tomato paste,plantproduct,AFR
+268116,5106,lemon,plant,AFR
+270211,3717,fresh cilantro,spice,AFR
+270211,4342,garlic,spice,AFR
+270211,6305,vegetable oil,condiment,AFR
+270211,7842,white vinegar,condiment,AFR
+270211,16406,ground black pepper,spice,AFR
+270211,6494,chicken breast,animal,AFR
+268487,6307,olive oil,condiment,AFR
+268487,1525,brown sugar,condiment,AFR
+268487,1502,honey,animal,AFR
+268487,4397,onion,plant,AFR
+268487,4279,carrot,plant,AFR
+268487,4292,celery,plant,AFR
+268487,4342,garlic,spice,AFR
+268487,16391,curry powder,spice,AFR
+268487,18844,ground coriander,spice,AFR
+268487,16401,ground nutmeg,spice,AFR
+268487,16386,ground cinnamon,spice,AFR
+268487,13968,chicken stock,animal,AFR
+268487,16406,ground black pepper,spice,AFR
+232938,2858,peanut butter,grain,AFR
+232938,3640,tomato paste,plantproduct,AFR
+232938,3868,beef stew meat,animal,AFR
+232938,4397,onion,plant,AFR
+232938,4279,carrot,plant,AFR
+232938,16377,ground allspice,spice,AFR
+232938,16401,ground nutmeg,spice,AFR
+232938,16406,ground black pepper,spice,AFR
+232938,16380,bay leaf,spice,AFR
+231759,16133,chicken broth,animal,AFR
+231759,1650,white rice,grain,AFR
+231759,16157,butter,dairy,AFR
+231759,4397,onion,plant,AFR
+231759,16158,plain yogurt,dairy,AFR
+231759,5107,lemon juice,plantproduct,AFR
+231759,1684,all-purpose flour,grain,AFR
+236464,9725,extra-virgin olive oil,condiment,AFR
+236464,4572,tomato,plant,AFR
+236464,4397,onion,plant,AFR
+236464,4343,fresh ginger root,spice,AFR
+236464,4306,collard greens,plant,AFR
+240348,4397,onion,plant,AFR
+240348,18860,fresh mint,spice,AFR
+240348,6307,olive oil,condiment,AFR
+240348,5107,lemon juice,plantproduct,AFR
+240813,3868,beef stew meat,animal,AFR
+240813,4397,onion,plant,AFR
+240813,4342,garlic,spice,AFR
+240813,24515,harissa,condiment,AFR
+240813,4442,potato,plant,AFR
+240813,4574,canned tomatoes,plantproduct,AFR
+238837,16157,butter,dairy,AFR
+238837,16317,egg,animal,AFR
+238837,1526,white sugar,condiment,AFR
+238837,1636,cornstarch,plantproduct,AFR
+238837,1687,cake flour,grain,AFR
+238837,16278,milk,dairy,AFR
+238837,20303,cinnamon stick,spice,AFR
+238837,16157,butter,dairy,AFR
+238837,16424,vanilla extract,plantproduct,AFR
+255142,16407,cayenne pepper,spice,AFR
+255142,16404,paprika,spice,AFR
+255142,16397,ground ginger,spice,AFR
+255142,16396,garlic powder,spice,AFR
+255142,4786,red bell pepper,plant,AFR
+255142,4397,onion,plant,AFR
+255436,16424,vanilla extract,plantproduct,AFR
+255436,2356,baking powder,other,AFR
+255436,1684,all-purpose flour,grain,AFR
+255466,4397,onion,plant,AFR
+255466,5107,lemon juice,plantproduct,AFR
+255466,4342,garlic,spice,AFR
+255466,16380,bay leaf,spice,AFR
+255466,6305,vegetable oil,condiment,AFR
+255466,5520,chicken bouillon,condiment,AFR
+255466,16406,ground black pepper,spice,AFR
+254960,4397,onion,plant,AFR
+254960,4343,fresh ginger root,spice,AFR
+254960,3725,jalapeno pepper,plant,AFR
+254960,2858,peanut butter,grain,AFR
+254960,3640,tomato paste,plantproduct,AFR
+218559,2829,red lentil,grain,AFR
+218559,5520,chicken bouillon,condiment,AFR
+218559,6307,olive oil,condiment,AFR
+218559,4397,onion,plant,AFR
+218559,16413,saffron,spice,AFR
+218559,16397,ground ginger,spice,AFR
+218559,3868,beef stew meat,animal,AFR
+218559,4292,celery,plant,AFR
+218559,4409,fresh parsley,spice,AFR
+218559,3717,fresh cilantro,spice,AFR
+218559,4572,tomato,plant,AFR
+218559,1684,all-purpose flour,grain,AFR
+218559,3640,tomato paste,plantproduct,AFR
+215272,20269,red onion,plant,AFR
+215272,6420,canola oil,condiment,AFR
+215272,4342,garlic,spice,AFR
+215272,4582,tomato sauce,plantproduct,AFR
+215272,4529,zucchini,plant,AFR
+215272,4279,carrot,plant,AFR
+215277,6305,vegetable oil,condiment,AFR
+215277,4397,onion,plant,AFR
+215277,4342,garlic,spice,AFR
+215277,4343,fresh ginger root,spice,AFR
+215277,3640,tomato paste,plantproduct,AFR
+215277,16407,cayenne pepper,spice,AFR
+215277,4572,tomato,plant,AFR
+215277,3868,beef stew meat,animal,AFR
+215278,20482,frying oil,condiment,AFR
+215278,4397,onion,plant,AFR
+215278,4343,fresh ginger root,spice,AFR
+215278,18699,red chile powder,spice,AFR
+135313,4342,garlic,spice,AFR
+135313,5107,lemon juice,plantproduct,AFR
+256729,6307,olive oil,condiment,AFR
+256729,4397,onion,plant,AFR
+256729,16418,ground turmeric,spice,AFR
+256729,20551,ground cumin,spice,AFR
+256729,18844,ground coriander,spice,AFR
+256729,4442,potato,plant,AFR
+256729,4279,carrot,plant,AFR
+256729,3640,tomato paste,plantproduct,AFR
+256729,21735,ras el hanout,spice,AFR
+256729,2819,canned chickpeas,plantproduct,AFR
+256729,4529,zucchini,plant,AFR
+256729,3717,fresh cilantro,spice,AFR
+256729,1637,couscous,grain,AFR
+256729,16157,butter,dairy,AFR
+256729,24515,harissa,condiment,AFR
+256726,16390,cumin seed,spice,AFR
+256726,16389,ground coriander,spice,AFR
+256726,3752,sesame seed,grain,AFR
+256726,6307,olive oil,condiment,AFR
+256726,20269,red onion,plant,AFR
+256726,4342,garlic,spice,AFR
+256726,10498,diced tomato,plantproduct,AFR
+256726,2819,canned chickpeas,plantproduct,AFR
+256726,23274,vegetable broth,plantproduct,AFR
+256726,5007,dried apricot,plantproduct,AFR
+256726,4409,fresh parsley,spice,AFR
+256726,1502,honey,animal,AFR
+256726,5107,lemon juice,plantproduct,AFR
+256726,20303,cinnamon stick,spice,AFR
+256726,16380,bay leaf,spice,AFR
+256726,1526,white sugar,condiment,AFR
+256726,16158,plain yogurt,dairy,AFR
+258888,6305,vegetable oil,condiment,AFR
+258888,2819,canned chickpeas,plantproduct,AFR
+258888,4572,tomato,plant,AFR
+258888,4397,onion,plant,AFR
+258888,21735,ras el hanout,spice,AFR
+258888,16413,saffron,spice,AFR
+258888,1637,couscous,grain,AFR
+258888,4529,zucchini,plant,AFR
+258888,4279,carrot,plant,AFR
+258888,4292,celery,plant,AFR
+258888,16157,butter,dairy,AFR
+258888,16157,butter,dairy,AFR
+257169,5106,lemon,plant,AFR
+257169,5106,lemon,plant,AFR
+258874,6305,vegetable oil,condiment,AFR
+258874,4442,potato,plant,AFR
+258874,4572,tomato,plant,AFR
+258874,4529,zucchini,plant,AFR
+258874,4397,onion,plant,AFR
+258874,4279,carrot,plant,AFR
+258874,4292,celery,plant,AFR
+258874,18860,fresh mint,spice,AFR
+258874,3717,fresh cilantro,spice,AFR
+258874,16397,ground ginger,spice,AFR
+258874,16386,ground cinnamon,spice,AFR
+258874,16413,saffron,spice,AFR
+262322,1684,all-purpose flour,grain,AFR
+262322,6420,canola oil,condiment,AFR
+262322,16317,egg,animal,AFR
+262322,1526,white sugar,condiment,AFR
+262322,2356,baking powder,other,AFR
+262322,20482,frying oil,condiment,AFR
+262322,1526,white sugar,condiment,AFR
+262322,16382,ground cardamom,spice,AFR
+262818,16418,ground turmeric,spice,AFR
+262818,20551,ground cumin,spice,AFR
+262818,16397,ground ginger,spice,AFR
+262818,16406,ground black pepper,spice,AFR
+262818,16386,ground cinnamon,spice,AFR
+262818,16387,ground clove,spice,AFR
+262818,6307,olive oil,condiment,AFR
+262818,16133,chicken broth,animal,AFR
+262818,16157,butter,dairy,AFR
+262818,4279,carrot,plant,AFR
+262818,4267,cabbage,plant,AFR
+262818,4529,zucchini,plant,AFR
+262818,1637,couscous,grain,AFR
+262840,9725,extra-virgin olive oil,condiment,AFR
+262840,4397,onion,plant,AFR
+262840,4342,garlic,spice,AFR
+262840,20551,ground cumin,spice,AFR
+262840,18699,red chile powder,spice,AFR
+262840,16386,ground cinnamon,spice,AFR
+262840,16418,ground turmeric,spice,AFR
+262840,16387,ground clove,spice,AFR
+262840,18844,ground coriander,spice,AFR
+262840,16397,ground ginger,spice,AFR
+262840,23274,vegetable broth,plantproduct,AFR
+262840,4556,sweet potato,plant,AFR
+262840,4292,celery,plant,AFR
+262840,4279,carrot,plant,AFR
+262840,4529,zucchini,plant,AFR
+262840,2819,canned chickpeas,plantproduct,AFR
+262840,1637,couscous,grain,AFR
+262840,5219,raisin,plantproduct,AFR
+262840,3717,fresh cilantro,spice,AFR
+262840,5107,lemon juice,plantproduct,AFR
+262840,20551,ground cumin,spice,AFR
+262840,20832,orange blossom water,plantproduct,AFR
+262840,16386,ground cinnamon,spice,AFR
+262204,6305,vegetable oil,condiment,AFR
+262204,4397,onion,plant,AFR
+262204,4342,garlic,spice,AFR
+262204,4556,sweet potato,plant,AFR
+262204,2819,canned chickpeas,plantproduct,AFR
+262204,2858,peanut butter,grain,AFR
+262204,5107,lemon juice,plantproduct,AFR
+262204,2882,soy sauce,condiment,AFR
+262147,6307,olive oil,condiment,AFR
+262147,4397,onion,plant,AFR
+262147,4342,garlic,spice,AFR
+262147,16418,ground turmeric,spice,AFR
+262147,18844,ground coriander,spice,AFR
+262147,16390,cumin seed,spice,AFR
+262147,4442,potato,plant,AFR
+262147,4664,crushed tomato,plantproduct,AFR
+262147,4556,sweet potato,plant,AFR
+262147,4279,carrot,plant,AFR
+262147,23274,vegetable broth,plantproduct,AFR
+262202,6307,olive oil,condiment,AFR
+262202,20415,sweet onion,plant,AFR
+262202,4432,green bell pepper,plant,AFR
+262202,4786,red bell pepper,plant,AFR
+262202,4342,garlic,spice,AFR
+262202,16390,cumin seed,spice,AFR
+262202,4572,tomato,plant,AFR
+262202,16317,egg,animal,AFR
+262202,3717,fresh cilantro,spice,AFR
+261701,6305,vegetable oil,condiment,AFR
+261701,4397,onion,plant,AFR
+261701,4572,tomato,plant,AFR
+261701,2819,canned chickpeas,plantproduct,AFR
+261701,3717,fresh cilantro,spice,AFR
+261701,4409,fresh parsley,spice,AFR
+261701,18860,fresh mint,spice,AFR
+261701,16404,paprika,spice,AFR
+261701,16418,ground turmeric,spice,AFR
+261701,16397,ground ginger,spice,AFR
+261701,24515,harissa,condiment,AFR
+261701,16413,saffron,spice,AFR
+261701,1684,all-purpose flour,grain,AFR
+261701,1636,cornstarch,plantproduct,AFR
+269280,1684,all-purpose flour,grain,AFR
+269280,16424,vanilla extract,plantproduct,AFR
+272366,9725,extra-virgin olive oil,condiment,AFR
+272366,3640,tomato paste,plantproduct,AFR
+272366,7428,Worcestershire sauce,condiment,AFR
+272366,1636,cornstarch,plantproduct,AFR
+272366,16380,bay leaf,spice,AFR
+272366,16404,paprika,spice,AFR
+272366,4397,onion,plant,AFR
+272423,6307,olive oil,condiment,AFR
+272423,4397,onion,plant,AFR
+272423,4342,garlic,spice,AFR
+272423,16391,curry powder,spice,AFR
+272423,16397,ground ginger,spice,AFR
+272423,16418,ground turmeric,spice,AFR
+272423,18844,ground coriander,spice,AFR
+272423,20551,ground cumin,spice,AFR
+272423,16386,ground cinnamon,spice,AFR
+272423,16387,ground clove,spice,AFR
+272423,3024,lamb,animal,AFR
+272423,4339,eggplant,plant,AFR
+272423,3640,tomato paste,plantproduct,AFR
+272423,4432,green bell pepper,plant,AFR
+272423,3725,jalapeno pepper,plant,AFR
+272423,7842,white vinegar,condiment,AFR
+272423,5007,dried apricot,plantproduct,AFR
+272423,16158,plain yogurt,dairy,AFR
+272423,1593,apricot jam,plantproduct,AFR
+272424,6307,olive oil,condiment,AFR
+272424,4342,garlic,spice,AFR
+272424,3024,lamb,animal,AFR
+272424,4397,onion,plant,AFR
+272424,16391,curry powder,spice,AFR
+272424,2882,soy sauce,condiment,AFR
+272424,4786,red bell pepper,plant,AFR
+272424,4556,sweet potato,plant,AFR
+272424,5007,dried apricot,plantproduct,AFR
+272424,5219,raisin,plantproduct,AFR
+272424,20244,crushed red pepper,spice,AFR
+268191,16404,paprika,spice,AFR
+268191,20551,ground cumin,spice,AFR
+268191,16406,ground black pepper,spice,AFR
+268191,4397,onion,plant,AFR
+268191,4442,potato,plant,AFR
+268191,4529,zucchini,plant,AFR
+268191,4432,green bell pepper,plant,AFR
+268191,4572,tomato,plant,AFR
+268191,4342,garlic,spice,AFR
+268191,6305,vegetable oil,condiment,AFR
+268191,6307,olive oil,condiment,AFR
+268328,1684,all-purpose flour,grain,AFR
+268328,6305,vegetable oil,condiment,AFR
+264554,3767,almond,grain,AFR
+264554,3767,almond,grain,AFR
+265001,6307,olive oil,condiment,AFR
+265001,4397,onion,plant,AFR
+265001,4342,garlic,spice,AFR
+265001,4516,spinach,plant,AFR
+265001,20551,ground cumin,spice,AFR
+265319,4342,garlic,spice,AFR
+265319,20551,ground cumin,spice,AFR
+265319,16404,paprika,spice,AFR
+265319,16406,ground black pepper,spice,AFR
+265319,16407,cayenne pepper,spice,AFR
+265319,6307,olive oil,condiment,AFR
+265319,3640,tomato paste,plantproduct,AFR
+264482,5107,lemon juice,plantproduct,AFR
+264482,6494,chicken breast,animal,AFR
+264482,6305,vegetable oil,condiment,AFR
+264482,7842,white vinegar,condiment,AFR
+264482,3640,tomato paste,plantproduct,AFR
+264482,16404,paprika,spice,AFR
+264482,16406,ground black pepper,spice,AFR
+264482,4343,fresh ginger root,spice,AFR
+264502,16404,paprika,spice,AFR
+264502,21735,ras el hanout,spice,AFR
+264502,16406,ground black pepper,spice,AFR
+264502,16386,ground cinnamon,spice,AFR
+264502,18844,ground coriander,spice,AFR
+264502,16387,ground clove,spice,AFR
+264502,16401,ground nutmeg,spice,AFR
+264502,16382,ground cardamom,spice,AFR
+264502,16407,cayenne pepper,spice,AFR
+264502,16418,ground turmeric,spice,AFR
+264502,20244,crushed red pepper,spice,AFR
+264502,16157,butter,dairy,AFR
+264502,4397,onion,plant,AFR
+264502,4342,garlic,spice,AFR
+264502,20303,cinnamon stick,spice,AFR
+264502,13968,chicken stock,animal,AFR
+264502,4279,carrot,plant,AFR
+264502,5007,dried apricot,plantproduct,AFR
+264502,5219,raisin,plantproduct,AFR
+264502,1502,honey,animal,AFR
+264502,5107,lemon juice,plantproduct,AFR
+255128,16278,milk,dairy,AFR
+255128,3767,almond,grain,AFR
+255128,16386,ground cinnamon,spice,AFR
+254856,20269,red onion,plant,AFR
+254856,6305,vegetable oil,condiment,AFR
+254856,4572,tomato,plant,AFR
+254857,4397,onion,plant,AFR
+254857,3640,tomato paste,plantproduct,AFR
+254857,7428,Worcestershire sauce,condiment,AFR
+254857,2882,soy sauce,condiment,AFR
+254857,16407,cayenne pepper,spice,AFR
+254858,1526,white sugar,condiment,AFR
+254858,1684,all-purpose flour,grain,AFR
+254858,16317,egg,animal,AFR
+254858,2356,baking powder,other,AFR
+254858,16278,milk,dairy,AFR
+254858,1526,white sugar,condiment,AFR
+254858,16317,egg,animal,AFR
+254858,1684,all-purpose flour,grain,AFR
+254858,1636,cornstarch,plantproduct,AFR
+254858,16424,vanilla extract,plantproduct,AFR
+254858,16386,ground cinnamon,spice,AFR
+255140,1526,white sugar,condiment,AFR
+255140,16424,vanilla extract,plantproduct,AFR
+255140,20482,frying oil,condiment,AFR
+255140,1684,all-purpose flour,grain,AFR
+255140,16317,egg,animal,AFR
+255437,16391,curry powder,spice,AFR
+255437,6307,olive oil,condiment,AFR
+255437,10498,diced tomato,plantproduct,AFR
+255437,4442,potato,plant,AFR
+255437,20269,red onion,plant,AFR
+255437,4432,green bell pepper,plant,AFR
+255437,4405,green onion,spice,AFR
+255437,7428,Worcestershire sauce,condiment,AFR
+255437,16406,ground black pepper,spice,AFR
+255438,6307,olive oil,condiment,AFR
+255438,4342,garlic,spice,AFR
+255438,24515,harissa,condiment,AFR
+255438,21735,ras el hanout,spice,AFR
+255438,18699,red chile powder,spice,AFR
+255438,4572,tomato,plant,AFR
+255438,4432,green bell pepper,plant,AFR
+255438,4397,onion,plant,AFR
+255438,4657,green chile pepper,plant,AFR
+255438,5133,black olive,plantproduct,AFR
+255438,5106,lemon,plant,AFR
+246876,4267,cabbage,plant,AFR
+246876,20415,sweet onion,plant,AFR
+246876,4279,carrot,plant,AFR
+246876,6307,olive oil,condiment,AFR
+246876,4342,garlic,spice,AFR
+246876,20551,ground cumin,spice,AFR
+246876,16418,ground turmeric,spice,AFR
+246876,16397,ground ginger,spice,AFR
+246876,16396,garlic powder,spice,AFR
+245771,16317,egg,animal,AFR
+245771,16404,paprika,spice,AFR
+245771,16418,ground turmeric,spice,AFR
+245771,16397,ground ginger,spice,AFR
+245771,16396,garlic powder,spice,AFR
+245771,6307,olive oil,condiment,AFR
+245771,4397,onion,plant,AFR
+245771,4342,garlic,spice,AFR
+245771,4574,canned tomatoes,plantproduct,AFR
+245771,18844,ground coriander,spice,AFR
+245771,20551,ground cumin,spice,AFR
+162211,4342,garlic,spice,AFR
+162211,6305,vegetable oil,condiment,AFR
+162211,4572,tomato,plant,AFR
+162211,4432,green bell pepper,plant,AFR
+162211,4657,green chile pepper,plant,AFR
+162211,4582,tomato sauce,plantproduct,AFR
+162211,24515,harissa,condiment,AFR
+162211,18699,red chile powder,spice,AFR
+162211,16317,egg,animal,AFR
+215276,20482,frying oil,condiment,AFR
+215276,4442,potato,plant,AFR
+215276,4397,onion,plant,AFR
+215276,4342,garlic,spice,AFR
+215276,4572,tomato,plant,AFR
+215276,3640,tomato paste,plantproduct,AFR
+215276,3868,beef stew meat,animal,AFR
+215276,4267,cabbage,plant,AFR
+215276,4279,carrot,plant,AFR
+215276,4409,fresh parsley,spice,AFR
+215276,16406,ground black pepper,spice,AFR
+215276,1650,white rice,grain,AFR
+215274,6307,olive oil,condiment,AFR
+215274,4397,onion,plant,AFR
+215274,3640,tomato paste,plantproduct,AFR
+215274,4342,garlic,spice,AFR
+215274,16413,saffron,spice,AFR
+215268,16157,butter,dairy,AFR
+215268,1526,white sugar,condiment,AFR
+215268,1593,apricot jam,plantproduct,AFR
+215268,16278,milk,dairy,AFR
+215268,2359,baking soda,other,AFR
+215268,16424,vanilla extract,plantproduct,AFR
+215268,1687,cake flour,grain,AFR
+215269,16317,egg,animal,AFR
+215269,1526,white sugar,condiment,AFR
+215269,1684,all-purpose flour,grain,AFR
+215269,7842,white vinegar,condiment,AFR
+215269,1593,apricot jam,plantproduct,AFR
+215269,2356,baking powder,other,AFR
+215269,2359,baking soda,other,AFR
+215269,16278,milk,dairy,AFR
+215269,1526,white sugar,condiment,AFR
+215269,16157,butter,dairy,AFR
+215269,16424,vanilla extract,plantproduct,AFR

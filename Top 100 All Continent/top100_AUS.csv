@@ -1,0 +1,2946 @@
+recipe_id,ing_id,ing_name,cat,continent
+45827,4442,potato,plant,AUS
+45827,6307,olive oil,condiment,AUS
+45827,4397,onion,plant,AUS
+45827,4582,tomato sauce,plantproduct,AUS
+45827,7428,Worcestershire sauce,condiment,AUS
+45827,16157,butter,dairy,AUS
+45827,1684,all-purpose flour,grain,AUS
+45827,16278,milk,dairy,AUS
+45827,16157,butter,dairy,AUS
+23954,16317,egg,animal,AUS
+23954,2882,soy sauce,condiment,AUS
+23954,4397,onion,plant,AUS
+23954,6305,vegetable oil,condiment,AUS
+23954,4279,carrot,plant,AUS
+23954,4335,cucumber,plant,AUS
+98223,1684,all-purpose flour,grain,AUS
+98223,1636,cornstarch,plantproduct,AUS
+11758,4397,onion,plant,AUS
+11758,16261,sour cream,dairy,AUS
+11758,16234,shredded Mozzarella cheese,dairy,AUS
+11758,16238,grated parmesan cheese,dairy,AUS
+49552,6305,vegetable oil,condiment,AUS
+49552,4397,onion,plant,AUS
+49552,4342,garlic,spice,AUS
+49552,23274,vegetable broth,plantproduct,AUS
+49552,20551,ground cumin,spice,AUS
+49552,16407,cayenne pepper,spice,AUS
+49552,3717,fresh cilantro,spice,AUS
+8665,6494,chicken breast,animal,AUS
+8665,16406,ground black pepper,spice,AUS
+8665,6307,olive oil,condiment,AUS
+8665,4397,onion,plant,AUS
+8665,18930,balsamic vinegar,condiment,AUS
+8665,16403,dried oregano,spice,AUS
+8665,16417,dried thyme,spice,AUS
+26692,5233,strawberry,plant,AUS
+26692,1526,white sugar,condiment,AUS
+26692,1525,brown sugar,condiment,AUS
+67952,6307,olive oil,condiment,AUS
+67952,16406,ground black pepper,spice,AUS
+13651,4397,onion,plant,AUS
+13651,4292,celery,plant,AUS
+13651,16417,dried thyme,spice,AUS
+13651,4409,fresh parsley,spice,AUS
+24202,4442,potato,plant,AUS
+24202,16157,butter,dairy,AUS
+24202,4397,onion,plant,AUS
+24202,16215,shredded Cheddar cheese,dairy,AUS
+24202,4279,carrot,plant,AUS
+24202,6305,vegetable oil,condiment,AUS
+24202,4397,onion,plant,AUS
+24202,1684,all-purpose flour,grain,AUS
+24202,3686,ketchup,condiment,AUS
+24202,16215,shredded Cheddar cheese,dairy,AUS
+54675,4342,garlic,spice,AUS
+54675,6307,olive oil,condiment,AUS
+54675,16238,grated parmesan cheese,dairy,AUS
+54675,4409,fresh parsley,spice,AUS
+33474,4342,garlic,spice,AUS
+33474,16234,shredded Mozzarella cheese,dairy,AUS
+33474,16238,grated parmesan cheese,dairy,AUS
+33474,16223,cream cheese,dairy,AUS
+69538,16238,grated parmesan cheese,dairy,AUS
+69538,6294,mayonnaise,condiment,AUS
+69538,6494,chicken breast,animal,AUS
+14276,3752,sesame seed,grain,AUS
+14276,1526,white sugar,condiment,AUS
+14276,6307,olive oil,condiment,AUS
+14276,7842,white vinegar,condiment,AUS
+14276,16404,paprika,spice,AUS
+14276,7428,Worcestershire sauce,condiment,AUS
+14276,4397,onion,plant,AUS
+14276,4516,spinach,plant,AUS
+14276,5233,strawberry,plant,AUS
+13954,6305,vegetable oil,condiment,AUS
+13954,4397,onion,plant,AUS
+13954,4342,garlic,spice,AUS
+13954,20551,ground cumin,spice,AUS
+13954,16407,cayenne pepper,spice,AUS
+13954,2882,soy sauce,condiment,AUS
+13954,16215,shredded Cheddar cheese,dairy,AUS
+25371,6494,chicken breast,animal,AUS
+25371,5112,lime juice,plantproduct,AUS
+25371,1526,white sugar,condiment,AUS
+25371,16406,ground black pepper,spice,AUS
+25371,4405,green onion,spice,AUS
+25371,4342,garlic,spice,AUS
+25371,16403,dried oregano,spice,AUS
+25371,4572,tomato,plant,AUS
+71722,6305,vegetable oil,condiment,AUS
+71722,4397,onion,plant,AUS
+71722,4342,garlic,spice,AUS
+71722,2882,soy sauce,condiment,AUS
+71722,18868,rice vinegar,condiment,AUS
+71722,4405,green onion,spice,AUS
+22302,6305,vegetable oil,condiment,AUS
+22302,4397,onion,plant,AUS
+22302,4342,garlic,spice,AUS
+22302,20551,ground cumin,spice,AUS
+22302,16403,dried oregano,spice,AUS
+22302,16407,cayenne pepper,spice,AUS
+22302,16133,chicken broth,animal,AUS
+11853,16157,butter,dairy,AUS
+11853,16133,chicken broth,animal,AUS
+11853,16238,grated parmesan cheese,dairy,AUS
+11853,16159,fresh basil,spice,AUS
+11853,16159,fresh basil,spice,AUS
+14132,23274,vegetable broth,plantproduct,AUS
+14132,20551,ground cumin,spice,AUS
+14132,16261,sour cream,dairy,AUS
+14132,4405,green onion,spice,AUS
+17753,16317,egg,animal,AUS
+17753,1684,all-purpose flour,grain,AUS
+17753,2356,baking powder,other,AUS
+17753,1684,all-purpose flour,grain,AUS
+17753,3788,flaked coconut,plantproduct,AUS
+17753,20482,frying oil,condiment,AUS
+61024,5140,orange juice,plantproduct,AUS
+61024,5107,lemon juice,plantproduct,AUS
+61024,18868,rice vinegar,condiment,AUS
+61024,2882,soy sauce,condiment,AUS
+61024,1525,brown sugar,condiment,AUS
+61024,4343,fresh ginger root,spice,AUS
+61024,4342,garlic,spice,AUS
+61024,4405,green onion,spice,AUS
+61024,20244,crushed red pepper,spice,AUS
+61024,1636,cornstarch,plantproduct,AUS
+61024,6494,chicken breast,animal,AUS
+61024,1684,all-purpose flour,grain,AUS
+61024,16406,ground black pepper,spice,AUS
+61024,6307,olive oil,condiment,AUS
+43655,16157,butter,dairy,AUS
+43655,4397,onion,plant,AUS
+43655,4279,carrot,plant,AUS
+43655,4292,celery,plant,AUS
+43655,16423,fresh thyme,spice,AUS
+43655,16380,bay leaf,spice,AUS
+43655,3474,white wine,condiment,AUS
+14745,1502,honey,animal,AUS
+14745,16157,butter,dairy,AUS
+25309,4335,cucumber,plant,AUS
+25309,6294,mayonnaise,condiment,AUS
+25309,4397,onion,plant,AUS
+25309,4409,fresh parsley,spice,AUS
+25309,4342,garlic,spice,AUS
+25309,16317,egg,animal,AUS
+25309,20551,ground cumin,spice,AUS
+25309,16406,ground black pepper,spice,AUS
+25309,16407,cayenne pepper,spice,AUS
+25309,5107,lemon juice,plantproduct,AUS
+25309,6307,olive oil,condiment,AUS
+25309,2112,dry bread crumbs,grain,AUS
+25309,20482,frying oil,condiment,AUS
+25309,4572,tomato,plant,AUS
+39544,4572,tomato,plant,AUS
+39544,4397,onion,plant,AUS
+39544,16133,chicken broth,animal,AUS
+39544,16157,butter,dairy,AUS
+39544,1684,all-purpose flour,grain,AUS
+39544,1526,white sugar,condiment,AUS
+24833,16133,chicken broth,animal,AUS
+24833,9725,extra-virgin olive oil,condiment,AUS
+24833,5112,lime juice,plantproduct,AUS
+24833,20551,ground cumin,spice,AUS
+24833,4405,green onion,spice,AUS
+24833,4786,red bell pepper,plant,AUS
+24833,3717,fresh cilantro,spice,AUS
+26661,1650,white rice,grain,AUS
+26661,4267,cabbage,plant,AUS
+26661,4397,onion,plant,AUS
+26661,16317,egg,animal,AUS
+26661,16406,ground black pepper,spice,AUS
+11808,16157,butter,dairy,AUS
+11808,16258,heavy whipping cream,dairy,AUS
+11808,16406,ground black pepper,spice,AUS
+11808,16238,grated parmesan cheese,dairy,AUS
+8842,6307,olive oil,condiment,AUS
+8842,4397,onion,plant,AUS
+8842,4342,garlic,spice,AUS
+8842,4572,tomato,plant,AUS
+8842,16159,fresh basil,spice,AUS
+8842,16238,grated parmesan cheese,dairy,AUS
+15679,2882,soy sauce,condiment,AUS
+15679,1525,brown sugar,condiment,AUS
+15679,1636,cornstarch,plantproduct,AUS
+15679,6305,vegetable oil,condiment,AUS
+15679,4343,fresh ginger root,spice,AUS
+15679,4342,garlic,spice,AUS
+18327,3752,sesame seed,grain,AUS
+18327,6305,vegetable oil,condiment,AUS
+18327,18868,rice vinegar,condiment,AUS
+18327,6309,sesame oil,condiment,AUS
+18327,1526,white sugar,condiment,AUS
+18327,16397,ground ginger,spice,AUS
+18327,16406,ground black pepper,spice,AUS
+18327,3717,fresh cilantro,spice,AUS
+18327,4405,green onion,spice,AUS
+68380,6305,vegetable oil,condiment,AUS
+68380,6494,chicken breast,animal,AUS
+68380,16223,cream cheese,dairy,AUS
+68380,16215,shredded Cheddar cheese,dairy,AUS
+68380,16278,milk,dairy,AUS
+68380,4342,garlic,spice,AUS
+68380,16157,butter,dairy,AUS
+68380,5107,lemon juice,plantproduct,AUS
+68380,16404,paprika,spice,AUS
+19591,6307,olive oil,condiment,AUS
+19591,4397,onion,plant,AUS
+19591,4342,garlic,spice,AUS
+19591,4572,tomato,plant,AUS
+19591,4378,fresh mushroom,plant,AUS
+19591,4516,spinach,plant,AUS
+19591,20244,crushed red pepper,spice,AUS
+19591,16225,crumbled feta cheese,dairy,AUS
+98390,6057,rolled oat,grain,AUS
+98390,3767,almond,grain,AUS
+98390,3819,walnut,grain,AUS
+98390,1525,brown sugar,condiment,AUS
+98390,1502,honey,animal,AUS
+98390,6305,vegetable oil,condiment,AUS
+98390,16386,ground cinnamon,spice,AUS
+98390,16424,vanilla extract,plantproduct,AUS
+13384,4397,onion,plant,AUS
+13384,16406,ground black pepper,spice,AUS
+13384,4292,celery,plant,AUS
+13384,4279,carrot,plant,AUS
+13384,4442,potato,plant,AUS
+80773,16157,butter,dairy,AUS
+80773,4279,carrot,plant,AUS
+80773,16133,chicken broth,animal,AUS
+80773,16406,ground black pepper,spice,AUS
+80773,4442,potato,plant,AUS
+80773,4378,fresh mushroom,plant,AUS
+80773,1684,all-purpose flour,grain,AUS
+13525,6307,olive oil,condiment,AUS
+13525,4342,garlic,spice,AUS
+13525,16429,fresh rosemary,spice,AUS
+13525,16159,fresh basil,spice,AUS
+13525,16406,ground black pepper,spice,AUS
+45641,4342,garlic,spice,AUS
+45641,16429,fresh rosemary,spice,AUS
+45641,16406,ground black pepper,spice,AUS
+45641,6307,olive oil,condiment,AUS
+45641,16406,ground black pepper,spice,AUS
+45641,6307,olive oil,condiment,AUS
+45641,18873,Dijon mustard,condiment,AUS
+8700,16157,butter,dairy,AUS
+8700,4342,garlic,spice,AUS
+8700,4397,onion,plant,AUS
+8700,4292,celery,plant,AUS
+8700,4279,carrot,plant,AUS
+8700,1684,all-purpose flour,grain,AUS
+8700,1526,white sugar,condiment,AUS
+8700,16406,ground black pepper,spice,AUS
+8700,16133,chicken broth,animal,AUS
+8700,16278,milk,dairy,AUS
+13693,16157,butter,dairy,AUS
+13693,4397,onion,plant,AUS
+13693,4292,celery,plant,AUS
+53733,16417,dried thyme,spice,AUS
+53733,16406,ground black pepper,spice,AUS
+53733,16157,butter,dairy,AUS
+53733,6307,olive oil,condiment,AUS
+53733,5140,orange juice,plantproduct,AUS
+53733,16423,fresh thyme,spice,AUS
+14811,16223,cream cheese,dairy,AUS
+14811,6294,mayonnaise,condiment,AUS
+14811,4335,cucumber,plant,AUS
+11959,4397,onion,plant,AUS
+11959,4342,garlic,spice,AUS
+11959,4582,tomato sauce,plantproduct,AUS
+11959,16403,dried oregano,spice,AUS
+11959,16238,grated parmesan cheese,dairy,AUS
+11959,16234,shredded Mozzarella cheese,dairy,AUS
+19125,6307,olive oil,condiment,AUS
+19125,4342,garlic,spice,AUS
+19125,6494,chicken breast,animal,AUS
+19125,16404,paprika,spice,AUS
+19125,1525,brown sugar,condiment,AUS
+25922,6307,olive oil,condiment,AUS
+25922,5107,lemon juice,plantproduct,AUS
+25922,4572,tomato,plant,AUS
+25922,4335,cucumber,plant,AUS
+25922,4405,green onion,spice,AUS
+25922,4279,carrot,plant,AUS
+25922,4409,fresh parsley,spice,AUS
+60616,4237,fresh green bean,plant,AUS
+60616,16157,butter,dairy,AUS
+60616,1526,white sugar,condiment,AUS
+60616,16406,ground black pepper,spice,AUS
+60616,16159,fresh basil,spice,AUS
+60616,10895,cherry tomato,plant,AUS
+25300,6307,olive oil,condiment,AUS
+25300,4397,onion,plant,AUS
+25300,4342,garlic,spice,AUS
+25300,16317,egg,animal,AUS
+25300,16157,butter,dairy,AUS
+25300,1684,all-purpose flour,grain,AUS
+25300,4409,fresh parsley,spice,AUS
+25300,16159,fresh basil,spice,AUS
+25300,16238,grated parmesan cheese,dairy,AUS
+15427,4397,onion,plant,AUS
+15427,16429,fresh rosemary,spice,AUS
+12816,16157,butter,dairy,AUS
+12816,4397,onion,plant,AUS
+12816,4342,garlic,spice,AUS
+12816,4409,fresh parsley,spice,AUS
+12816,16133,chicken broth,animal,AUS
+12816,16380,bay leaf,spice,AUS
+12816,16417,dried thyme,spice,AUS
+12816,16403,dried oregano,spice,AUS
+12816,3474,white wine,condiment,AUS
+89452,4529,zucchini,plant,AUS
+89452,16406,ground black pepper,spice,AUS
+89452,16238,grated parmesan cheese,dairy,AUS
+89452,16318,egg white,animal,AUS
+57002,18873,Dijon mustard,condiment,AUS
+57002,6305,vegetable oil,condiment,AUS
+57002,16157,butter,dairy,AUS
+57002,4663,shallot,plant,AUS
+57002,18873,Dijon mustard,condiment,AUS
+57002,16258,heavy whipping cream,dairy,AUS
+8546,6494,chicken breast,animal,AUS
+8546,16215,shredded Cheddar cheese,dairy,AUS
+8546,16157,butter,dairy,AUS
+8546,3474,white wine,condiment,AUS
+8546,1636,cornstarch,plantproduct,AUS
+8546,4409,fresh parsley,spice,AUS
+12906,6494,chicken breast,animal,AUS
+12906,16396,garlic powder,spice,AUS
+12906,20551,ground cumin,spice,AUS
+12906,16406,ground black pepper,spice,AUS
+42067,16317,egg,animal,AUS
+42067,4397,onion,plant,AUS
+42067,4342,garlic,spice,AUS
+42067,6307,olive oil,condiment,AUS
+25690,6307,olive oil,condiment,AUS
+25690,4397,onion,plant,AUS
+25690,4342,garlic,spice,AUS
+25690,4582,tomato sauce,plantproduct,AUS
+25690,16403,dried oregano,spice,AUS
+25690,16238,grated parmesan cheese,dairy,AUS
+58645,16157,butter,dairy,AUS
+58645,6307,olive oil,condiment,AUS
+58645,16238,grated parmesan cheese,dairy,AUS
+17971,4397,onion,plant,AUS
+17971,4343,fresh ginger root,spice,AUS
+17971,4279,carrot,plant,AUS
+17971,16407,cayenne pepper,spice,AUS
+17971,3717,fresh cilantro,spice,AUS
+45688,4405,green onion,spice,AUS
+45688,2882,soy sauce,condiment,AUS
+45688,1525,brown sugar,condiment,AUS
+45688,16391,curry powder,spice,AUS
+45688,4343,fresh ginger root,spice,AUS
+45688,4378,fresh mushroom,plant,AUS
+45688,16159,fresh basil,spice,AUS
+87438,6307,olive oil,condiment,AUS
+87438,4397,onion,plant,AUS
+87438,16406,ground black pepper,spice,AUS
+87438,16396,garlic powder,spice,AUS
+87438,4342,garlic,spice,AUS
+87438,18930,balsamic vinegar,condiment,AUS
+87438,16225,crumbled feta cheese,dairy,AUS
+8709,16396,garlic powder,spice,AUS
+8709,16406,ground black pepper,spice,AUS
+8709,5106,lemon,plant,AUS
+8709,6307,olive oil,condiment,AUS
+18870,1502,honey,animal,AUS
+18870,18873,Dijon mustard,condiment,AUS
+18870,16429,fresh rosemary,spice,AUS
+18870,16406,ground black pepper,spice,AUS
+18870,5110,lemon zest,plant,AUS
+18870,4342,garlic,spice,AUS
+11789,6307,olive oil,condiment,AUS
+11789,4342,garlic,spice,AUS
+11789,20244,crushed red pepper,spice,AUS
+11789,4409,fresh parsley,spice,AUS
+14184,18930,balsamic vinegar,condiment,AUS
+14184,6305,vegetable oil,condiment,AUS
+14184,1526,white sugar,condiment,AUS
+14184,16406,ground black pepper,spice,AUS
+14184,20551,ground cumin,spice,AUS
+14184,3717,fresh cilantro,spice,AUS
+24239,16159,fresh basil,spice,AUS
+24239,18860,fresh mint,spice,AUS
+24239,3717,fresh cilantro,spice,AUS
+24239,5112,lime juice,plantproduct,AUS
+24239,4342,garlic,spice,AUS
+24239,1526,white sugar,condiment,AUS
+35440,16157,butter,dairy,AUS
+35440,1684,all-purpose flour,grain,AUS
+35440,16133,chicken broth,animal,AUS
+35440,4342,garlic,spice,AUS
+35440,20551,ground cumin,spice,AUS
+35440,20482,frying oil,condiment,AUS
+35440,16215,shredded Cheddar cheese,dairy,AUS
+35440,16258,heavy whipping cream,dairy,AUS
+35440,4405,green onion,spice,AUS
+35440,10895,cherry tomato,plant,AUS
+24712,1636,cornstarch,plantproduct,AUS
+24712,4342,garlic,spice,AUS
+24712,4343,fresh ginger root,spice,AUS
+24712,6305,vegetable oil,condiment,AUS
+24712,4252,broccoli,plant,AUS
+24712,4279,carrot,plant,AUS
+24712,4237,fresh green bean,plant,AUS
+24712,2882,soy sauce,condiment,AUS
+24712,4397,onion,plant,AUS
+29940,16157,butter,dairy,AUS
+29940,4397,onion,plant,AUS
+29940,4342,garlic,spice,AUS
+29940,23274,vegetable broth,plantproduct,AUS
+13517,6307,olive oil,condiment,AUS
+13517,16404,paprika,spice,AUS
+12732,16157,butter,dairy,AUS
+12732,4397,onion,plant,AUS
+12732,4378,fresh mushroom,plant,AUS
+12732,4292,celery,plant,AUS
+12732,4442,potato,plant,AUS
+12732,1684,all-purpose flour,grain,AUS
+12732,16406,ground black pepper,spice,AUS
+47044,6307,olive oil,condiment,AUS
+47044,4516,spinach,plant,AUS
+47044,4405,green onion,spice,AUS
+47044,4342,garlic,spice,AUS
+47044,16317,egg,animal,AUS
+47044,16278,milk,dairy,AUS
+47044,16215,shredded Cheddar cheese,dairy,AUS
+62642,4279,carrot,plant,AUS
+62642,4397,onion,plant,AUS
+62642,16278,milk,dairy,AUS
+62642,3717,fresh cilantro,spice,AUS
+23813,5140,orange juice,plantproduct,AUS
+23813,3474,white wine,condiment,AUS
+23813,16429,fresh rosemary,spice,AUS
+23813,16406,ground black pepper,spice,AUS
+23813,6494,chicken breast,animal,AUS
+23813,16157,butter,dairy,AUS
+23813,6307,olive oil,condiment,AUS
+19389,4572,tomato,plant,AUS
+19389,4335,cucumber,plant,AUS
+19389,20269,red onion,plant,AUS
+19389,16225,crumbled feta cheese,dairy,AUS
+19389,4409,fresh parsley,spice,AUS
+19389,5107,lemon juice,plantproduct,AUS
+19389,16403,dried oregano,spice,AUS
+16611,16133,chicken broth,animal,AUS
+16611,16406,ground black pepper,spice,AUS
+16611,16403,dried oregano,spice,AUS
+16611,4342,garlic,spice,AUS
+16611,6494,chicken breast,animal,AUS
+16611,2112,dry bread crumbs,grain,AUS
+16611,6307,olive oil,condiment,AUS
+16611,4378,fresh mushroom,plant,AUS
+15735,4292,celery,plant,AUS
+15735,4397,onion,plant,AUS
+15735,16406,ground black pepper,spice,AUS
+15735,16391,curry powder,spice,AUS
+15735,6294,mayonnaise,condiment,AUS
+87651,6305,vegetable oil,condiment,AUS
+87651,4397,onion,plant,AUS
+87651,4529,zucchini,plant,AUS
+87651,2882,soy sauce,condiment,AUS
+87651,3752,sesame seed,grain,AUS
+87651,16406,ground black pepper,spice,AUS
+22315,5375,bacon,animal,AUS
+22315,4529,zucchini,plant,AUS
+22315,4397,onion,plant,AUS
+22315,16406,ground black pepper,spice,AUS
+73456,6307,olive oil,condiment,AUS
+73456,4342,garlic,spice,AUS
+73456,20244,crushed red pepper,spice,AUS
+73456,16159,fresh basil,spice,AUS
+73456,1526,white sugar,condiment,AUS
+73456,16157,butter,dairy,AUS
+73456,4529,zucchini,plant,AUS
+73456,20244,crushed red pepper,spice,AUS
+73456,16234,shredded Mozzarella cheese,dairy,AUS
+11669,4516,spinach,plant,AUS
+11669,16225,crumbled feta cheese,dairy,AUS
+20193,2750,salmon fillet,animal,AUS
+20193,4342,garlic,spice,AUS
+20193,5106,lemon,plant,AUS
+20193,4405,green onion,spice,AUS
+8934,4342,garlic,spice,AUS
+8934,4343,fresh ginger root,spice,AUS
+8934,4405,green onion,spice,AUS
+8934,6494,chicken breast,animal,AUS
+8934,4397,onion,plant,AUS
+8934,4267,cabbage,plant,AUS
+8934,4786,red bell pepper,plant,AUS
+8934,16133,chicken broth,animal,AUS
+8934,2882,soy sauce,condiment,AUS
+8934,1526,white sugar,condiment,AUS
+8934,1636,cornstarch,plantproduct,AUS
+11704,5375,bacon,animal,AUS
+11704,4397,onion,plant,AUS
+11704,4342,garlic,spice,AUS
+11704,16407,cayenne pepper,spice,AUS
+11704,16159,fresh basil,spice,AUS
+11704,16238,grated parmesan cheese,dairy,AUS
+18093,4397,onion,plant,AUS
+18093,16157,butter,dairy,AUS
+18093,16261,sour cream,dairy,AUS
+18093,16157,butter,dairy,AUS
+23783,3819,walnut,grain,AUS
+23783,4516,spinach,plant,AUS
+23783,4572,tomato,plant,AUS
+23783,5012,avocado,plant,AUS
+23783,20269,red onion,plant,AUS
+23783,16406,ground black pepper,spice,AUS
+10211,1527,confectioners' sugar,condiment,AUS
+10211,3819,walnut,grain,AUS
+87496,6307,olive oil,condiment,AUS
+87496,4342,garlic,spice,AUS
+87496,20551,ground cumin,spice,AUS
+87496,16418,ground turmeric,spice,AUS
+87496,16407,cayenne pepper,spice,AUS
+87496,16133,chicken broth,animal,AUS
+87496,3717,fresh cilantro,spice,AUS
+87496,4409,fresh parsley,spice,AUS
+87496,16406,ground black pepper,spice,AUS
+93234,1526,white sugar,condiment,AUS
+93234,3819,walnut,grain,AUS
+93234,16318,egg white,animal,AUS
+93234,6294,mayonnaise,condiment,AUS
+93234,1502,honey,animal,AUS
+93234,20482,frying oil,condiment,AUS
+14732,6305,vegetable oil,condiment,AUS
+14732,4397,onion,plant,AUS
+14732,16406,ground black pepper,spice,AUS
+14732,1525,brown sugar,condiment,AUS
+19165,16319,egg yolk,animal,AUS
+19165,1526,white sugar,condiment,AUS
+19165,16424,vanilla extract,plantproduct,AUS
+19165,16258,heavy whipping cream,dairy,AUS
+19165,1525,brown sugar,condiment,AUS
+38828,16238,grated parmesan cheese,dairy,AUS
+38828,16396,garlic powder,spice,AUS
+38828,16157,butter,dairy,AUS
+38828,4409,fresh parsley,spice,AUS
+71698,2882,soy sauce,condiment,AUS
+71698,1502,honey,animal,AUS
+71698,6309,sesame oil,condiment,AUS
+71698,18868,rice vinegar,condiment,AUS
+71698,3752,sesame seed,grain,AUS
+71698,6307,olive oil,condiment,AUS
+8596,5106,lemon,plant,AUS
+8596,16403,dried oregano,spice,AUS
+8596,4342,garlic,spice,AUS
+8596,6307,olive oil,condiment,AUS
+8596,16406,ground black pepper,spice,AUS
+18791,6307,olive oil,condiment,AUS
+18791,4397,onion,plant,AUS
+18791,18930,balsamic vinegar,condiment,AUS
+18791,3474,white wine,condiment,AUS
+18791,16157,butter,dairy,AUS
+18791,16423,fresh thyme,spice,AUS
+76137,6307,olive oil,condiment,AUS
+76137,4342,garlic,spice,AUS
+76137,16380,bay leaf,spice,AUS
+76137,20551,ground cumin,spice,AUS
+76137,4516,spinach,plant,AUS
+65442,6294,mayonnaise,condiment,AUS
+65442,1526,white sugar,condiment,AUS
+65442,7842,white vinegar,condiment,AUS
+65442,4335,cucumber,plant,AUS
+50096,1525,brown sugar,condiment,AUS
+50096,16157,butter,dairy,AUS
+50096,6307,olive oil,condiment,AUS
+50096,4342,garlic,spice,AUS
+50096,4292,celery,plant,AUS
+50096,4279,carrot,plant,AUS
+50096,20551,ground cumin,spice,AUS
+50096,16133,chicken broth,animal,AUS
+24132,16223,cream cheese,dairy,AUS
+24132,16317,egg,animal,AUS
+24132,16157,butter,dairy,AUS
+87590,6309,sesame oil,condiment,AUS
+87590,4237,fresh green bean,plant,AUS
+87590,2882,soy sauce,condiment,AUS
+87590,3752,sesame seed,grain,AUS
+36927,6307,olive oil,condiment,AUS
+36927,4397,onion,plant,AUS
+36927,4279,carrot,plant,AUS
+36927,4342,garlic,spice,AUS
+36927,16429,fresh rosemary,spice,AUS
+36927,16423,fresh thyme,spice,AUS
+84590,6494,chicken breast,animal,AUS
+84590,6307,olive oil,condiment,AUS
+29460,16397,ground ginger,spice,AUS
+29460,16396,garlic powder,spice,AUS
+29460,2882,soy sauce,condiment,AUS
+29460,5140,orange juice,plantproduct,AUS
+29460,1502,honey,animal,AUS
+29460,4405,green onion,spice,AUS
+29460,2750,salmon fillet,animal,AUS
+34638,16157,butter,dairy,AUS
+34638,16404,paprika,spice,AUS
+34638,5106,lemon,plant,AUS
+72567,16258,heavy whipping cream,dairy,AUS
+72567,1526,white sugar,condiment,AUS
+72567,16424,vanilla extract,plantproduct,AUS
+82452,16157,butter,dairy,AUS
+82452,4342,garlic,spice,AUS
+82452,16429,fresh rosemary,spice,AUS
+82452,4516,spinach,plant,AUS
+14676,16317,egg,animal,AUS
+14676,4397,onion,plant,AUS
+14676,4409,fresh parsley,spice,AUS
+14676,16406,ground black pepper,spice,AUS
+14676,7428,Worcestershire sauce,condiment,AUS
+12126,16318,egg white,animal,AUS
+12126,1526,white sugar,condiment,AUS
+12126,16424,vanilla extract,plantproduct,AUS
+12126,5107,lemon juice,plantproduct,AUS
+12126,1636,cornstarch,plantproduct,AUS
+12126,16258,heavy whipping cream,dairy,AUS
+37918,16157,butter,dairy,AUS
+37918,5106,lemon,plant,AUS
+37918,16406,ground black pepper,spice,AUS
+37918,4342,garlic,spice,AUS
+12043,6307,olive oil,condiment,AUS
+12043,4342,garlic,spice,AUS
+12043,4529,zucchini,plant,AUS
+12043,16407,cayenne pepper,spice,AUS
+12043,16159,fresh basil,spice,AUS
+12043,16238,grated parmesan cheese,dairy,AUS
+104806,10895,cherry tomato,plant,AUS
+104806,16159,fresh basil,spice,AUS
+104806,18930,balsamic vinegar,condiment,AUS
+104806,9725,extra-virgin olive oil,condiment,AUS
+60924,9725,extra-virgin olive oil,condiment,AUS
+60924,4342,garlic,spice,AUS
+60924,16417,dried thyme,spice,AUS
+60924,16406,ground black pepper,spice,AUS
+110061,3717,fresh cilantro,spice,AUS
+110061,1526,white sugar,condiment,AUS
+110061,4342,garlic,spice,AUS
+110061,10895,cherry tomato,plant,AUS
+110061,4405,green onion,spice,AUS
+12965,6305,vegetable oil,condiment,AUS
+12965,4397,onion,plant,AUS
+12965,16391,curry powder,spice,AUS
+12965,4279,carrot,plant,AUS
+12965,23274,vegetable broth,plantproduct,AUS
+18182,6494,chicken breast,animal,AUS
+18182,4397,onion,plant,AUS
+18182,4342,garlic,spice,AUS
+18182,4279,carrot,plant,AUS
+18182,4292,celery,plant,AUS
+18182,4343,fresh ginger root,spice,AUS
+18182,16404,paprika,spice,AUS
+18182,20551,ground cumin,spice,AUS
+18182,16403,dried oregano,spice,AUS
+18182,16407,cayenne pepper,spice,AUS
+18182,16418,ground turmeric,spice,AUS
+18182,4529,zucchini,plant,AUS
+18182,5107,lemon juice,plantproduct,AUS
+135799,16406,ground black pepper,spice,AUS
+135799,9725,extra-virgin olive oil,condiment,AUS
+135799,16133,chicken broth,animal,AUS
+135799,5107,lemon juice,plantproduct,AUS
+135799,16157,butter,dairy,AUS
+100811,16157,butter,dairy,AUS
+100811,16133,chicken broth,animal,AUS
+100811,4267,cabbage,plant,AUS
+16015,20269,red onion,plant,AUS
+16015,1526,white sugar,condiment,AUS
+47439,6307,olive oil,condiment,AUS
+47439,4397,onion,plant,AUS
+47439,4342,garlic,spice,AUS
+47439,16380,bay leaf,spice,AUS
+47439,16391,curry powder,spice,AUS
+47439,3795,coconut milk,plantproduct,AUS
+47439,5106,lemon,plant,AUS
+46819,6494,chicken breast,animal,AUS
+46819,2882,soy sauce,condiment,AUS
+46819,6305,vegetable oil,condiment,AUS
+46819,4342,garlic,spice,AUS
+46819,4397,onion,plant,AUS
+46819,16406,ground black pepper,spice,AUS
+46819,1526,white sugar,condiment,AUS
+46819,4252,broccoli,plant,AUS
+46819,1636,cornstarch,plantproduct,AUS
+133941,2112,dry bread crumbs,grain,AUS
+133941,18873,Dijon mustard,condiment,AUS
+133941,6307,olive oil,condiment,AUS
+133941,1502,honey,animal,AUS
+133941,6494,chicken breast,animal,AUS
+71600,10895,cherry tomato,plant,AUS
+71600,18868,rice vinegar,condiment,AUS
+71600,16406,ground black pepper,spice,AUS
+71600,16238,grated parmesan cheese,dairy,AUS
+71600,5012,avocado,plant,AUS
+81441,5112,lime juice,plantproduct,AUS
+81441,6307,olive oil,condiment,AUS
+81441,4405,green onion,spice,AUS
+81441,4342,garlic,spice,AUS
+81441,20551,ground cumin,spice,AUS
+81441,16317,egg,animal,AUS
+81441,2112,dry bread crumbs,grain,AUS
+41750,5140,orange juice,plantproduct,AUS
+41750,1525,brown sugar,condiment,AUS
+41750,1502,honey,animal,AUS
+16717,4516,spinach,plant,AUS
+16717,5233,strawberry,plant,AUS
+16717,1526,white sugar,condiment,AUS
+16717,6305,vegetable oil,condiment,AUS
+25441,1525,brown sugar,condiment,AUS
+25441,7428,Worcestershire sauce,condiment,AUS
+25441,4582,tomato sauce,plantproduct,AUS
+34911,6305,vegetable oil,condiment,AUS
+34911,4342,garlic,spice,AUS
+34911,6494,chicken breast,animal,AUS
+34911,1526,white sugar,condiment,AUS
+34911,2882,soy sauce,condiment,AUS
+34911,4405,green onion,spice,AUS
+34911,16159,fresh basil,spice,AUS
+34911,3717,fresh cilantro,spice,AUS
+78131,1650,white rice,grain,AUS
+78131,4237,fresh green bean,plant,AUS
+78131,6307,olive oil,condiment,AUS
+78131,6494,chicken breast,animal,AUS
+78131,1502,honey,animal,AUS
+78131,5107,lemon juice,plantproduct,AUS
+78131,4405,green onion,spice,AUS
+85881,4335,cucumber,plant,AUS
+85881,5012,avocado,plant,AUS
+85881,3717,fresh cilantro,spice,AUS
+85881,4342,garlic,spice,AUS
+85881,4405,green onion,spice,AUS
+85881,16406,ground black pepper,spice,AUS
+85881,5106,lemon,plant,AUS
+11698,10895,cherry tomato,plant,AUS
+11698,6307,olive oil,condiment,AUS
+11698,4342,garlic,spice,AUS
+11698,16406,ground black pepper,spice,AUS
+12899,4786,red bell pepper,plant,AUS
+12899,4397,onion,plant,AUS
+12899,4292,celery,plant,AUS
+12899,4279,carrot,plant,AUS
+12899,4252,broccoli,plant,AUS
+12899,1684,all-purpose flour,grain,AUS
+12899,4409,fresh parsley,spice,AUS
+12899,16215,shredded Cheddar cheese,dairy,AUS
+12899,16406,ground black pepper,spice,AUS
+12899,16278,milk,dairy,AUS
+88404,2750,salmon fillet,animal,AUS
+88404,2882,soy sauce,condiment,AUS
+88404,4343,fresh ginger root,spice,AUS
+88404,4342,garlic,spice,AUS
+88404,1525,brown sugar,condiment,AUS
+88404,4405,green onion,spice,AUS
+14238,20269,red onion,plant,AUS
+14238,4342,garlic,spice,AUS
+14238,4572,tomato,plant,AUS
+14238,4409,fresh parsley,spice,AUS
+14238,6307,olive oil,condiment,AUS
+14238,5107,lemon juice,plantproduct,AUS
+41998,4397,onion,plant,AUS
+41998,16429,fresh rosemary,spice,AUS
+41998,6307,olive oil,condiment,AUS
+11723,6307,olive oil,condiment,AUS
+11723,6307,olive oil,condiment,AUS
+11723,4405,green onion,spice,AUS
+11723,4342,garlic,spice,AUS
+11723,16406,ground black pepper,spice,AUS
+11723,16238,grated parmesan cheese,dairy,AUS
+7385,16223,cream cheese,dairy,AUS
+7385,1526,white sugar,condiment,AUS
+7385,1684,all-purpose flour,grain,AUS
+7385,16317,egg,animal,AUS
+7385,16258,heavy whipping cream,dairy,AUS
+7385,16424,vanilla extract,plantproduct,AUS
+7385,16258,heavy whipping cream,dairy,AUS
+21775,16258,heavy whipping cream,dairy,AUS
+21775,1526,white sugar,condiment,AUS
+21775,16223,cream cheese,dairy,AUS
+21775,5107,lemon juice,plantproduct,AUS
+21775,16424,vanilla extract,plantproduct,AUS
+21775,1526,white sugar,condiment,AUS
+69410,3474,white wine,condiment,AUS
+69410,4663,shallot,plant,AUS
+69410,2882,soy sauce,condiment,AUS
+69410,6307,olive oil,condiment,AUS
+69410,3717,fresh cilantro,spice,AUS
+148802,6307,olive oil,condiment,AUS
+148802,4342,garlic,spice,AUS
+148802,16397,ground ginger,spice,AUS
+148802,16133,chicken broth,animal,AUS
+148802,2882,soy sauce,condiment,AUS
+148802,1526,white sugar,condiment,AUS
+148802,4378,fresh mushroom,plant,AUS
+148802,4516,spinach,plant,AUS
+148802,5112,lime juice,plantproduct,AUS
+148802,3717,fresh cilantro,spice,AUS
+148802,4405,green onion,spice,AUS
+150313,3795,coconut milk,plantproduct,AUS
+150313,1526,white sugar,condiment,AUS
+150313,3795,coconut milk,plantproduct,AUS
+150313,1526,white sugar,condiment,AUS
+150313,5121,mango,plant,AUS
+150313,3752,sesame seed,grain,AUS
+32620,5121,mango,plant,AUS
+32620,1526,white sugar,condiment,AUS
+15034,4371,romaine lettuce,plant,AUS
+15034,4405,green onion,spice,AUS
+15034,1526,white sugar,condiment,AUS
+15034,6307,olive oil,condiment,AUS
+15034,1526,white sugar,condiment,AUS
+15034,20244,crushed red pepper,spice,AUS
+15034,16406,ground black pepper,spice,AUS
+19693,6307,olive oil,condiment,AUS
+19693,16317,egg,animal,AUS
+19693,2112,dry bread crumbs,grain,AUS
+19693,4572,tomato,plant,AUS
+19693,16238,grated parmesan cheese,dairy,AUS
+7073,16157,butter,dairy,AUS
+7073,1526,white sugar,condiment,AUS
+7073,16317,egg,animal,AUS
+7073,16318,egg white,animal,AUS
+7073,1684,all-purpose flour,grain,AUS
+7073,16386,ground cinnamon,spice,AUS
+7073,16319,egg yolk,animal,AUS
+7073,1527,confectioners' sugar,condiment,AUS
+7073,16424,vanilla extract,plantproduct,AUS
+7073,16278,milk,dairy,AUS
+50843,6307,olive oil,condiment,AUS
+50843,18930,balsamic vinegar,condiment,AUS
+50843,16417,dried thyme,spice,AUS
+50843,16407,cayenne pepper,spice,AUS
+50843,4342,garlic,spice,AUS
+50843,3819,walnut,grain,AUS
+50843,16223,cream cheese,dairy,AUS
+46028,6307,olive oil,condiment,AUS
+46028,4378,fresh mushroom,plant,AUS
+46028,3474,white wine,condiment,AUS
+46028,4342,garlic,spice,AUS
+89595,5012,avocado,plant,AUS
+89595,5121,mango,plant,AUS
+89595,20269,red onion,plant,AUS
+89595,3717,fresh cilantro,spice,AUS
+72876,3819,walnut,grain,AUS
+72876,20269,red onion,plant,AUS
+72876,6307,olive oil,condiment,AUS
+72876,6305,vegetable oil,condiment,AUS
+72876,5140,orange juice,plantproduct,AUS
+72876,1526,white sugar,condiment,AUS
+72876,18930,balsamic vinegar,condiment,AUS
+72876,18873,Dijon mustard,condiment,AUS
+72876,16403,dried oregano,spice,AUS
+72876,16406,ground black pepper,spice,AUS
+18262,16406,ground black pepper,spice,AUS
+18262,16396,garlic powder,spice,AUS
+18262,16157,butter,dairy,AUS
+18262,5106,lemon,plant,AUS
+18262,4409,fresh parsley,spice,AUS
+20312,6307,olive oil,condiment,AUS
+20312,4342,garlic,spice,AUS
+20312,4343,fresh ginger root,spice,AUS
+20312,4397,onion,plant,AUS
+20312,20551,ground cumin,spice,AUS
+20312,16418,ground turmeric,spice,AUS
+20312,16261,sour cream,dairy,AUS
+20312,4516,spinach,plant,AUS
+20312,4572,tomato,plant,AUS
+20312,3717,fresh cilantro,spice,AUS
+29942,6307,olive oil,condiment,AUS
+29942,6294,mayonnaise,condiment,AUS
+29942,4342,garlic,spice,AUS
+29942,4572,tomato,plant,AUS
+29942,16225,crumbled feta cheese,dairy,AUS
+29942,16159,fresh basil,spice,AUS
+47569,5012,avocado,plant,AUS
+47569,4342,garlic,spice,AUS
+47569,5107,lemon juice,plantproduct,AUS
+47569,2750,salmon fillet,animal,AUS
+21736,2750,salmon fillet,animal,AUS
+21736,6307,olive oil,condiment,AUS
+21736,16406,ground black pepper,spice,AUS
+21736,5106,lemon,plant,AUS
+86957,4516,spinach,plant,AUS
+86957,16215,shredded Cheddar cheese,dairy,AUS
+86957,16157,butter,dairy,AUS
+86957,4342,garlic,spice,AUS
+86957,6305,vegetable oil,condiment,AUS
+14438,4572,tomato,plant,AUS
+14438,4335,cucumber,plant,AUS
+14438,4405,green onion,spice,AUS
+14438,4342,garlic,spice,AUS
+14438,4409,fresh parsley,spice,AUS
+14438,18860,fresh mint,spice,AUS
+14438,5107,lemon juice,plantproduct,AUS
+14438,6307,olive oil,condiment,AUS
+55207,6305,vegetable oil,condiment,AUS
+55207,4397,onion,plant,AUS
+55207,4342,garlic,spice,AUS
+55207,4343,fresh ginger root,spice,AUS
+55207,20551,ground cumin,spice,AUS
+55207,16386,ground cinnamon,spice,AUS
+55207,4572,tomato,plant,AUS
+55207,4279,carrot,plant,AUS
+55207,16407,cayenne pepper,spice,AUS
+55207,3717,fresh cilantro,spice,AUS
+77931,6307,olive oil,condiment,AUS
+77931,4397,onion,plant,AUS
+77931,16157,butter,dairy,AUS
+77931,1526,white sugar,condiment,AUS
+77931,4342,garlic,spice,AUS
+77931,16386,ground cinnamon,spice,AUS
+77931,16397,ground ginger,spice,AUS
+77931,16407,cayenne pepper,spice,AUS
+77931,16133,chicken broth,animal,AUS
+26350,6294,mayonnaise,condiment,AUS
+26350,4342,garlic,spice,AUS
+26350,16404,paprika,spice,AUS
+26350,5140,orange juice,plantproduct,AUS
+26350,16319,egg yolk,animal,AUS
+26350,4342,garlic,spice,AUS
+26350,20551,ground cumin,spice,AUS
+26350,16406,ground black pepper,spice,AUS
+26350,6307,olive oil,condiment,AUS
+22956,4397,onion,plant,AUS
+22956,4342,garlic,spice,AUS
+22956,23274,vegetable broth,plantproduct,AUS
+22956,16380,bay leaf,spice,AUS
+22956,1525,brown sugar,condiment,AUS
+22956,16391,curry powder,spice,AUS
+22956,16403,dried oregano,spice,AUS
+22956,16386,ground cinnamon,spice,AUS
+22956,16401,ground nutmeg,spice,AUS
+22956,4409,fresh parsley,spice,AUS
+14458,3819,walnut,grain,AUS
+14458,18930,balsamic vinegar,condiment,AUS
+14458,20269,red onion,plant,AUS
+14458,1526,white sugar,condiment,AUS
+14458,18873,Dijon mustard,condiment,AUS
+14458,6305,vegetable oil,condiment,AUS
+14403,4335,cucumber,plant,AUS
+14403,16225,crumbled feta cheese,dairy,AUS
+14403,20269,red onion,plant,AUS
+14151,10895,cherry tomato,plant,AUS
+14151,6305,vegetable oil,condiment,AUS
+14151,16403,dried oregano,spice,AUS
+14151,1526,white sugar,condiment,AUS
+105553,5121,mango,plant,AUS
+105553,3795,coconut milk,plantproduct,AUS
+105553,6305,vegetable oil,condiment,AUS
+105553,6494,chicken breast,animal,AUS
+105553,4663,shallot,plant,AUS
+105553,4335,cucumber,plant,AUS
+53195,6294,mayonnaise,condiment,AUS
+53195,16278,milk,dairy,AUS
+53195,16391,curry powder,spice,AUS
+53195,16157,butter,dairy,AUS
+88186,6307,olive oil,condiment,AUS
+88186,4342,garlic,spice,AUS
+88186,4529,zucchini,plant,AUS
+88186,4279,carrot,plant,AUS
+88186,23274,vegetable broth,plantproduct,AUS
+88186,5110,lemon zest,plant,AUS
+88186,16423,fresh thyme,spice,AUS
+88186,16238,grated parmesan cheese,dairy,AUS
+18891,16157,butter,dairy,AUS
+18891,1650,white rice,grain,AUS
+18891,4378,fresh mushroom,plant,AUS
+18891,4397,onion,plant,AUS
+18891,4292,celery,plant,AUS
+18891,16406,ground black pepper,spice,AUS
+18304,4335,cucumber,plant,AUS
+18304,4397,onion,plant,AUS
+18304,1526,white sugar,condiment,AUS
+18304,7842,white vinegar,condiment,AUS
+17777,4442,potato,plant,AUS
+17777,16157,butter,dairy,AUS
+17777,4397,onion,plant,AUS
+17777,4409,fresh parsley,spice,AUS
+17777,16317,egg,animal,AUS
+17777,20482,frying oil,condiment,AUS
+27190,6309,sesame oil,condiment,AUS
+27190,4267,cabbage,plant,AUS
+27190,4397,onion,plant,AUS
+27190,4342,garlic,spice,AUS
+27190,4279,carrot,plant,AUS
+27190,16317,egg,animal,AUS
+27190,6305,vegetable oil,condiment,AUS
+27190,2882,soy sauce,condiment,AUS
+27190,18868,rice vinegar,condiment,AUS
+84124,6305,vegetable oil,condiment,AUS
+84124,3686,ketchup,condiment,AUS
+84124,16396,garlic powder,spice,AUS
+84124,16404,paprika,spice,AUS
+84124,16406,ground black pepper,spice,AUS
+84124,16386,ground cinnamon,spice,AUS
+84124,16391,curry powder,spice,AUS
+84124,6494,chicken breast,animal,AUS
+84124,6294,mayonnaise,condiment,AUS
+84124,4342,garlic,spice,AUS
+33247,4335,cucumber,plant,AUS
+33247,5012,avocado,plant,AUS
+33247,4405,green onion,spice,AUS
+33247,20244,crushed red pepper,spice,AUS
+33247,3752,sesame seed,grain,AUS
+33247,5107,lemon juice,plantproduct,AUS
+33247,6309,sesame oil,condiment,AUS
+33247,2882,soy sauce,condiment,AUS
+14335,4572,tomato,plant,AUS
+14335,4292,celery,plant,AUS
+14335,1526,white sugar,condiment,AUS
+14335,16406,ground black pepper,spice,AUS
+25698,16133,chicken broth,animal,AUS
+25698,3717,fresh cilantro,spice,AUS
+21499,6307,olive oil,condiment,AUS
+21499,4397,onion,plant,AUS
+21499,4342,garlic,spice,AUS
+21499,20244,crushed red pepper,spice,AUS
+21499,4409,fresh parsley,spice,AUS
+21499,5107,lemon juice,plantproduct,AUS
+22139,6494,chicken breast,animal,AUS
+22139,16133,chicken broth,animal,AUS
+22139,4279,carrot,plant,AUS
+22139,4267,cabbage,plant,AUS
+76017,4442,potato,plant,AUS
+76017,20551,ground cumin,spice,AUS
+76017,3686,ketchup,condiment,AUS
+76017,4397,onion,plant,AUS
+76017,3717,fresh cilantro,spice,AUS
+76017,20482,frying oil,condiment,AUS
+87961,5233,strawberry,plant,AUS
+87961,5140,orange juice,plantproduct,AUS
+69744,5140,orange juice,plantproduct,AUS
+69744,2882,soy sauce,condiment,AUS
+69744,6307,olive oil,condiment,AUS
+69744,4342,garlic,spice,AUS
+69744,20269,red onion,plant,AUS
+8624,6307,olive oil,condiment,AUS
+8624,6494,chicken breast,animal,AUS
+8624,16406,ground black pepper,spice,AUS
+8624,4279,carrot,plant,AUS
+8624,4529,zucchini,plant,AUS
+8624,4405,green onion,spice,AUS
+8624,4343,fresh ginger root,spice,AUS
+8624,16391,curry powder,spice,AUS
+8624,1636,cornstarch,plantproduct,AUS
+63340,4378,fresh mushroom,plant,AUS
+63340,16157,butter,dairy,AUS
+63340,4409,fresh parsley,spice,AUS
+63340,5107,lemon juice,plantproduct,AUS
+82116,6294,mayonnaise,condiment,AUS
+82116,5112,lime juice,plantproduct,AUS
+82116,20269,red onion,plant,AUS
+82116,4335,cucumber,plant,AUS
+82116,3717,fresh cilantro,spice,AUS
+31059,6305,vegetable oil,condiment,AUS
+31059,4343,fresh ginger root,spice,AUS
+31059,2882,soy sauce,condiment,AUS
+31059,2882,soy sauce,condiment,AUS
+31059,1526,white sugar,condiment,AUS
+31059,6309,sesame oil,condiment,AUS
+31059,4405,green onion,spice,AUS
+32425,5233,strawberry,plant,AUS
+32425,5140,orange juice,plantproduct,AUS
+32425,1526,white sugar,condiment,AUS
+14282,3752,sesame seed,grain,AUS
+14282,4371,romaine lettuce,plant,AUS
+14282,16225,crumbled feta cheese,dairy,AUS
+14282,10895,cherry tomato,plant,AUS
+14282,20269,red onion,plant,AUS
+14282,4378,fresh mushroom,plant,AUS
+104928,16317,egg,animal,AUS
+104928,6305,vegetable oil,condiment,AUS
+104928,2356,baking powder,other,AUS
+104928,4529,zucchini,plant,AUS
+104928,4397,onion,plant,AUS
+104928,4572,tomato,plant,AUS
+104928,16238,grated parmesan cheese,dairy,AUS
+51539,4572,tomato,plant,AUS
+51539,5012,avocado,plant,AUS
+51539,20269,red onion,plant,AUS
+51539,16406,ground black pepper,spice,AUS
+8148,2359,baking soda,other,AUS
+8148,16157,butter,dairy,AUS
+8148,1526,white sugar,condiment,AUS
+8148,16317,egg,animal,AUS
+8148,1685,self-rising flour,grain,AUS
+8148,1525,brown sugar,condiment,AUS
+8148,16157,butter,dairy,AUS
+8148,16424,vanilla extract,plantproduct,AUS
+59467,6307,olive oil,condiment,AUS
+59467,4405,green onion,spice,AUS
+59467,4342,garlic,spice,AUS
+59467,16406,ground black pepper,spice,AUS
+59467,18860,fresh mint,spice,AUS
+44318,6305,vegetable oil,condiment,AUS
+44318,4342,garlic,spice,AUS
+44318,16423,fresh thyme,spice,AUS
+44318,16406,ground black pepper,spice,AUS
+44318,16380,bay leaf,spice,AUS
+44318,4292,celery,plant,AUS
+44318,4397,onion,plant,AUS
+44318,16261,sour cream,dairy,AUS
+44318,1684,all-purpose flour,grain,AUS
+12760,6307,olive oil,condiment,AUS
+12760,4397,onion,plant,AUS
+12760,4342,garlic,spice,AUS
+12760,5107,lemon juice,plantproduct,AUS
+12760,4409,fresh parsley,spice,AUS
+12760,20244,crushed red pepper,spice,AUS
+21604,5112,lime juice,plantproduct,AUS
+21604,18860,fresh mint,spice,AUS
+50422,5233,strawberry,plant,AUS
+50422,1502,honey,animal,AUS
+50422,6057,rolled oat,grain,AUS
+50422,1525,brown sugar,condiment,AUS
+50422,16157,butter,dairy,AUS
+50422,16386,ground cinnamon,spice,AUS
+82078,6307,olive oil,condiment,AUS
+82078,20244,crushed red pepper,spice,AUS
+82078,4342,garlic,spice,AUS
+82078,4409,fresh parsley,spice,AUS
+21079,16157,butter,dairy,AUS
+21079,4342,garlic,spice,AUS
+21079,16238,grated parmesan cheese,dairy,AUS
+25843,1684,all-purpose flour,grain,AUS
+25843,5375,bacon,animal,AUS
+25843,4663,shallot,plant,AUS
+25843,4342,garlic,spice,AUS
+25843,16406,ground black pepper,spice,AUS
+25843,16380,bay leaf,spice,AUS
+25843,5107,lemon juice,plantproduct,AUS
+25843,1684,all-purpose flour,grain,AUS
+25843,16417,dried thyme,spice,AUS
+13443,16418,ground turmeric,spice,AUS
+13443,16406,ground black pepper,spice,AUS
+13443,16386,ground cinnamon,spice,AUS
+13443,16397,ground ginger,spice,AUS
+13443,16407,cayenne pepper,spice,AUS
+13443,4292,celery,plant,AUS
+13443,4397,onion,plant,AUS
+13443,4397,onion,plant,AUS
+13443,3717,fresh cilantro,spice,AUS
+13443,16317,egg,animal,AUS
+13443,5106,lemon,plant,AUS
+51039,6305,vegetable oil,condiment,AUS
+51039,6494,chicken breast,animal,AUS
+51039,7842,white vinegar,condiment,AUS
+51039,1526,white sugar,condiment,AUS
+51039,2882,soy sauce,condiment,AUS
+51039,20244,crushed red pepper,spice,AUS
+51039,16396,garlic powder,spice,AUS
+51039,16397,ground ginger,spice,AUS
+51039,4378,fresh mushroom,plant,AUS
+51039,4405,green onion,spice,AUS
+51039,1636,cornstarch,plantproduct,AUS
+25872,1502,honey,animal,AUS
+25872,16157,butter,dairy,AUS
+25872,6305,vegetable oil,condiment,AUS
+25872,2750,salmon fillet,animal,AUS
+88470,4279,carrot,plant,AUS
+88470,16157,butter,dairy,AUS
+88470,16401,ground nutmeg,spice,AUS
+88470,5107,lemon juice,plantproduct,AUS
+88470,4409,fresh parsley,spice,AUS
+146229,4342,garlic,spice,AUS
+21009,4529,zucchini,plant,AUS
+21009,4279,carrot,plant,AUS
+21009,10895,cherry tomato,plant,AUS
+21009,20269,red onion,plant,AUS
+21009,4786,red bell pepper,plant,AUS
+21009,6307,olive oil,condiment,AUS
+21009,16417,dried thyme,spice,AUS
+21009,16380,bay leaf,spice,AUS
+21009,16403,dried oregano,spice,AUS
+21009,4342,garlic,spice,AUS
+21009,5107,lemon juice,plantproduct,AUS
+21009,5110,lemon zest,plant,AUS
+13189,4279,carrot,plant,AUS
+13189,4397,onion,plant,AUS
+13189,4292,celery,plant,AUS
+13189,16406,ground black pepper,spice,AUS
+13189,7428,Worcestershire sauce,condiment,AUS
+19607,4405,green onion,spice,AUS
+19607,3717,fresh cilantro,spice,AUS
+19607,18860,fresh mint,spice,AUS
+19607,5112,lime juice,plantproduct,AUS
+19607,1526,white sugar,condiment,AUS
+19607,4335,cucumber,plant,AUS
+19607,10895,cherry tomato,plant,AUS
+88384,1502,honey,animal,AUS
+88384,1525,brown sugar,condiment,AUS
+88384,6305,vegetable oil,condiment,AUS
+88384,16424,vanilla extract,plantproduct,AUS
+166101,9725,extra-virgin olive oil,condiment,AUS
+166101,4397,onion,plant,AUS
+166101,18930,balsamic vinegar,condiment,AUS
+166101,16423,fresh thyme,spice,AUS
+25936,4397,onion,plant,AUS
+25936,4292,celery,plant,AUS
+25936,4279,carrot,plant,AUS
+25936,16133,chicken broth,animal,AUS
+25936,4529,zucchini,plant,AUS
+13100,4267,cabbage,plant,AUS
+13100,4279,carrot,plant,AUS
+13100,4292,celery,plant,AUS
+13100,3686,ketchup,condiment,AUS
+13100,23274,vegetable broth,plantproduct,AUS
+13100,16133,chicken broth,animal,AUS
+8555,3767,almond,grain,AUS
+8555,4292,celery,plant,AUS
+24691,16258,heavy whipping cream,dairy,AUS
+24691,16424,vanilla extract,plantproduct,AUS
+162003,4237,fresh green bean,plant,AUS
+162003,16157,butter,dairy,AUS
+162003,9725,extra-virgin olive oil,condiment,AUS
+162003,5107,lemon juice,plantproduct,AUS
+162003,16225,crumbled feta cheese,dairy,AUS
+25317,6307,olive oil,condiment,AUS
+25317,4342,garlic,spice,AUS
+25317,3717,fresh cilantro,spice,AUS
+25317,4397,onion,plant,AUS
+25317,4279,carrot,plant,AUS
+25317,4442,potato,plant,AUS
+25317,23274,vegetable broth,plantproduct,AUS
+17700,5106,lemon,plant,AUS
+17700,1525,brown sugar,condiment,AUS
+17700,5106,lemon,plant,AUS
+17700,4409,fresh parsley,spice,AUS
+14170,6305,vegetable oil,condiment,AUS
+14170,4516,spinach,plant,AUS
+14170,3819,walnut,grain,AUS
+14170,5233,strawberry,plant,AUS
+112260,16429,fresh rosemary,spice,AUS
+112260,16423,fresh thyme,spice,AUS
+112260,16406,ground black pepper,spice,AUS
+112260,18860,fresh mint,spice,AUS
+112260,4342,garlic,spice,AUS
+112260,6307,olive oil,condiment,AUS
+112260,18930,balsamic vinegar,condiment,AUS
+112260,16157,butter,dairy,AUS
+112260,1502,honey,animal,AUS
+112260,16159,fresh basil,spice,AUS
+112260,18860,fresh mint,spice,AUS
+112260,16159,fresh basil,spice,AUS
+9380,4342,garlic,spice,AUS
+9380,16429,fresh rosemary,spice,AUS
+9380,16406,ground black pepper,spice,AUS
+33252,4397,onion,plant,AUS
+33252,18860,fresh mint,spice,AUS
+33252,3717,fresh cilantro,spice,AUS
+33252,20551,ground cumin,spice,AUS
+33252,16404,paprika,spice,AUS
+33252,16407,cayenne pepper,spice,AUS
+33252,6305,vegetable oil,condiment,AUS
+32070,2112,dry bread crumbs,grain,AUS
+32070,16238,grated parmesan cheese,dairy,AUS
+32070,4342,garlic,spice,AUS
+32070,16159,fresh basil,spice,AUS
+32070,16403,dried oregano,spice,AUS
+32070,4529,zucchini,plant,AUS
+32070,16318,egg white,animal,AUS
+32070,4409,fresh parsley,spice,AUS
+32070,4582,tomato sauce,plantproduct,AUS
+32070,16234,shredded Mozzarella cheese,dairy,AUS
+14680,4342,garlic,spice,AUS
+14680,16406,ground black pepper,spice,AUS
+14680,1636,cornstarch,plantproduct,AUS
+14680,6305,vegetable oil,condiment,AUS
+14680,6305,vegetable oil,condiment,AUS
+14680,4397,onion,plant,AUS
+14680,4237,fresh green bean,plant,AUS
+14680,16133,chicken broth,animal,AUS
+14680,2882,soy sauce,condiment,AUS
+41637,16225,crumbled feta cheese,dairy,AUS
+41637,10895,cherry tomato,plant,AUS
+41637,4405,green onion,spice,AUS
+41637,3819,walnut,grain,AUS
+9450,16318,egg white,animal,AUS
+9450,1525,brown sugar,condiment,AUS
+9450,16386,ground cinnamon,spice,AUS
+9450,16397,ground ginger,spice,AUS
+9450,16424,vanilla extract,plantproduct,AUS
+9450,3819,walnut,grain,AUS
+8743,6494,chicken breast,animal,AUS
+8743,16391,curry powder,spice,AUS
+8743,4279,carrot,plant,AUS
+8743,4405,green onion,spice,AUS
+142377,2750,salmon fillet,animal,AUS
+142377,16225,crumbled feta cheese,dairy,AUS
+142377,18873,Dijon mustard,condiment,AUS
+142377,18930,balsamic vinegar,condiment,AUS
+142377,16406,ground black pepper,spice,AUS
+142377,16404,paprika,spice,AUS
+142377,16396,garlic powder,spice,AUS
+158703,5375,bacon,animal,AUS
+158703,1502,honey,animal,AUS
+158703,18930,balsamic vinegar,condiment,AUS
+158703,16429,fresh rosemary,spice,AUS
+74824,20269,red onion,plant,AUS
+74824,5112,lime juice,plantproduct,AUS
+74824,16225,crumbled feta cheese,dairy,AUS
+74824,18860,fresh mint,spice,AUS
+74824,6307,olive oil,condiment,AUS
+38866,20269,red onion,plant,AUS
+38866,3819,walnut,grain,AUS
+38866,5110,lemon zest,plant,AUS
+38866,5012,avocado,plant,AUS
+38866,5106,lemon,plant,AUS
+38866,5110,lemon zest,plant,AUS
+38866,4342,garlic,spice,AUS
+38866,6307,olive oil,condiment,AUS
+8838,2882,soy sauce,condiment,AUS
+8838,4342,garlic,spice,AUS
+8838,5140,orange juice,plantproduct,AUS
+8523,6494,chicken breast,animal,AUS
+8523,16406,ground black pepper,spice,AUS
+8523,16157,butter,dairy,AUS
+8523,6305,vegetable oil,condiment,AUS
+8523,4529,zucchini,plant,AUS
+8523,4572,tomato,plant,AUS
+9816,3788,flaked coconut,plantproduct,AUS
+9816,1684,all-purpose flour,grain,AUS
+9816,2359,baking soda,other,AUS
+9816,1526,white sugar,condiment,AUS
+9816,16157,butter,dairy,AUS
+9816,20695,golden syrup,condiment,AUS
+13852,4237,fresh green bean,plant,AUS
+13852,6307,olive oil,condiment,AUS
+13852,5110,lemon zest,plant,AUS
+25719,4279,carrot,plant,AUS
+25719,4397,onion,plant,AUS
+25719,6305,vegetable oil,condiment,AUS
+25719,4442,potato,plant,AUS
+25719,16258,heavy whipping cream,dairy,AUS
+25719,16401,ground nutmeg,spice,AUS
+25719,16406,ground black pepper,spice,AUS
+72227,9725,extra-virgin olive oil,condiment,AUS
+72227,3717,fresh cilantro,spice,AUS
+72227,3717,fresh cilantro,spice,AUS
+16966,6307,olive oil,condiment,AUS
+16966,16157,butter,dairy,AUS
+16966,4342,garlic,spice,AUS
+16966,4663,shallot,plant,AUS
+16966,6494,chicken breast,animal,AUS
+16966,4582,tomato sauce,plantproduct,AUS
+16966,16258,heavy whipping cream,dairy,AUS
+73434,16278,milk,dairy,AUS
+73434,16157,butter,dairy,AUS
+73434,16317,egg,animal,AUS
+73434,1526,white sugar,condiment,AUS
+73434,16386,ground cinnamon,spice,AUS
+73434,3819,walnut,grain,AUS
+46353,16157,butter,dairy,AUS
+46353,6307,olive oil,condiment,AUS
+46353,4378,fresh mushroom,plant,AUS
+46353,16317,egg,animal,AUS
+46353,16423,fresh thyme,spice,AUS
+46353,16238,grated parmesan cheese,dairy,AUS
+46353,16234,shredded Mozzarella cheese,dairy,AUS
+86396,5121,mango,plant,AUS
+86396,5112,lime juice,plantproduct,AUS
+19511,18868,rice vinegar,condiment,AUS
+19511,5012,avocado,plant,AUS
+19511,4335,cucumber,plant,AUS
+70660,16157,butter,dairy,AUS
+70660,16424,vanilla extract,plantproduct,AUS
+70660,16223,cream cheese,dairy,AUS
+70660,1527,confectioners' sugar,condiment,AUS
+70660,3788,flaked coconut,plantproduct,AUS
+84847,16157,butter,dairy,AUS
+84847,23274,vegetable broth,plantproduct,AUS
+47658,2750,salmon fillet,animal,AUS
+47658,6307,olive oil,condiment,AUS
+47658,20269,red onion,plant,AUS
+47658,4342,garlic,spice,AUS
+47658,4572,tomato,plant,AUS
+47658,3717,fresh cilantro,spice,AUS
+47658,5121,mango,plant,AUS
+20899,5375,bacon,animal,AUS
+20899,4397,onion,plant,AUS
+20899,4432,green bell pepper,plant,AUS
+20899,4292,celery,plant,AUS
+34727,3686,ketchup,condiment,AUS
+34727,7842,white vinegar,condiment,AUS
+34727,1526,white sugar,condiment,AUS
+34727,4371,romaine lettuce,plant,AUS
+34727,3819,walnut,grain,AUS
+34727,20269,red onion,plant,AUS
+8750,6494,chicken breast,animal,AUS
+8750,16157,butter,dairy,AUS
+8750,6305,vegetable oil,condiment,AUS
+8750,4663,shallot,plant,AUS
+8750,16133,chicken broth,animal,AUS
+8750,16258,heavy whipping cream,dairy,AUS
+31818,20482,frying oil,condiment,AUS
+31818,4397,onion,plant,AUS
+31818,4342,garlic,spice,AUS
+31818,4572,tomato,plant,AUS
+31818,4432,green bell pepper,plant,AUS
+31818,4409,fresh parsley,spice,AUS
+31818,2112,dry bread crumbs,grain,AUS
+31818,16225,crumbled feta cheese,dairy,AUS
+21793,4529,zucchini,plant,AUS
+21793,4572,tomato,plant,AUS
+21793,4397,onion,plant,AUS
+21793,16238,grated parmesan cheese,dairy,AUS
+21793,16278,milk,dairy,AUS
+21793,16317,egg,animal,AUS
+21793,16406,ground black pepper,spice,AUS
+108754,5012,avocado,plant,AUS
+108754,4572,tomato,plant,AUS
+108754,5112,lime juice,plantproduct,AUS
+86808,1526,white sugar,condiment,AUS
+86808,4335,cucumber,plant,AUS
+86808,4572,tomato,plant,AUS
+86808,20269,red onion,plant,AUS
+86808,18860,fresh mint,spice,AUS
+86808,6307,olive oil,condiment,AUS
+25474,4786,red bell pepper,plant,AUS
+25474,4529,zucchini,plant,AUS
+25474,4378,fresh mushroom,plant,AUS
+25474,6307,olive oil,condiment,AUS
+25474,5107,lemon juice,plantproduct,AUS
+25474,16159,fresh basil,spice,AUS
+25474,4342,garlic,spice,AUS
+16194,4409,fresh parsley,spice,AUS
+16194,4342,garlic,spice,AUS
+16194,6307,olive oil,condiment,AUS
+16194,5107,lemon juice,plantproduct,AUS
+16194,16406,ground black pepper,spice,AUS
+16194,16407,cayenne pepper,spice,AUS
+15532,16318,egg white,animal,AUS
+15532,1526,white sugar,condiment,AUS
+15532,1636,cornstarch,plantproduct,AUS
+15532,5107,lemon juice,plantproduct,AUS
+15532,16258,heavy whipping cream,dairy,AUS
+15532,1527,confectioners' sugar,condiment,AUS
+15532,5233,strawberry,plant,AUS
+18981,16258,heavy whipping cream,dairy,AUS
+18981,16319,egg yolk,animal,AUS
+18981,1526,white sugar,condiment,AUS
+18981,16258,heavy whipping cream,dairy,AUS
+89645,16133,chicken broth,animal,AUS
+89645,18930,balsamic vinegar,condiment,AUS
+89645,5140,orange juice,plantproduct,AUS
+89645,1502,honey,animal,AUS
+89645,1636,cornstarch,plantproduct,AUS
+89645,16133,chicken broth,animal,AUS
+89645,2750,salmon fillet,animal,AUS
+89645,6307,olive oil,condiment,AUS
+72721,3819,walnut,grain,AUS
+72721,16225,crumbled feta cheese,dairy,AUS
+14087,4342,garlic,spice,AUS
+14087,3717,fresh cilantro,spice,AUS
+14087,1526,white sugar,condiment,AUS
+14087,5112,lime juice,plantproduct,AUS
+14087,4279,carrot,plant,AUS
+14087,4335,cucumber,plant,AUS
+14087,18860,fresh mint,spice,AUS
+14087,18860,fresh mint,spice,AUS
+56148,5107,lemon juice,plantproduct,AUS
+56148,1525,brown sugar,condiment,AUS
+56148,16401,ground nutmeg,spice,AUS
+56148,16386,ground cinnamon,spice,AUS
+56148,3767,almond,grain,AUS
+56148,18860,fresh mint,spice,AUS
+86642,5110,lemon zest,plant,AUS
+86642,3717,fresh cilantro,spice,AUS
+86642,9725,extra-virgin olive oil,condiment,AUS
+86642,5106,lemon,plant,AUS
+86642,16406,ground black pepper,spice,AUS
+79713,1650,white rice,grain,AUS
+79713,4371,romaine lettuce,plant,AUS
+79713,4279,carrot,plant,AUS
+79713,6307,olive oil,condiment,AUS
+79713,18930,balsamic vinegar,condiment,AUS
+79713,16406,ground black pepper,spice,AUS
+8630,6494,chicken breast,animal,AUS
+8630,1684,all-purpose flour,grain,AUS
+8630,16406,ground black pepper,spice,AUS
+8630,6305,vegetable oil,condiment,AUS
+8630,4572,tomato,plant,AUS
+25885,4397,onion,plant,AUS
+25885,3474,white wine,condiment,AUS
+25885,2882,soy sauce,condiment,AUS
+25885,5107,lemon juice,plantproduct,AUS
+25885,1502,honey,animal,AUS
+25885,6307,olive oil,condiment,AUS
+25885,4342,garlic,spice,AUS
+25885,16386,ground cinnamon,spice,AUS
+25885,16406,ground black pepper,spice,AUS
+18533,1525,brown sugar,condiment,AUS
+18533,5110,lemon zest,plant,AUS
+18533,5107,lemon juice,plantproduct,AUS
+18533,20244,crushed red pepper,spice,AUS
+58165,6307,olive oil,condiment,AUS
+58165,4342,garlic,spice,AUS
+58165,4405,green onion,spice,AUS
+58165,16159,fresh basil,spice,AUS
+58165,3717,fresh cilantro,spice,AUS
+58165,5106,lemon,plant,AUS
+78554,16157,butter,dairy,AUS
+78554,16238,grated parmesan cheese,dairy,AUS
+73649,6494,chicken breast,animal,AUS
+73649,16225,crumbled feta cheese,dairy,AUS
+73649,4516,spinach,plant,AUS
+105581,4572,tomato,plant,AUS
+105581,4397,onion,plant,AUS
+105581,4335,cucumber,plant,AUS
+105581,18860,fresh mint,spice,AUS
+105581,4409,fresh parsley,spice,AUS
+105581,20551,ground cumin,spice,AUS
+105581,5112,lime juice,plantproduct,AUS
+105581,6309,sesame oil,condiment,AUS
+27953,4343,fresh ginger root,spice,AUS
+27953,4342,garlic,spice,AUS
+27953,1526,white sugar,condiment,AUS
+27953,2882,soy sauce,condiment,AUS
+27953,6305,vegetable oil,condiment,AUS
+31483,3752,sesame seed,grain,AUS
+31483,6307,olive oil,condiment,AUS
+31483,4378,fresh mushroom,plant,AUS
+21301,16157,butter,dairy,AUS
+21301,4279,carrot,plant,AUS
+21301,4397,onion,plant,AUS
+21301,4292,celery,plant,AUS
+21301,4378,fresh mushroom,plant,AUS
+21301,16157,butter,dairy,AUS
+21301,1684,all-purpose flour,grain,AUS
+21301,16133,chicken broth,animal,AUS
+21301,16380,bay leaf,spice,AUS
+21301,16407,cayenne pepper,spice,AUS
+21301,16417,dried thyme,spice,AUS
+21301,16403,dried oregano,spice,AUS
+21301,16258,heavy whipping cream,dairy,AUS
+13915,4378,fresh mushroom,plant,AUS
+13915,4397,onion,plant,AUS
+13915,4279,carrot,plant,AUS
+13915,4252,broccoli,plant,AUS
+13915,4342,garlic,spice,AUS
+13915,16317,egg,animal,AUS
+13915,6307,olive oil,condiment,AUS
+13915,16238,grated parmesan cheese,dairy,AUS
+69979,6307,olive oil,condiment,AUS
+69979,4397,onion,plant,AUS
+40319,18873,Dijon mustard,condiment,AUS
+40319,1502,honey,animal,AUS
+40319,5140,orange juice,plantproduct,AUS
+40319,16278,milk,dairy,AUS
+40319,16157,butter,dairy,AUS
+40319,5107,lemon juice,plantproduct,AUS
+40319,16406,ground black pepper,spice,AUS
+40319,6494,chicken breast,animal,AUS
+13393,6305,vegetable oil,condiment,AUS
+13393,4267,cabbage,plant,AUS
+13393,4343,fresh ginger root,spice,AUS
+13393,2882,soy sauce,condiment,AUS
+13393,4405,green onion,spice,AUS
+19000,5110,lemon zest,plant,AUS
+19000,1526,white sugar,condiment,AUS
+19000,1526,white sugar,condiment,AUS
+22925,6305,vegetable oil,condiment,AUS
+22925,4442,potato,plant,AUS
+22925,4279,carrot,plant,AUS
+22925,4432,green bell pepper,plant,AUS
+22925,4342,garlic,spice,AUS
+22925,4397,onion,plant,AUS
+22925,16406,ground black pepper,spice,AUS
+88901,6307,olive oil,condiment,AUS
+88901,4529,zucchini,plant,AUS
+88901,1526,white sugar,condiment,AUS
+142777,4529,zucchini,plant,AUS
+142777,16406,ground black pepper,spice,AUS
+142777,16234,shredded Mozzarella cheese,dairy,AUS
+142777,16238,grated parmesan cheese,dairy,AUS
+142777,5107,lemon juice,plantproduct,AUS
+142777,16406,ground black pepper,spice,AUS
+87308,4342,garlic,spice,AUS
+87308,16225,crumbled feta cheese,dairy,AUS
+87308,16403,dried oregano,spice,AUS
+87308,16406,ground black pepper,spice,AUS
+87308,4335,cucumber,plant,AUS
+87308,16261,sour cream,dairy,AUS
+87308,18860,fresh mint,spice,AUS
+87308,4342,garlic,spice,AUS
+87308,20269,red onion,plant,AUS
+87308,4572,tomato,plant,AUS
+53302,5140,orange juice,plantproduct,AUS
+53302,2882,soy sauce,condiment,AUS
+53302,4343,fresh ginger root,spice,AUS
+53302,4342,garlic,spice,AUS
+77799,16157,butter,dairy,AUS
+77799,1684,all-purpose flour,grain,AUS
+77799,16278,milk,dairy,AUS
+77799,16215,shredded Cheddar cheese,dairy,AUS
+77799,2112,dry bread crumbs,grain,AUS
+14502,4343,fresh ginger root,spice,AUS
+14502,4342,garlic,spice,AUS
+14502,6305,vegetable oil,condiment,AUS
+14127,16157,butter,dairy,AUS
+14127,4397,onion,plant,AUS
+14127,4342,garlic,spice,AUS
+14127,16317,egg,animal,AUS
+14127,16238,grated parmesan cheese,dairy,AUS
+14127,4409,fresh parsley,spice,AUS
+14127,16406,ground black pepper,spice,AUS
+25239,6307,olive oil,condiment,AUS
+25239,4397,onion,plant,AUS
+25239,23274,vegetable broth,plantproduct,AUS
+25239,4279,carrot,plant,AUS
+25239,4529,zucchini,plant,AUS
+25239,4786,red bell pepper,plant,AUS
+25239,4582,tomato sauce,plantproduct,AUS
+25239,16386,ground cinnamon,spice,AUS
+25239,16418,ground turmeric,spice,AUS
+25239,16391,curry powder,spice,AUS
+71422,4663,shallot,plant,AUS
+71422,1526,white sugar,condiment,AUS
+81369,6494,chicken breast,animal,AUS
+81369,4371,romaine lettuce,plant,AUS
+19842,7842,white vinegar,condiment,AUS
+19842,1526,white sugar,condiment,AUS
+19842,1525,brown sugar,condiment,AUS
+19842,16386,ground cinnamon,spice,AUS
+19842,16397,ground ginger,spice,AUS
+19842,16401,ground nutmeg,spice,AUS
+19842,4397,onion,plant,AUS
+19842,4342,garlic,spice,AUS
+19842,4343,fresh ginger root,spice,AUS
+19842,5121,mango,plant,AUS
+19842,3767,almond,grain,AUS
+15918,6494,chicken breast,animal,AUS
+15918,6307,olive oil,condiment,AUS
+15918,1684,all-purpose flour,grain,AUS
+15918,4397,onion,plant,AUS
+16437,5106,lemon,plant,AUS
+16437,4292,celery,plant,AUS
+16437,4405,green onion,spice,AUS
+16437,6294,mayonnaise,condiment,AUS
+16437,16406,ground black pepper,spice,AUS
+75087,4237,fresh green bean,plant,AUS
+75087,6305,vegetable oil,condiment,AUS
+75087,4342,garlic,spice,AUS
+75087,1526,white sugar,condiment,AUS
+75087,16406,ground black pepper,spice,AUS
+83857,6305,vegetable oil,condiment,AUS
+83857,4397,onion,plant,AUS
+83857,4342,garlic,spice,AUS
+83857,4279,carrot,plant,AUS
+83857,16317,egg,animal,AUS
+83857,20244,crushed red pepper,spice,AUS
+83857,16401,ground nutmeg,spice,AUS
+83857,16406,ground black pepper,spice,AUS
+108328,4267,cabbage,plant,AUS
+108328,4279,carrot,plant,AUS
+108328,3752,sesame seed,grain,AUS
+108328,6294,mayonnaise,condiment,AUS
+108328,18868,rice vinegar,condiment,AUS
+108328,6309,sesame oil,condiment,AUS
+108328,1502,honey,animal,AUS
+12781,4335,cucumber,plant,AUS
+12781,5110,lemon zest,plant,AUS
+12781,9725,extra-virgin olive oil,condiment,AUS
+25482,3717,fresh cilantro,spice,AUS
+25482,4342,garlic,spice,AUS
+25482,16418,ground turmeric,spice,AUS
+25482,16391,curry powder,spice,AUS
+25482,1526,white sugar,condiment,AUS
+25482,3795,coconut milk,plantproduct,AUS
+67767,16380,bay leaf,spice,AUS
+67767,6305,vegetable oil,condiment,AUS
+67767,4397,onion,plant,AUS
+67767,4572,tomato,plant,AUS
+67767,3717,fresh cilantro,spice,AUS
+67767,4343,fresh ginger root,spice,AUS
+67767,4342,garlic,spice,AUS
+67767,16418,ground turmeric,spice,AUS
+67767,4397,onion,plant,AUS
+67767,16407,cayenne pepper,spice,AUS
+53242,1684,all-purpose flour,grain,AUS
+53242,16157,butter,dairy,AUS
+53242,1527,confectioners' sugar,condiment,AUS
+53242,16319,egg yolk,animal,AUS
+53242,16317,egg,animal,AUS
+53242,5110,lemon zest,plant,AUS
+53242,5107,lemon juice,plantproduct,AUS
+53242,16258,heavy whipping cream,dairy,AUS
+112868,4786,red bell pepper,plant,AUS
+112868,16133,chicken broth,animal,AUS
+112868,4442,potato,plant,AUS
+112868,16407,cayenne pepper,spice,AUS
+112868,16396,garlic powder,spice,AUS
+7977,1526,white sugar,condiment,AUS
+7977,16157,butter,dairy,AUS
+7977,16223,cream cheese,dairy,AUS
+7977,1526,white sugar,condiment,AUS
+7977,16317,egg,animal,AUS
+7977,16261,sour cream,dairy,AUS
+45436,4397,onion,plant,AUS
+45436,7428,Worcestershire sauce,condiment,AUS
+45436,16406,ground black pepper,spice,AUS
+45436,16261,sour cream,dairy,AUS
+45436,4409,fresh parsley,spice,AUS
+72079,16238,grated parmesan cheese,dairy,AUS
+72079,16234,shredded Mozzarella cheese,dairy,AUS
+72079,6307,olive oil,condiment,AUS
+9777,1527,confectioners' sugar,condiment,AUS
+9777,3819,walnut,grain,AUS
+23051,16223,cream cheese,dairy,AUS
+23051,16261,sour cream,dairy,AUS
+23051,4292,celery,plant,AUS
+23051,4405,green onion,spice,AUS
+23051,5107,lemon juice,plantproduct,AUS
+23051,16215,shredded Cheddar cheese,dairy,AUS
+22189,1650,white rice,grain,AUS
+22189,5375,bacon,animal,AUS
+22189,4397,onion,plant,AUS
+22189,4292,celery,plant,AUS
+22189,4279,carrot,plant,AUS
+22189,4378,fresh mushroom,plant,AUS
+22189,3767,almond,grain,AUS
+22189,2882,soy sauce,condiment,AUS
+22189,4409,fresh parsley,spice,AUS
+22189,16406,ground black pepper,spice,AUS
+17201,16157,butter,dairy,AUS
+17201,1526,white sugar,condiment,AUS
+17201,16424,vanilla extract,plantproduct,AUS
+17201,16317,egg,animal,AUS
+17201,1527,confectioners' sugar,condiment,AUS
+17201,16157,butter,dairy,AUS
+17201,3788,flaked coconut,plantproduct,AUS
+12804,4786,red bell pepper,plant,AUS
+12804,4397,onion,plant,AUS
+12804,5112,lime juice,plantproduct,AUS
+12804,3717,fresh cilantro,spice,AUS
+12804,6307,olive oil,condiment,AUS
+12804,1684,all-purpose flour,grain,AUS
+12804,16406,ground black pepper,spice,AUS
+18279,4529,zucchini,plant,AUS
+18279,16157,butter,dairy,AUS
+18279,5107,lemon juice,plantproduct,AUS
+42911,1650,white rice,grain,AUS
+42911,6307,olive oil,condiment,AUS
+42911,4397,onion,plant,AUS
+42911,4786,red bell pepper,plant,AUS
+42911,4342,garlic,spice,AUS
+42911,4529,zucchini,plant,AUS
+42911,16403,dried oregano,spice,AUS
+84364,4405,green onion,spice,AUS
+84364,4342,garlic,spice,AUS
+84364,16391,curry powder,spice,AUS
+84364,20551,ground cumin,spice,AUS
+84364,20244,crushed red pepper,spice,AUS
+160399,4342,garlic,spice,AUS
+160399,16406,ground black pepper,spice,AUS
+160399,16317,egg,animal,AUS
+160399,16278,milk,dairy,AUS
+160399,1684,all-purpose flour,grain,AUS
+160399,3474,white wine,condiment,AUS
+221268,1526,white sugar,condiment,AUS
+221268,1636,cornstarch,plantproduct,AUS
+221268,16318,egg white,animal,AUS
+221268,16424,vanilla extract,plantproduct,AUS
+221268,7842,white vinegar,condiment,AUS
+221268,16258,heavy whipping cream,dairy,AUS
+221268,1527,confectioners' sugar,condiment,AUS
+221268,16424,vanilla extract,plantproduct,AUS
+221268,5233,strawberry,plant,AUS
+173016,4335,cucumber,plant,AUS
+173016,1526,white sugar,condiment,AUS
+173016,18930,balsamic vinegar,condiment,AUS
+46525,16258,heavy whipping cream,dairy,AUS
+46525,1526,white sugar,condiment,AUS
+46525,3474,white wine,condiment,AUS
+46525,5107,lemon juice,plantproduct,AUS
+46525,5110,lemon zest,plant,AUS
+46525,16401,ground nutmeg,spice,AUS
+46525,18860,fresh mint,spice,AUS
+46525,5106,lemon,plant,AUS
+13159,6307,olive oil,condiment,AUS
+13159,4292,celery,plant,AUS
+13159,4279,carrot,plant,AUS
+13159,4342,garlic,spice,AUS
+13159,16133,chicken broth,animal,AUS
+13159,16258,heavy whipping cream,dairy,AUS
+13159,16380,bay leaf,spice,AUS
+13159,16401,ground nutmeg,spice,AUS
+13159,16386,ground cinnamon,spice,AUS
+13159,16406,ground black pepper,spice,AUS
+14419,1650,white rice,grain,AUS
+14419,4335,cucumber,plant,AUS
+14419,4405,green onion,spice,AUS
+14419,18873,Dijon mustard,condiment,AUS
+14419,1526,white sugar,condiment,AUS
+14419,6305,vegetable oil,condiment,AUS
+12022,4342,garlic,spice,AUS
+12022,6307,olive oil,condiment,AUS
+12022,4397,onion,plant,AUS
+12022,6494,chicken breast,animal,AUS
+12022,4252,broccoli,plant,AUS
+12022,4279,carrot,plant,AUS
+12022,16406,ground black pepper,spice,AUS
+12022,2882,soy sauce,condiment,AUS
+6744,1526,white sugar,condiment,AUS
+6744,6307,olive oil,condiment,AUS
+6744,16403,dried oregano,spice,AUS
+6744,6307,olive oil,condiment,AUS
+6744,16238,grated parmesan cheese,dairy,AUS
+17191,4516,spinach,plant,AUS
+17191,6307,olive oil,condiment,AUS
+17191,10895,cherry tomato,plant,AUS
+88308,20482,frying oil,condiment,AUS
+88308,16317,egg,animal,AUS
+88308,16278,milk,dairy,AUS
+88308,1684,all-purpose flour,grain,AUS
+86428,16258,heavy whipping cream,dairy,AUS
+86428,1526,white sugar,condiment,AUS
+86428,5106,lemon,plant,AUS
+86428,16258,heavy whipping cream,dairy,AUS
+54604,6307,olive oil,condiment,AUS
+54604,23274,vegetable broth,plantproduct,AUS
+54604,4342,garlic,spice,AUS
+54604,4397,onion,plant,AUS
+54604,16225,crumbled feta cheese,dairy,AUS
+12912,5140,orange juice,plantproduct,AUS
+12912,5112,lime juice,plantproduct,AUS
+12912,16386,ground cinnamon,spice,AUS
+14239,4442,potato,plant,AUS
+14239,4409,fresh parsley,spice,AUS
+14239,4397,onion,plant,AUS
+14239,4237,fresh green bean,plant,AUS
+104405,6305,vegetable oil,condiment,AUS
+104405,4342,garlic,spice,AUS
+104405,6307,olive oil,condiment,AUS
+104405,4409,fresh parsley,spice,AUS
+104405,16404,paprika,spice,AUS
+104405,20551,ground cumin,spice,AUS
+104405,16406,ground black pepper,spice,AUS
+85165,5121,mango,plant,AUS
+85165,5112,lime juice,plantproduct,AUS
+85165,9725,extra-virgin olive oil,condiment,AUS
+85165,20244,crushed red pepper,spice,AUS
+85165,3717,fresh cilantro,spice,AUS
+85165,4663,shallot,plant,AUS
+55271,1525,brown sugar,condiment,AUS
+55271,20482,frying oil,condiment,AUS
+24416,16157,butter,dairy,AUS
+24416,4342,garlic,spice,AUS
+24416,16401,ground nutmeg,spice,AUS
+24416,16406,ground black pepper,spice,AUS
+24416,4279,carrot,plant,AUS
+24416,4405,green onion,spice,AUS
+24416,4409,fresh parsley,spice,AUS
+13392,16157,butter,dairy,AUS
+13392,4397,onion,plant,AUS
+13392,4442,potato,plant,AUS
+13392,16417,dried thyme,spice,AUS
+13392,16380,bay leaf,spice,AUS
+13392,16133,chicken broth,animal,AUS
+13392,16258,heavy whipping cream,dairy,AUS
+38409,4572,tomato,plant,AUS
+38409,4405,green onion,spice,AUS
+38409,3717,fresh cilantro,spice,AUS
+38409,18868,rice vinegar,condiment,AUS
+8680,6494,chicken breast,animal,AUS
+8680,4405,green onion,spice,AUS
+8680,16406,ground black pepper,spice,AUS
+14302,4572,tomato,plant,AUS
+14302,4405,green onion,spice,AUS
+14302,16238,grated parmesan cheese,dairy,AUS
+25369,16157,butter,dairy,AUS
+25369,4397,onion,plant,AUS
+25369,4342,garlic,spice,AUS
+25369,16404,paprika,spice,AUS
+55069,5140,orange juice,plantproduct,AUS
+55069,5107,lemon juice,plantproduct,AUS
+55069,20551,ground cumin,spice,AUS
+55069,16404,paprika,spice,AUS
+55069,20269,red onion,plant,AUS
+99204,18868,rice vinegar,condiment,AUS
+99204,4335,cucumber,plant,AUS
+99204,5012,avocado,plant,AUS
+14344,4252,broccoli,plant,AUS
+9363,16406,ground black pepper,spice,AUS
+9363,7428,Worcestershire sauce,condiment,AUS
+9363,1684,all-purpose flour,grain,AUS
+9363,4342,garlic,spice,AUS
+75409,3717,fresh cilantro,spice,AUS
+75409,18860,fresh mint,spice,AUS
+75409,5107,lemon juice,plantproduct,AUS
+75409,6494,chicken breast,animal,AUS
+52639,18930,balsamic vinegar,condiment,AUS
+52639,6494,chicken breast,animal,AUS
+52639,16234,shredded Mozzarella cheese,dairy,AUS
+52639,10895,cherry tomato,plant,AUS
+52639,6307,olive oil,condiment,AUS
+52639,4442,potato,plant,AUS
+165502,9725,extra-virgin olive oil,condiment,AUS
+165502,4378,fresh mushroom,plant,AUS
+165502,16157,butter,dairy,AUS
+59143,4342,garlic,spice,AUS
+59143,4663,shallot,plant,AUS
+59143,16406,ground black pepper,spice,AUS
+17346,6057,rolled oat,grain,AUS
+17346,3788,flaked coconut,plantproduct,AUS
+17346,1684,all-purpose flour,grain,AUS
+17346,1526,white sugar,condiment,AUS
+17346,16157,butter,dairy,AUS
+17346,2359,baking soda,other,AUS
+17346,5112,lime juice,plantproduct,AUS
+17346,16319,egg yolk,animal,AUS
+17346,5110,lemon zest,plant,AUS
+39534,4335,cucumber,plant,AUS
+39534,4572,tomato,plant,AUS
+39534,4405,green onion,spice,AUS
+39534,3717,fresh cilantro,spice,AUS
+39534,4582,tomato sauce,plantproduct,AUS
+39534,7842,white vinegar,condiment,AUS
+159593,4663,shallot,plant,AUS
+159593,4409,fresh parsley,spice,AUS
+159593,6307,olive oil,condiment,AUS
+159593,5107,lemon juice,plantproduct,AUS
+15211,4252,broccoli,plant,AUS
+15211,4432,green bell pepper,plant,AUS
+15211,4335,cucumber,plant,AUS
+15211,4279,carrot,plant,AUS
+160945,18930,balsamic vinegar,condiment,AUS
+160945,5140,orange juice,plantproduct,AUS
+160945,5107,lemon juice,plantproduct,AUS
+160945,5112,lime juice,plantproduct,AUS
+160945,5121,mango,plant,AUS
+160945,5233,strawberry,plant,AUS
+87910,4343,fresh ginger root,spice,AUS
+87910,4342,garlic,spice,AUS
+87910,3717,fresh cilantro,spice,AUS
+87910,2882,soy sauce,condiment,AUS
+87910,6309,sesame oil,condiment,AUS
+87910,20482,frying oil,condiment,AUS
+80507,5107,lemon juice,plantproduct,AUS
+80507,20482,frying oil,condiment,AUS
+80507,1526,white sugar,condiment,AUS
+80507,4343,fresh ginger root,spice,AUS
+80507,4342,garlic,spice,AUS
+80507,4405,green onion,spice,AUS
+14553,6307,olive oil,condiment,AUS
+14553,5107,lemon juice,plantproduct,AUS
+14553,16423,fresh thyme,spice,AUS
+86086,3717,fresh cilantro,spice,AUS
+86086,4342,garlic,spice,AUS
+86086,5107,lemon juice,plantproduct,AUS
+86086,16407,cayenne pepper,spice,AUS
+86086,3819,walnut,grain,AUS
+86086,6307,olive oil,condiment,AUS
+86086,16238,grated parmesan cheese,dairy,AUS
+10696,16157,butter,dairy,AUS
+10696,1525,brown sugar,condiment,AUS
+10696,1684,all-purpose flour,grain,AUS
+10696,16317,egg,animal,AUS
+85719,1502,honey,animal,AUS
+85719,1684,all-purpose flour,grain,AUS
+85719,6307,olive oil,condiment,AUS
+85719,18868,rice vinegar,condiment,AUS
+85719,2882,soy sauce,condiment,AUS
+85719,4343,fresh ginger root,spice,AUS
+85719,1502,honey,animal,AUS
+85719,3752,sesame seed,grain,AUS
+85719,16404,paprika,spice,AUS
+85719,4405,green onion,spice,AUS
+85719,16234,shredded Mozzarella cheese,dairy,AUS
+85719,4279,carrot,plant,AUS
+85719,3717,fresh cilantro,spice,AUS
+87490,4237,fresh green bean,plant,AUS
+87490,6309,sesame oil,condiment,AUS
+87490,6305,vegetable oil,condiment,AUS
+87490,4342,garlic,spice,AUS
+87490,4663,shallot,plant,AUS
+87490,3752,sesame seed,grain,AUS
+74054,4516,spinach,plant,AUS
+74054,5012,avocado,plant,AUS
+74054,4786,red bell pepper,plant,AUS
+74054,18860,fresh mint,spice,AUS
+74054,6305,vegetable oil,condiment,AUS
+74054,4342,garlic,spice,AUS
+73144,2112,dry bread crumbs,grain,AUS
+73144,4397,onion,plant,AUS
+73144,16391,curry powder,spice,AUS
+73144,16317,egg,animal,AUS
+73144,4342,garlic,spice,AUS
+73144,16278,milk,dairy,AUS
+73144,16406,ground black pepper,spice,AUS
+73144,4397,onion,plant,AUS
+73144,3686,ketchup,condiment,AUS
+73144,7428,Worcestershire sauce,condiment,AUS
+73144,7842,white vinegar,condiment,AUS
+73144,1525,brown sugar,condiment,AUS
+73144,5107,lemon juice,plantproduct,AUS
+13927,16157,butter,dairy,AUS
+13927,4529,zucchini,plant,AUS
+13927,4572,tomato,plant,AUS
+13927,16403,dried oregano,spice,AUS
+13927,16317,egg,animal,AUS
+13927,16238,grated parmesan cheese,dairy,AUS
+8609,6305,vegetable oil,condiment,AUS
+8609,5140,orange juice,plantproduct,AUS
+8609,6494,chicken breast,animal,AUS
+8609,5233,strawberry,plant,AUS
+17039,6494,chicken breast,animal,AUS
+17039,4432,green bell pepper,plant,AUS
+17039,4786,red bell pepper,plant,AUS
+17039,4397,onion,plant,AUS
+17039,4378,fresh mushroom,plant,AUS
+49560,6305,vegetable oil,condiment,AUS
+49560,4397,onion,plant,AUS
+49560,4342,garlic,spice,AUS
+49560,3686,ketchup,condiment,AUS
+49560,16406,ground black pepper,spice,AUS
+49560,16391,curry powder,spice,AUS
+49560,16396,garlic powder,spice,AUS
+49560,1684,all-purpose flour,grain,AUS
+212389,1684,all-purpose flour,grain,AUS
+212389,1526,white sugar,condiment,AUS
+212389,2356,baking powder,other,AUS
+212389,16424,vanilla extract,plantproduct,AUS
+212389,20482,frying oil,condiment,AUS
+9801,6057,rolled oat,grain,AUS
+9801,3819,walnut,grain,AUS
+9801,16157,butter,dairy,AUS
+9801,1525,brown sugar,condiment,AUS
+9801,1502,honey,animal,AUS
+19023,1526,white sugar,condiment,AUS
+19023,16424,vanilla extract,plantproduct,AUS
+19023,3788,flaked coconut,plantproduct,AUS
+103898,6307,olive oil,condiment,AUS
+103898,4342,garlic,spice,AUS
+103898,3474,white wine,condiment,AUS
+103898,4786,red bell pepper,plant,AUS
+103898,16238,grated parmesan cheese,dairy,AUS
+103898,5107,lemon juice,plantproduct,AUS
+103898,16406,ground black pepper,spice,AUS
+9197,4342,garlic,spice,AUS
+9197,5107,lemon juice,plantproduct,AUS
+9197,9725,extra-virgin olive oil,condiment,AUS
+9197,4371,romaine lettuce,plant,AUS
+8753,6307,olive oil,condiment,AUS
+8753,4342,garlic,spice,AUS
+8753,4786,red bell pepper,plant,AUS
+8753,16406,ground black pepper,spice,AUS
+8753,16133,chicken broth,animal,AUS
+17306,6307,olive oil,condiment,AUS
+17306,16157,butter,dairy,AUS
+17306,4663,shallot,plant,AUS
+17306,4342,garlic,spice,AUS
+73113,16215,shredded Cheddar cheese,dairy,AUS
+73113,3819,walnut,grain,AUS
+73113,6307,olive oil,condiment,AUS
+72051,5106,lemon,plant,AUS
+72051,4405,green onion,spice,AUS
+72051,20244,crushed red pepper,spice,AUS
+12138,16318,egg white,animal,AUS
+12138,1526,white sugar,condiment,AUS
+12138,1636,cornstarch,plantproduct,AUS
+12138,7842,white vinegar,condiment,AUS
+12138,16258,heavy whipping cream,dairy,AUS
+12138,16424,vanilla extract,plantproduct,AUS
+12138,1527,confectioners' sugar,condiment,AUS
+13362,4572,tomato,plant,AUS
+13362,5012,avocado,plant,AUS
+13362,4572,tomato,plant,AUS
+13362,3717,fresh cilantro,spice,AUS
+13362,5107,lemon juice,plantproduct,AUS
+15801,16215,shredded Cheddar cheese,dairy,AUS
+15801,4292,celery,plant,AUS
+15801,6294,mayonnaise,condiment,AUS
+14001,1650,white rice,grain,AUS
+14001,16317,egg,animal,AUS
+14001,6309,sesame oil,condiment,AUS
+14001,4378,fresh mushroom,plant,AUS
+14001,2882,soy sauce,condiment,AUS
+14001,4405,green onion,spice,AUS
+14001,4279,carrot,plant,AUS
+89851,18873,Dijon mustard,condiment,AUS
+89851,6307,olive oil,condiment,AUS
+89851,16406,ground black pepper,spice,AUS
+89851,16429,fresh rosemary,spice,AUS
+89851,4342,garlic,spice,AUS
+89851,4432,green bell pepper,plant,AUS
+89851,4378,fresh mushroom,plant,AUS
+89851,10895,cherry tomato,plant,AUS
+89851,4397,onion,plant,AUS
+89851,16157,butter,dairy,AUS
+137839,16223,cream cheese,dairy,AUS
+137839,1526,white sugar,condiment,AUS
+137839,16386,ground cinnamon,spice,AUS
+137839,16278,milk,dairy,AUS
+53650,6305,vegetable oil,condiment,AUS
+53650,4397,onion,plant,AUS
+53650,4342,garlic,spice,AUS
+53650,16406,ground black pepper,spice,AUS
+53650,16407,cayenne pepper,spice,AUS
+53650,20551,ground cumin,spice,AUS
+53650,4516,spinach,plant,AUS
+53650,3717,fresh cilantro,spice,AUS
+53650,6305,vegetable oil,condiment,AUS
+13140,4397,onion,plant,AUS
+13140,16133,chicken broth,animal,AUS
+13140,1650,white rice,grain,AUS
+13140,4572,tomato,plant,AUS
+13140,4279,carrot,plant,AUS
+13140,16406,ground black pepper,spice,AUS
+13140,4409,fresh parsley,spice,AUS
+24371,5140,orange juice,plantproduct,AUS
+24371,5112,lime juice,plantproduct,AUS
+24371,6307,olive oil,condiment,AUS
+24371,16407,cayenne pepper,spice,AUS
+24371,5233,strawberry,plant,AUS
+18127,5107,lemon juice,plantproduct,AUS
+18127,18873,Dijon mustard,condiment,AUS
+18127,4409,fresh parsley,spice,AUS
+9022,6494,chicken breast,animal,AUS
+9022,16317,egg,animal,AUS
+9022,16157,butter,dairy,AUS
+9022,4378,fresh mushroom,plant,AUS
+45825,16157,butter,dairy,AUS
+45825,4397,onion,plant,AUS
+45825,4292,celery,plant,AUS
+45825,4267,cabbage,plant,AUS
+45825,2882,soy sauce,condiment,AUS
+98595,5012,avocado,plant,AUS
+98595,4663,shallot,plant,AUS
+98595,16133,chicken broth,animal,AUS
+98595,5112,lime juice,plantproduct,AUS
+98595,3717,fresh cilantro,spice,AUS
+98595,16261,sour cream,dairy,AUS
+84452,16223,cream cheese,dairy,AUS
+84452,16157,butter,dairy,AUS
+84452,4342,garlic,spice,AUS
+84452,4335,cucumber,plant,AUS
+84452,4572,tomato,plant,AUS
+20115,16318,egg white,animal,AUS
+20115,1526,white sugar,condiment,AUS
+20115,7842,white vinegar,condiment,AUS
+20115,16424,vanilla extract,plantproduct,AUS
+20115,1636,cornstarch,plantproduct,AUS
+33109,4397,onion,plant,AUS
+33109,4342,garlic,spice,AUS
+33109,4378,fresh mushroom,plant,AUS
+33109,4432,green bell pepper,plant,AUS
+33109,16317,egg,animal,AUS
+33109,16278,milk,dairy,AUS
+33109,16391,curry powder,spice,AUS
+33109,6307,olive oil,condiment,AUS
+33109,16215,shredded Cheddar cheese,dairy,AUS
+33109,4572,tomato,plant,AUS
+83706,16318,egg white,animal,AUS
+83706,7842,white vinegar,condiment,AUS
+83706,16424,vanilla extract,plantproduct,AUS
+83706,3788,flaked coconut,plantproduct,AUS
+83706,5233,strawberry,plant,AUS
+112227,5233,strawberry,plant,AUS
+112227,20269,red onion,plant,AUS
+112227,3717,fresh cilantro,spice,AUS
+112227,5112,lime juice,plantproduct,AUS
+112227,16406,ground black pepper,spice,AUS
+112227,6305,vegetable oil,condiment,AUS
+112227,4516,spinach,plant,AUS
+34608,18868,rice vinegar,condiment,AUS
+34608,6309,sesame oil,condiment,AUS
+34608,4343,fresh ginger root,spice,AUS
+34608,4279,carrot,plant,AUS
+34608,5112,lime juice,plantproduct,AUS
+34608,5121,mango,plant,AUS
+34608,3752,sesame seed,grain,AUS
+25712,4572,tomato,plant,AUS
+25712,5375,bacon,animal,AUS
+25568,1525,brown sugar,condiment,AUS
+25568,1685,self-rising flour,grain,AUS
+25568,2359,baking soda,other,AUS
+25568,16424,vanilla extract,plantproduct,AUS
+19515,16157,butter,dairy,AUS
+19515,4397,onion,plant,AUS
+19515,4292,celery,plant,AUS
+19515,4409,fresh parsley,spice,AUS
+19515,16406,ground black pepper,spice,AUS
+19515,2112,dry bread crumbs,grain,AUS
+19515,16319,egg yolk,animal,AUS
+81111,6305,vegetable oil,condiment,AUS
+81111,4397,onion,plant,AUS
+81111,16407,cayenne pepper,spice,AUS
+81111,16406,ground black pepper,spice,AUS
+81111,3717,fresh cilantro,spice,AUS
+77885,16157,butter,dairy,AUS
+77885,16157,butter,dairy,AUS
+77885,3819,walnut,grain,AUS
+77885,4409,fresh parsley,spice,AUS
+77902,6307,olive oil,condiment,AUS
+77902,4342,garlic,spice,AUS
+77902,3474,white wine,condiment,AUS
+77902,16406,ground black pepper,spice,AUS
+77902,16417,dried thyme,spice,AUS
+77902,16380,bay leaf,spice,AUS
+13895,4529,zucchini,plant,AUS
+13895,4397,onion,plant,AUS
+13895,16317,egg,animal,AUS
+13895,6307,olive oil,condiment,AUS
+13895,1685,self-rising flour,grain,AUS
+17420,16318,egg white,animal,AUS
+17420,1526,white sugar,condiment,AUS
+17420,1636,cornstarch,plantproduct,AUS
+17420,16424,vanilla extract,plantproduct,AUS
+17420,7842,white vinegar,condiment,AUS
+149546,4516,spinach,plant,AUS
+149546,3795,coconut milk,plantproduct,AUS
+60928,16318,egg white,animal,AUS
+60928,1526,white sugar,condiment,AUS
+60928,1636,cornstarch,plantproduct,AUS
+60928,7842,white vinegar,condiment,AUS
+60928,16424,vanilla extract,plantproduct,AUS
+60928,5233,strawberry,plant,AUS
+60928,16258,heavy whipping cream,dairy,AUS
+60928,1526,white sugar,condiment,AUS
+52486,6307,olive oil,condiment,AUS
+52486,1526,white sugar,condiment,AUS
+143403,16157,butter,dairy,AUS
+143403,4397,onion,plant,AUS
+143403,4432,green bell pepper,plant,AUS
+143403,4378,fresh mushroom,plant,AUS
+143403,5375,bacon,animal,AUS
+143403,16317,egg,animal,AUS
+143403,4572,tomato,plant,AUS
+143403,16238,grated parmesan cheese,dairy,AUS
+143403,3686,ketchup,condiment,AUS
+143868,5107,lemon juice,plantproduct,AUS
+143868,5110,lemon zest,plant,AUS
+254718,6307,olive oil,condiment,AUS
+254718,4397,onion,plant,AUS
+254718,10895,cherry tomato,plant,AUS
+254718,4405,green onion,spice,AUS
+254718,5107,lemon juice,plantproduct,AUS
+254718,4342,garlic,spice,AUS
+254718,16406,ground black pepper,spice,AUS
+254718,4237,fresh green bean,plant,AUS
+254718,3795,coconut milk,plantproduct,AUS
+115717,4267,cabbage,plant,AUS
+115717,4442,potato,plant,AUS
+86283,20482,frying oil,condiment,AUS
+86283,4371,romaine lettuce,plant,AUS
+86283,4572,tomato,plant,AUS
+86283,4335,cucumber,plant,AUS
+86283,4432,green bell pepper,plant,AUS
+86283,4405,green onion,spice,AUS
+86283,18860,fresh mint,spice,AUS
+86283,4409,fresh parsley,spice,AUS
+86283,3717,fresh cilantro,spice,AUS
+86283,5107,lemon juice,plantproduct,AUS
+86283,16396,garlic powder,spice,AUS
+86283,6307,olive oil,condiment,AUS
+87984,18930,balsamic vinegar,condiment,AUS
+87984,1525,brown sugar,condiment,AUS
+87984,16406,ground black pepper,spice,AUS
+83821,6307,olive oil,condiment,AUS
+83821,4342,garlic,spice,AUS
+83821,16429,fresh rosemary,spice,AUS
+12037,4405,green onion,spice,AUS
+12037,16215,shredded Cheddar cheese,dairy,AUS
+9133,1502,honey,animal,AUS
+9133,16157,butter,dairy,AUS
+9133,16423,fresh thyme,spice,AUS
+9133,16406,ground black pepper,spice,AUS
+14982,6307,olive oil,condiment,AUS
+14982,16225,crumbled feta cheese,dairy,AUS
+14982,20269,red onion,plant,AUS
+14982,16423,fresh thyme,spice,AUS
+14982,16157,butter,dairy,AUS
+14982,16406,ground black pepper,spice,AUS
+24405,23274,vegetable broth,plantproduct,AUS
+24405,1650,white rice,grain,AUS
+24405,16258,heavy whipping cream,dairy,AUS
+86751,1526,white sugar,condiment,AUS
+86751,16157,butter,dairy,AUS
+86751,1526,white sugar,condiment,AUS
+86751,16317,egg,animal,AUS
+86751,1684,all-purpose flour,grain,AUS
+86751,2356,baking powder,other,AUS
+86751,1526,white sugar,condiment,AUS
+86751,16157,butter,dairy,AUS
+86751,1684,all-purpose flour,grain,AUS
+86751,16386,ground cinnamon,spice,AUS
+86751,3788,flaked coconut,plantproduct,AUS
+86751,6057,rolled oat,grain,AUS
+109908,4343,fresh ginger root,spice,AUS
+109908,18868,rice vinegar,condiment,AUS
+109908,6309,sesame oil,condiment,AUS
+109908,1525,brown sugar,condiment,AUS
+72052,2882,soy sauce,condiment,AUS
+72052,5107,lemon juice,plantproduct,AUS
+72052,4405,green onion,spice,AUS
+72052,20244,crushed red pepper,spice,AUS
+43882,16406,ground black pepper,spice,AUS
+43882,16417,dried thyme,spice,AUS
+43882,18860,fresh mint,spice,AUS
+22808,4342,garlic,spice,AUS
+22808,16133,chicken broth,animal,AUS
+22808,4371,romaine lettuce,plant,AUS
+17401,4405,green onion,spice,AUS
+17401,6309,sesame oil,condiment,AUS
+17401,4342,garlic,spice,AUS
+17401,2882,soy sauce,condiment,AUS
+14846,6307,olive oil,condiment,AUS
+14846,4342,garlic,spice,AUS
+14240,6294,mayonnaise,condiment,AUS
+14240,16261,sour cream,dairy,AUS
+14240,18873,Dijon mustard,condiment,AUS
+14240,16406,ground black pepper,spice,AUS
+11670,6494,chicken breast,animal,AUS
+11670,6307,olive oil,condiment,AUS
+11670,4342,garlic,spice,AUS
+11670,16404,paprika,spice,AUS
+11670,4397,onion,plant,AUS
+11670,4529,zucchini,plant,AUS
+11670,4279,carrot,plant,AUS
+11670,4378,fresh mushroom,plant,AUS
+11670,16406,ground black pepper,spice,AUS
+11670,16238,grated parmesan cheese,dairy,AUS
+19840,5107,lemon juice,plantproduct,AUS
+19840,1526,white sugar,condiment,AUS
+19840,16317,egg,animal,AUS
+19840,3788,flaked coconut,plantproduct,AUS
+19840,1684,all-purpose flour,grain,AUS
+19840,16278,milk,dairy,AUS
+55050,4516,spinach,plant,AUS
+55050,4371,romaine lettuce,plant,AUS
+55050,5233,strawberry,plant,AUS
+55050,16225,crumbled feta cheese,dairy,AUS
+173552,1526,white sugar,condiment,AUS
+173552,16429,fresh rosemary,spice,AUS
+173552,5107,lemon juice,plantproduct,AUS
+10004,16318,egg white,animal,AUS
+10004,7842,white vinegar,condiment,AUS
+10004,16424,vanilla extract,plantproduct,AUS
+10004,1636,cornstarch,plantproduct,AUS
+9349,16157,butter,dairy,AUS
+9349,16406,ground black pepper,spice,AUS
+9349,20551,ground cumin,spice,AUS
+9349,6307,olive oil,condiment,AUS
+9349,5140,orange juice,plantproduct,AUS
+9349,20269,red onion,plant,AUS
+9349,16133,chicken broth,animal,AUS
+9349,18930,balsamic vinegar,condiment,AUS
+213938,6307,olive oil,condiment,AUS
+213938,4442,potato,plant,AUS
+213938,4342,garlic,spice,AUS
+213938,6307,olive oil,condiment,AUS
+137411,1684,all-purpose flour,grain,AUS
+137411,20244,crushed red pepper,spice,AUS
+137411,16396,garlic powder,spice,AUS
+137411,6307,olive oil,condiment,AUS
+137411,4397,onion,plant,AUS
+137411,2882,soy sauce,condiment,AUS
+54204,6305,vegetable oil,condiment,AUS
+54204,4342,garlic,spice,AUS
+54204,4397,onion,plant,AUS
+54204,3795,coconut milk,plantproduct,AUS
+54204,16418,ground turmeric,spice,AUS
+54204,3717,fresh cilantro,spice,AUS
+82387,18868,rice vinegar,condiment,AUS
+82387,1526,white sugar,condiment,AUS
+82387,6305,vegetable oil,condiment,AUS
+82387,4371,romaine lettuce,plant,AUS
+82387,3767,almond,grain,AUS
+85477,20269,red onion,plant,AUS
+85477,3717,fresh cilantro,spice,AUS
+85477,1526,white sugar,condiment,AUS
+85477,6494,chicken breast,animal,AUS
+85477,16429,fresh rosemary,spice,AUS
+85477,6305,vegetable oil,condiment,AUS
+20201,2882,soy sauce,condiment,AUS
+20201,1684,all-purpose flour,grain,AUS
+20201,20482,frying oil,condiment,AUS
+92813,16157,butter,dairy,AUS
+92813,1684,all-purpose flour,grain,AUS
+92813,16278,milk,dairy,AUS
+92813,16215,shredded Cheddar cheese,dairy,AUS
+92813,4409,fresh parsley,spice,AUS
+92813,16404,paprika,spice,AUS
+79883,16317,egg,animal,AUS
+79883,5233,strawberry,plant,AUS
+79883,1502,honey,animal,AUS
+79883,16258,heavy whipping cream,dairy,AUS
+79883,1527,confectioners' sugar,condiment,AUS
+74733,4786,red bell pepper,plant,AUS
+74733,16258,heavy whipping cream,dairy,AUS
+74733,16391,curry powder,spice,AUS
+74733,5107,lemon juice,plantproduct,AUS
+82494,4279,carrot,plant,AUS
+82494,4252,broccoli,plant,AUS
+82494,3767,almond,grain,AUS
+82494,16225,crumbled feta cheese,dairy,AUS
+72291,1526,white sugar,condiment,AUS
+72291,5233,strawberry,plant,AUS
+60042,4342,garlic,spice,AUS
+60042,20244,crushed red pepper,spice,AUS
+60042,6305,vegetable oil,condiment,AUS
+60042,4572,tomato,plant,AUS
+60042,16159,fresh basil,spice,AUS
+60042,4397,onion,plant,AUS
+150275,16418,ground turmeric,spice,AUS
+150275,5112,lime juice,plantproduct,AUS
+150275,3717,fresh cilantro,spice,AUS
+150275,6305,vegetable oil,condiment,AUS
+150275,4397,onion,plant,AUS
+15223,1684,all-purpose flour,grain,AUS
+15223,6057,rolled oat,grain,AUS
+15223,1526,white sugar,condiment,AUS
+15223,3788,flaked coconut,plantproduct,AUS
+15223,1502,honey,animal,AUS
+15223,2359,baking soda,other,AUS
+15223,16157,butter,dairy,AUS
+14420,5233,strawberry,plant,AUS
+14420,1502,honey,animal,AUS
+34625,6307,olive oil,condiment,AUS
+34625,5107,lemon juice,plantproduct,AUS
+34625,4335,cucumber,plant,AUS
+34625,4405,green onion,spice,AUS
+34625,4409,fresh parsley,spice,AUS
+34625,18860,fresh mint,spice,AUS
+34625,4343,fresh ginger root,spice,AUS
+161822,5012,avocado,plant,AUS
+140192,5112,lime juice,plantproduct,AUS
+140192,18860,fresh mint,spice,AUS
+112310,6307,olive oil,condiment,AUS
+112310,20269,red onion,plant,AUS
+112310,4279,carrot,plant,AUS
+112310,4292,celery,plant,AUS
+112310,4442,potato,plant,AUS
+112310,4529,zucchini,plant,AUS
+19286,1684,all-purpose flour,grain,AUS
+19286,3767,almond,grain,AUS
+19286,1526,white sugar,condiment,AUS
+19286,16157,butter,dairy,AUS
+19286,2359,baking soda,other,AUS
+19286,20695,golden syrup,condiment,AUS
+17286,6307,olive oil,condiment,AUS
+17286,4342,garlic,spice,AUS
+17286,4397,onion,plant,AUS
+17286,4279,carrot,plant,AUS
+17286,4292,celery,plant,AUS
+17286,16429,fresh rosemary,spice,AUS
+17286,6307,olive oil,condiment,AUS
+17286,4342,garlic,spice,AUS
+17286,6307,olive oil,condiment,AUS
+17286,18860,fresh mint,spice,AUS
+13302,6307,olive oil,condiment,AUS
+13302,4342,garlic,spice,AUS
+13302,4397,onion,plant,AUS
+13302,4279,carrot,plant,AUS
+13302,4292,celery,plant,AUS
+13302,16418,ground turmeric,spice,AUS
+13302,16391,curry powder,spice,AUS
+13302,2882,soy sauce,condiment,AUS
+8977,2882,soy sauce,condiment,AUS
+8977,7842,white vinegar,condiment,AUS
+8977,4342,garlic,spice,AUS
+8977,16406,ground black pepper,spice,AUS
+8977,5107,lemon juice,plantproduct,AUS
+8977,3788,flaked coconut,plantproduct,AUS
+8977,4405,green onion,spice,AUS
+8977,4405,green onion,spice,AUS
+155982,3788,flaked coconut,plantproduct,AUS
+155982,1684,all-purpose flour,grain,AUS
+155982,16317,egg,animal,AUS
+155982,16407,cayenne pepper,spice,AUS
+155982,20482,frying oil,condiment,AUS
+260013,4397,onion,plant,AUS
+260013,4342,garlic,spice,AUS
+260013,2112,dry bread crumbs,grain,AUS
+260013,16406,ground black pepper,spice,AUS
+260013,16417,dried thyme,spice,AUS
+260013,16407,cayenne pepper,spice,AUS
+260013,16401,ground nutmeg,spice,AUS
+260013,16317,egg,animal,AUS
+260013,3752,sesame seed,grain,AUS
+83531,6307,olive oil,condiment,AUS
+83531,4378,fresh mushroom,plant,AUS
+83531,4397,onion,plant,AUS
+83531,16258,heavy whipping cream,dairy,AUS
+83531,18860,fresh mint,spice,AUS
+83531,1526,white sugar,condiment,AUS
+83531,16406,ground black pepper,spice,AUS
+78938,3795,coconut milk,plantproduct,AUS
+78938,16397,ground ginger,spice,AUS
+78938,4343,fresh ginger root,spice,AUS
+78938,16380,bay leaf,spice,AUS
+78938,1650,white rice,grain,AUS
+78938,16317,egg,animal,AUS
+78938,4335,cucumber,plant,AUS
+78938,20482,frying oil,condiment,AUS
+78938,6305,vegetable oil,condiment,AUS
+78938,4397,onion,plant,AUS
+78938,4342,garlic,spice,AUS
+78938,4663,shallot,plant,AUS
+78938,1526,white sugar,condiment,AUS
+75256,5106,lemon,plant,AUS
+75256,6307,olive oil,condiment,AUS
+75256,4397,onion,plant,AUS
+75256,4786,red bell pepper,plant,AUS
+75256,16418,ground turmeric,spice,AUS
+75256,3717,fresh cilantro,spice,AUS
+35062,16317,egg,animal,AUS
+35062,4397,onion,plant,AUS
+35062,3686,ketchup,condiment,AUS
+35062,7428,Worcestershire sauce,condiment,AUS
+35062,1684,all-purpose flour,grain,AUS
+216332,16157,butter,dairy,AUS
+216332,1526,white sugar,condiment,AUS
+216332,16317,egg,animal,AUS
+216332,16424,vanilla extract,plantproduct,AUS
+216332,3788,flaked coconut,plantproduct,AUS
+10634,16317,egg,animal,AUS
+10634,1526,white sugar,condiment,AUS
+10634,3767,almond,grain,AUS
+10733,6057,rolled oat,grain,AUS
+10733,1526,white sugar,condiment,AUS
+10733,16157,butter,dairy,AUS
+10733,20695,golden syrup,condiment,AUS
+10733,2359,baking soda,other,AUS
+10733,1684,all-purpose flour,grain,AUS
+10957,20695,golden syrup,condiment,AUS
+10957,16157,butter,dairy,AUS
+10957,2359,baking soda,other,AUS
+10957,3788,flaked coconut,plantproduct,AUS
+10957,1684,all-purpose flour,grain,AUS
+10957,1526,white sugar,condiment,AUS
+10957,6057,rolled oat,grain,AUS
+12785,4397,onion,plant,AUS
+12785,16418,ground turmeric,spice,AUS
+12785,16407,cayenne pepper,spice,AUS
+12785,6305,vegetable oil,condiment,AUS
+18000,1526,white sugar,condiment,AUS
+18000,16278,milk,dairy,AUS
+18000,6305,vegetable oil,condiment,AUS
+18985,1526,white sugar,condiment,AUS
+18985,16278,milk,dairy,AUS
+21692,5233,strawberry,plant,AUS
+21692,1526,white sugar,condiment,AUS
+216336,1684,all-purpose flour,grain,AUS
+216336,3788,flaked coconut,plantproduct,AUS
+216336,1525,brown sugar,condiment,AUS
+216336,16397,ground ginger,spice,AUS
+216336,2359,baking soda,other,AUS
+216336,16157,butter,dairy,AUS
+216336,20695,golden syrup,condiment,AUS
+213628,2882,soy sauce,condiment,AUS
+213628,7842,white vinegar,condiment,AUS
+213628,4342,garlic,spice,AUS
+213628,4397,onion,plant,AUS
+175600,1684,all-purpose flour,grain,AUS
+175600,1684,all-purpose flour,grain,AUS
+161409,3686,ketchup,condiment,AUS
+161409,1525,brown sugar,condiment,AUS
+237168,4397,onion,plant,AUS
+237168,1525,brown sugar,condiment,AUS
+237168,7428,Worcestershire sauce,condiment,AUS
+237168,3686,ketchup,condiment,AUS
+237168,4342,garlic,spice,AUS
+237168,16417,dried thyme,spice,AUS
+110382,6305,vegetable oil,condiment,AUS
+110382,16157,butter,dairy,AUS
+110382,4342,garlic,spice,AUS
+110382,5110,lemon zest,plant,AUS
+110382,5107,lemon juice,plantproduct,AUS
+110382,4409,fresh parsley,spice,AUS
+37350,2882,soy sauce,condiment,AUS
+37350,1502,honey,animal,AUS
+37350,4582,tomato sauce,plantproduct,AUS
+37350,7428,Worcestershire sauce,condiment,AUS
+37350,3752,sesame seed,grain,AUS
+37350,16159,fresh basil,spice,AUS
+37350,6494,chicken breast,animal,AUS
+37350,6307,olive oil,condiment,AUS
+37350,1502,honey,animal,AUS
+37350,4582,tomato sauce,plantproduct,AUS
+37350,7428,Worcestershire sauce,condiment,AUS
+37350,5012,avocado,plant,AUS
+74686,18873,Dijon mustard,condiment,AUS
+74686,5107,lemon juice,plantproduct,AUS
+74686,16429,fresh rosemary,spice,AUS
+74686,2750,salmon fillet,animal,AUS
+74686,16406,ground black pepper,spice,AUS
+130443,5107,lemon juice,plantproduct,AUS
+130443,2882,soy sauce,condiment,AUS
+130443,4405,green onion,spice,AUS
+100790,16258,heavy whipping cream,dairy,AUS
+100790,1527,confectioners' sugar,condiment,AUS
+100790,16261,sour cream,dairy,AUS
+100790,5110,lemon zest,plant,AUS
+100790,18860,fresh mint,spice,AUS
+222172,3788,flaked coconut,plantproduct,AUS
+222172,1526,white sugar,condiment,AUS
+24552,1684,all-purpose flour,grain,AUS
+24552,16278,milk,dairy,AUS
+13012,4279,carrot,plant,AUS
+13012,4442,potato,plant,AUS
+13012,4292,celery,plant,AUS
+13012,4397,onion,plant,AUS
+13012,2882,soy sauce,condiment,AUS
+13012,20551,ground cumin,spice,AUS
+13012,16407,cayenne pepper,spice,AUS
+13012,16396,garlic powder,spice,AUS
+13012,16391,curry powder,spice,AUS
+12400,16157,butter,dairy,AUS
+12400,1684,all-purpose flour,grain,AUS
+12400,1526,white sugar,condiment,AUS
+29750,16397,ground ginger,spice,AUS
+29750,16258,heavy whipping cream,dairy,AUS
+149549,3795,coconut milk,plantproduct,AUS
+149549,4397,onion,plant,AUS
+213629,4397,onion,plant,AUS
+213629,2882,soy sauce,condiment,AUS
+213629,7842,white vinegar,condiment,AUS
+42099,1684,all-purpose flour,grain,AUS
+42099,3788,flaked coconut,plantproduct,AUS
+42099,1526,white sugar,condiment,AUS
+42099,16157,butter,dairy,AUS
+42099,20695,golden syrup,condiment,AUS
+42099,16424,vanilla extract,plantproduct,AUS
+42099,3788,flaked coconut,plantproduct,AUS
+12249,16318,egg white,animal,AUS
+12249,7842,white vinegar,condiment,AUS
+12249,16258,heavy whipping cream,dairy,AUS
+12249,1527,confectioners' sugar,condiment,AUS
+12249,16424,vanilla extract,plantproduct,AUS
+12249,5233,strawberry,plant,AUS
+34888,1685,self-rising flour,grain,AUS
+34888,1527,confectioners' sugar,condiment,AUS
+34888,16157,butter,dairy,AUS
+34888,16317,egg,animal,AUS
+34888,16278,milk,dairy,AUS
+34888,20695,golden syrup,condiment,AUS
+34888,1525,brown sugar,condiment,AUS
+34888,5107,lemon juice,plantproduct,AUS
+34888,16157,butter,dairy,AUS
+24722,16223,cream cheese,dairy,AUS
+24722,16317,egg,animal,AUS
+24722,6305,vegetable oil,condiment,AUS
+24722,16396,garlic powder,spice,AUS
+24722,16404,paprika,spice,AUS
+24722,20482,frying oil,condiment,AUS
+24179,18930,balsamic vinegar,condiment,AUS
+24179,4397,onion,plant,AUS
+17629,16318,egg white,animal,AUS
+17629,1526,white sugar,condiment,AUS
+17629,16424,vanilla extract,plantproduct,AUS
+228384,4397,onion,plant,AUS
+228384,4432,green bell pepper,plant,AUS
+228384,4279,carrot,plant,AUS
+228384,6494,chicken breast,animal,AUS
+228384,5140,orange juice,plantproduct,AUS
+228384,1525,brown sugar,condiment,AUS
+228384,7842,white vinegar,condiment,AUS
+228384,20244,crushed red pepper,spice,AUS
+228384,16397,ground ginger,spice,AUS
+228384,6309,sesame oil,condiment,AUS
+228384,1650,white rice,grain,AUS
+228384,16157,butter,dairy,AUS
+228384,5140,orange juice,plantproduct,AUS
+228384,1636,cornstarch,plantproduct,AUS
+213627,4397,onion,plant,AUS
+213627,4342,garlic,spice,AUS
+213627,5107,lemon juice,plantproduct,AUS
+213627,2882,soy sauce,condiment,AUS
+163885,20482,frying oil,condiment,AUS
+163885,1684,all-purpose flour,grain,AUS
+163885,1685,self-rising flour,grain,AUS
+163885,1526,white sugar,condiment,AUS
+163885,2356,baking powder,other,AUS
+163885,2359,baking soda,other,AUS
+163885,16317,egg,animal,AUS
+158387,4343,fresh ginger root,spice,AUS
+158387,4342,garlic,spice,AUS
+158387,2882,soy sauce,condiment,AUS
+158387,6309,sesame oil,condiment,AUS
+158387,6305,vegetable oil,condiment,AUS
+158387,4252,broccoli,plant,AUS
+158387,4432,green bell pepper,plant,AUS
+158387,4529,zucchini,plant,AUS
+134330,4342,garlic,spice,AUS
+134330,16407,cayenne pepper,spice,AUS
+60593,5012,avocado,plant,AUS
+60593,5112,lime juice,plantproduct,AUS
+60593,5140,orange juice,plantproduct,AUS
+60593,20551,ground cumin,spice,AUS
+60593,3717,fresh cilantro,spice,AUS
+16519,4252,broccoli,plant,AUS
+16519,16157,butter,dairy,AUS
+16519,4279,carrot,plant,AUS
+16519,4335,cucumber,plant,AUS
+16519,4572,tomato,plant,AUS
+16519,16215,shredded Cheddar cheese,dairy,AUS
+13154,4279,carrot,plant,AUS
+13154,4442,potato,plant,AUS
+13154,4292,celery,plant,AUS
+13154,4397,onion,plant,AUS
+13154,2882,soy sauce,condiment,AUS
+13154,20551,ground cumin,spice,AUS
+13154,16407,cayenne pepper,spice,AUS
+13154,16396,garlic powder,spice,AUS
+9955,1684,all-purpose flour,grain,AUS
+9955,2356,baking powder,other,AUS
+9955,16157,butter,dairy,AUS
+9955,1526,white sugar,condiment,AUS
+9955,16424,vanilla extract,plantproduct,AUS
+9955,16317,egg,animal,AUS
+9955,3767,almond,grain,AUS
+9955,3788,flaked coconut,plantproduct,AUS
+9955,1527,confectioners' sugar,condiment,AUS
+9955,16424,vanilla extract,plantproduct,AUS
+9955,16278,milk,dairy,AUS
+20952,16157,butter,dairy,AUS
+20952,1526,white sugar,condiment,AUS
+20952,16317,egg,animal,AUS
+20952,1684,all-purpose flour,grain,AUS
+20952,20695,golden syrup,condiment,AUS
+20952,1526,white sugar,condiment,AUS
+20952,1684,all-purpose flour,grain,AUS
+20952,16157,butter,dairy,AUS
+25166,16157,butter,dairy,AUS
+25166,4409,fresh parsley,spice,AUS
+96145,1684,all-purpose flour,grain,AUS
+96145,16157,butter,dairy,AUS
+96145,1526,white sugar,condiment,AUS
+96145,16317,egg,animal,AUS
+96145,5140,orange juice,plantproduct,AUS
+96145,16424,vanilla extract,plantproduct,AUS
+96145,3767,almond,grain,AUS
+96145,3767,almond,grain,AUS
+230036,5375,bacon,animal,AUS
+230036,6305,vegetable oil,condiment,AUS
+230036,4397,onion,plant,AUS
+230036,1684,all-purpose flour,grain,AUS
+230036,2356,baking powder,other,AUS
+230036,2359,baking soda,other,AUS
+230036,16391,curry powder,spice,AUS
+230036,16317,egg,animal,AUS
+230036,16278,milk,dairy,AUS
+230036,16261,sour cream,dairy,AUS
+221417,6057,rolled oat,grain,AUS
+221417,3788,flaked coconut,plantproduct,AUS
+221417,1684,all-purpose flour,grain,AUS
+221417,1526,white sugar,condiment,AUS
+221417,2356,baking powder,other,AUS
+221417,16157,butter,dairy,AUS
+221417,20695,golden syrup,condiment,AUS
+241753,3795,coconut milk,plantproduct,AUS
+241753,1526,white sugar,condiment,AUS
+241753,1636,cornstarch,plantproduct,AUS
+165687,1636,cornstarch,plantproduct,AUS
+165687,16318,egg white,animal,AUS
+165687,1526,white sugar,condiment,AUS
+165687,16386,ground cinnamon,spice,AUS
+165687,1526,white sugar,condiment,AUS
+165687,16318,egg white,animal,AUS
+165687,1526,white sugar,condiment,AUS
+165687,5107,lemon juice,plantproduct,AUS
+165687,5110,lemon zest,plant,AUS
+165687,16258,heavy whipping cream,dairy,AUS
+165687,5106,lemon,plant,AUS
+165687,18860,fresh mint,spice,AUS
+165687,5233,strawberry,plant,AUS
+208298,4397,onion,plant,AUS
+208298,16423,fresh thyme,spice,AUS
+208298,16317,egg,animal,AUS
+208298,5110,lemon zest,plant,AUS
+208298,2112,dry bread crumbs,grain,AUS
+208298,6305,vegetable oil,condiment,AUS
+208298,4572,tomato,plant,AUS
+25601,16386,ground cinnamon,spice,AUS
+25601,16401,ground nutmeg,spice,AUS
+25601,16317,egg,animal,AUS
+25601,16424,vanilla extract,plantproduct,AUS
+25601,1684,all-purpose flour,grain,AUS
+25611,16317,egg,animal,AUS
+25611,6305,vegetable oil,condiment,AUS
+25611,1685,self-rising flour,grain,AUS
+8924,6307,olive oil,condiment,AUS
+8924,4397,onion,plant,AUS
+8924,4342,garlic,spice,AUS
+8924,16429,fresh rosemary,spice,AUS
+8924,6494,chicken breast,animal,AUS
+24856,1650,white rice,grain,AUS
+24856,4397,onion,plant,AUS
+24856,4342,garlic,spice,AUS
+24856,16417,dried thyme,spice,AUS
+25814,16157,butter,dairy,AUS
+25814,1526,white sugar,condiment,AUS
+25814,16317,egg,animal,AUS
+25814,2359,baking soda,other,AUS
+25814,1684,all-purpose flour,grain,AUS
+25814,16386,ground cinnamon,spice,AUS
+25814,3819,walnut,grain,AUS
+216074,16215,shredded Cheddar cheese,dairy,AUS
+216074,6307,olive oil,condiment,AUS
+216074,1685,self-rising flour,grain,AUS
+246685,1526,white sugar,condiment,AUS
+246685,20695,golden syrup,condiment,AUS
+246685,2359,baking soda,other,AUS
+35802,5140,orange juice,plantproduct,AUS
+35802,3717,fresh cilantro,spice,AUS
+246994,5140,orange juice,plantproduct,AUS
+246994,5140,orange juice,plantproduct,AUS
+246994,1526,white sugar,condiment,AUS
+246994,1685,self-rising flour,grain,AUS
+246994,1685,self-rising flour,grain,AUS
+246996,20695,golden syrup,condiment,AUS
+246996,2359,baking soda,other,AUS
+246996,6057,rolled oat,grain,AUS
+246996,1684,all-purpose flour,grain,AUS
+246996,3788,flaked coconut,plantproduct,AUS
+103964,4442,potato,plant,AUS
+90344,4343,fresh ginger root,spice,AUS
+90344,6305,vegetable oil,condiment,AUS
+90344,4342,garlic,spice,AUS
+90344,2882,soy sauce,condiment,AUS
+90344,16406,ground black pepper,spice,AUS
+90344,3717,fresh cilantro,spice,AUS
+90344,4405,green onion,spice,AUS
+27160,16278,milk,dairy,AUS
+27160,1526,white sugar,condiment,AUS
+27160,2359,baking soda,other,AUS
+27160,2112,dry bread crumbs,grain,AUS
+27160,16157,butter,dairy,AUS
+27160,5110,lemon zest,plant,AUS
+142698,5233,strawberry,plant,AUS
+142698,18860,fresh mint,spice,AUS
+142698,1526,white sugar,condiment,AUS
+142698,16258,heavy whipping cream,dairy,AUS
+142698,18860,fresh mint,spice,AUS
+263669,1685,self-rising flour,grain,AUS
+263669,16258,heavy whipping cream,dairy,AUS
+263830,1684,all-purpose flour,grain,AUS
+263830,4397,onion,plant,AUS
+263830,4409,fresh parsley,spice,AUS
+263830,16406,ground black pepper,spice,AUS
+263830,16417,dried thyme,spice,AUS
+263830,16391,curry powder,spice,AUS
+263830,5375,bacon,animal,AUS
+263830,16278,milk,dairy,AUS
+260085,1526,white sugar,condiment,AUS
+260085,16397,ground ginger,spice,AUS
+260085,5106,lemon,plant,AUS
+260085,1526,white sugar,condiment,AUS
+260085,1526,white sugar,condiment,AUS
+260085,4343,fresh ginger root,spice,AUS
+75838,16157,butter,dairy,AUS
+75838,1525,brown sugar,condiment,AUS
+75838,20695,golden syrup,condiment,AUS
+75838,16317,egg,animal,AUS
+75838,16278,milk,dairy,AUS
+75838,1684,all-purpose flour,grain,AUS
+75838,2356,baking powder,other,AUS
+75838,1527,confectioners' sugar,condiment,AUS
+262511,16318,egg white,animal,AUS
+262511,1526,white sugar,condiment,AUS
+262511,16424,vanilla extract,plantproduct,AUS
+262511,1636,cornstarch,plantproduct,AUS
+262511,16223,cream cheese,dairy,AUS
+262511,16258,heavy whipping cream,dairy,AUS
+262511,1526,white sugar,condiment,AUS
+268395,1526,white sugar,condiment,AUS
+268395,16319,egg yolk,animal,AUS
+268395,16424,vanilla extract,plantproduct,AUS
+268395,1684,all-purpose flour,grain,AUS
+268395,2356,baking powder,other,AUS
+268395,16318,egg white,animal,AUS
+268395,1526,white sugar,condiment,AUS
+268395,3788,flaked coconut,plantproduct,AUS
+268395,16424,vanilla extract,plantproduct,AUS
+257915,20482,frying oil,condiment,AUS
+257915,4267,cabbage,plant,AUS
+257915,4572,tomato,plant,AUS
+257915,4397,onion,plant,AUS
+257915,3795,coconut milk,plantproduct,AUS
+257915,3717,fresh cilantro,spice,AUS
+246686,16157,butter,dairy,AUS
+246686,1526,white sugar,condiment,AUS
+246686,1525,brown sugar,condiment,AUS
+246686,16317,egg,animal,AUS
+246686,16397,ground ginger,spice,AUS
+246686,1685,self-rising flour,grain,AUS
+246686,1526,white sugar,condiment,AUS
+246684,16157,butter,dairy,AUS
+246684,4397,onion,plant,AUS
+246684,1684,all-purpose flour,grain,AUS
+246684,4279,carrot,plant,AUS
+246684,4292,celery,plant,AUS
+246684,4582,tomato sauce,plantproduct,AUS
+246684,7428,Worcestershire sauce,condiment,AUS
+221422,16404,paprika,spice,AUS
+221422,16396,garlic powder,spice,AUS
+221422,16319,egg yolk,animal,AUS
+221423,6305,vegetable oil,condiment,AUS
+221423,4397,onion,plant,AUS
+221423,4279,carrot,plant,AUS
+221423,2112,dry bread crumbs,grain,AUS
+221423,16317,egg,animal,AUS
+221423,16278,milk,dairy,AUS
+221425,6305,vegetable oil,condiment,AUS
+221425,4397,onion,plant,AUS
+221425,1684,all-purpose flour,grain,AUS
+221425,1684,all-purpose flour,grain,AUS
+221425,16157,butter,dairy,AUS
+221425,16319,egg yolk,animal,AUS
+221425,16317,egg,animal,AUS
+221425,5375,bacon,animal,AUS
+221425,16406,ground black pepper,spice,AUS
+221425,16278,milk,dairy,AUS
+221414,16157,butter,dairy,AUS
+221414,4397,onion,plant,AUS
+221414,7428,Worcestershire sauce,condiment,AUS
+221414,1684,all-purpose flour,grain,AUS
+221414,16417,dried thyme,spice,AUS
+221414,16406,ground black pepper,spice,AUS
+221414,3686,ketchup,condiment,AUS
+221414,5140,orange juice,plantproduct,AUS
+221414,5107,lemon juice,plantproduct,AUS
+221414,16396,garlic powder,spice,AUS
+221414,16317,egg,animal,AUS
+221415,4397,onion,plant,AUS
+221415,3686,ketchup,condiment,AUS
+221415,7428,Worcestershire sauce,condiment,AUS
+221415,16403,dried oregano,spice,AUS
+221415,16406,ground black pepper,spice,AUS
+221415,1636,cornstarch,plantproduct,AUS
+221415,16317,egg,animal,AUS
+221416,1526,white sugar,condiment,AUS
+221416,16157,butter,dairy,AUS
+221416,16157,butter,dairy,AUS
+221416,16317,egg,animal,AUS
+221416,1685,self-rising flour,grain,AUS
+221416,16278,milk,dairy,AUS
+221416,16424,vanilla extract,plantproduct,AUS
+221416,1527,confectioners' sugar,condiment,AUS
+221416,16157,butter,dairy,AUS
+221416,3788,flaked coconut,plantproduct,AUS
+221416,16424,vanilla extract,plantproduct,AUS
